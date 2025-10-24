@@ -1,5 +1,6 @@
 ---
-title: "License"
+title: "License - Skylantix Website"
+description: "MIT License for Skylantix website source code. Open source hosting company website available on GitHub."
 layout: "simple"
 ---
 

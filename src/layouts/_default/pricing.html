@@ -1,0 +1,153 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8 mb-12 flex-1">
+    <h1 class="text-4xl font-bold text-center mb-12">{{ .Title }}</h1>
+    <div class="!max-w-none">
+        {{ .Content }}
+    </div>
+</div>
+
+<!-- FAQPage Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What payment methods do you accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We accept all major credit cards and bank transfers. All payments are processed securely. We'll work with you on payment schedules for higher-tier plans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a student discount?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! UChicago and UC Irvine students (and recent grads) get 3 months free on our Self-Hosted Essentials or Managed Apps tiers. Just reach out with proof of enrollment or recent graduation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I need something custom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That's what we do! If you have specific requirements or want to host software not mentioned here, just contact us. We handle any self-hosted software you want to run but don't want to manage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is my data hosted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All infrastructure is in Orange County, California. Your data stays in California, not scattered across Amazon's datacenters. We use Cloudflare for security and DDoS protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of support do I get?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Support is scaled to your tier—from email tickets to direct phone access. You'll talk to a real human (me), not a ticket system. Office hours are available for all tiers, and higher tiers get phone support and faster response times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I upgrade or downgrade my plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! Plans are flexible. Contact us and we'll adjust your hosting to match your needs. No long-term contracts or lock-in."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer refunds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—if you're not satisfied in the first 30 days, we'll refund your money. No questions asked."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Product/Service Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "position": 1,
+      "name": "Self-Hosted Essentials",
+      "description": "Managed hosting for self-hosted apps like Nextcloud, Vaultwarden, Immich, Jellyfin, GitLab, and PhotoPrism",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "price": "15.00",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "15.00",
+          "priceCurrency": "USD",
+          "billingDuration": "P1M"
+        },
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "position": 2,
+      "name": "Managed Apps",
+      "description": "Custom Django, Python, or containerized application hosting with Git-based deployment",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "price": "40.00",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "40.00",
+          "priceCurrency": "USD",
+          "billingDuration": "P1M"
+        },
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "position": 3,
+      "name": "Complex Hosting",
+      "description": "Multi-container setups with databases, caching, and priority support",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "price": "100.00",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "100.00",
+          "priceCurrency": "USD",
+          "billingDuration": "P1M"
+        },
+        "availability": "https://schema.org/InStock"
+      }
+    }
+  ]
+}
+</script>
+{{ end }}

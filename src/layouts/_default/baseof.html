@@ -66,6 +66,7 @@
       "url": "{{ .Site.BaseURL }}",
       "logo": "{{ .Site.Params.logo | absURL }}",
       "description": "{{ .Site.Params.description }}",
+      "foundingDate": "2025",
       "address": {
         "@type": "PostalAddress",
         "addressRegion": "California",
@@ -74,8 +75,35 @@
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "Customer Support",
+        "email": "hello@skylantix.com",
         "availableLanguage": "English"
       },
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Managed Self-Hosted App Hosting",
+            "description": "Fully managed hosting for Nextcloud, Vaultwarden, Immich, and other self-hosted applications"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Django Application Hosting",
+            "description": "Custom Django and Python application hosting with Git-based deployment"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Boutique Infrastructure Management",
+            "description": "White-glove managed infrastructure for complex multi-container setups"
+          }
+        }
+      ],
       "sameAs": [
         {{ with .Site.Params.social.github }}"{{ . }}"{{ end }}{{ with .Site.Params.social.instagram }},
         "{{ . }}"{{ end }}{{ with .Site.Params.social.reddit }},

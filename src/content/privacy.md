@@ -1,6 +1,8 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy - Skylantix"
+description: "Skylantix Privacy Policy: We collect minimal data, never sell your information, and keep everything in California. Privacy-first hosting company."
 layout: "simple"
+robots: "index, follow"
 ---
 
 ## Introduction
