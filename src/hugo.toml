@@ -1,5 +1,5 @@
-baseURL = "https://saasify-demo.chaoming.li/"
-title = "Saasify"
+baseURL = "https://skylanix.com"
+title = "Skylantix"
 defaultContentLanguage = "en"
 
 # Theme Config
@@ -22,7 +22,7 @@ paginatePath = "page"
 
 [params]
   description = ""
-  author = "Chaoming Li"
+  author = "Raphael Bitton"
   logo = "/images/logo.svg"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
@@ -30,8 +30,8 @@ paginatePath = "page"
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Ready to Build Your SaaS Website?"
-    description = "Join companies already using our theme to create beautiful, high-performance websites."
+    title = "Hosting Done Right"
+    description = "Managed infrastructure for Nextcloud, Django apps, and more. Personal support, transparent pricing, zero corporate BS"
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
@@ -44,19 +44,20 @@ paginatePath = "page"
   
   # Social Media Links
   [params.social]
-    linkedin = "https://linkedin.com/in/chaomingli"
-    twitter = "https://twitter.com/lichaoming"
-    bluesky = "https://bsky.app/profile/bsky.app"
-    youtube = "https://youtube.com/@chaomingli"
-    facebook = "https://facebook.com/lichaoming"
-    instagram = "https://instagram.com/lichaoming"
-    github = "https://github.com/chaoming"
-    telegram = "https://t.me/yourchannel"
-    discord = "https://discord.gg/yourinvite"
-    slack = "https://yourteam.slack.com"
-    medium = "https://medium.com/@yourhandle"
-    dribbble = "https://dribbble.com/yourprofile"
-    behance = "https://behance.net/yourprofile"
+    #linkedin = "https://linkedin.com/in/chaomingli"
+    #twitter = "https://twitter.com/lichaoming"
+    #bluesky = "https://bsky.app/profile/bsky.app"
+    #youtube = "https://youtube.com/@chaomingli"
+    #facebook = "https://facebook.com/lichaoming"
+    instagram = "https://instagram.com/skylantix"
+    github = "https://github.com/skylantix"
+    reddit = "https://reddit.com/u/skylantix"
+    #telegram = "https://t.me/yourchannel"
+    #discord = "https://discord.gg/yourinvite"
+    #slack = "https://yourteam.slack.com"
+    #medium = "https://medium.com/@yourhandle"
+    #dribbble = "https://dribbble.com/yourprofile"
+    #behance = "https://behance.net/yourprofile"
   
   # Footer Configuration
   [params.footer]
