@@ -45,9 +45,6 @@ paginatePath = "page"
     [params.cta.primary_button]
       text = "Get Started Free"
       url = "/get-started"
-    [params.cta.secondary_button]
-      text = "Book Demo"
-      url = "/demo"
   
   # Social Media Links
   [params.social]
