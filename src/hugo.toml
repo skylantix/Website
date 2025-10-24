@@ -21,12 +21,18 @@ paginate = 6
 paginatePath = "page"
 
 [params]
-  description = ""
+  description = "Boutique managed hosting for self-hosted apps, Django applications, and custom infrastructure. Personal support, privacy-first hosting in California with transparent pricing."
   author = "Raphael Bitton"
   logo = "/images/logo.png"
+  image = "/images/skylantix-og.png"
   source_code_url = "https://git.rbitton.com/skylantix/Website"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
+  
+  # SEO
+  [params.seo]
+    keywords = ["managed hosting", "self-hosted apps", "Nextcloud hosting", "Django hosting", "privacy-first hosting", "California hosting", "boutique hosting", "personal support"]
+    twitter_site = "@skylantix"
   
   # Global CTA Configuration
   [params.cta]
@@ -150,6 +156,21 @@ paginatePath = "page"
 [build.buildStats]
   enable = true
 
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "robots"]
+  section = ["HTML", "RSS"]
+
+[outputFormats.robots]
+  baseName = "robots"
+  isPlainText = true
+  mediaType = "text/plain"
+  notAlternative = true
+
 [security.funcs]
   getenv = ['^HUGO_', '^CI$']
 
@@ -207,8 +228,12 @@ paginatePath = "page"
     url = "/blog"
     weight = 3
   [[menu.main]]
-    name = "Company"
+    name = "Contact"
+    url = "/contact"
     weight = 4
+  [[menu.main]]
+    name = "Company"
+    weight = 5
     [menu.main.params]
       has_submenu = true
       submenu = [

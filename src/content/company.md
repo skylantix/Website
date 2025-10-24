@@ -1,7 +1,7 @@
 ---
-title: "About Skylantix"
+title: "About Skylantix - Our Story & Mission"
 layout: "company"
-description: "Personal, privacy-first managed hosting from Orange County, California"
+description: "Learn about Skylantix: boutique managed hosting founded by a UChicago student passionate about infrastructure, privacy, and personal service. California-based, honest pricing."
 ---
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}

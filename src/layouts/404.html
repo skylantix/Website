@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-md w-full text-center">
+        <h1 class="text-6xl font-bold text-primary-600 mb-4">404</h1>
+        <h2 class="text-3xl font-bold text-gray-900 mb-4">Page Not Found</h2>
+        <p class="text-xl text-gray-600 mb-8">
+            Sorry, we couldn't find the page you're looking for.
+        </p>
+        <div class="space-y-4">
+            <a href="/" class="inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700">
+                Go Home
+            </a>
+            <div class="text-gray-500">
+                <p>Or check out:</p>
+                <div class="mt-4 space-x-4">
+                    <a href="/pricing" class="text-primary-600 hover:underline">Pricing</a>
+                    <a href="/company" class="text-primary-600 hover:underline">About</a>
+                    <a href="/contact" class="text-primary-600 hover:underline">Contact</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

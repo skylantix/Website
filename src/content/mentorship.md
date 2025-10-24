@@ -1,6 +1,6 @@
 ---
-title: "Mentorship Program"
-description: "Learn production infrastructure and DevOps with hands-on experience managing real customer workloads."
+title: "Infrastructure Mentorship Program - Learn DevOps"
+description: "Remote infrastructure mentorship: Learn Docker, Kubernetes, DevOps with real production workloads. Paid opportunities available. Perfect for CS students."
 layout: "mentorship"
 
 culture_section:

@@ -1,5 +1,6 @@
 ---
-title: Home
+title: "Skylantix - Boutique Managed Hosting | Privacy-First California Hosting"
+description: "Personal, privacy-first managed hosting for self-hosted apps like Nextcloud, Vaultwarden, and custom Django applications. California-based with real human support."
 ---
 
 {{< hero

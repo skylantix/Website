@@ -1,6 +1,6 @@
 ---
-title: "Pricing"
-description: "Simple, transparent pricing for managed hosting"
+title: "Pricing - Affordable Managed Hosting Plans"
+description: "Transparent pricing for managed hosting: Self-hosted apps from $15/mo, Django apps from $40/mo, complex hosting from $100+/mo. No hidden fees, California-based."
 layout: "pricing"
 ---
 
