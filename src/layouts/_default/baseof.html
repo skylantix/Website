@@ -89,12 +89,14 @@
     </div>
 
     <!-- Main Content -->
-    <div class="pt-20">
+    <div class="pt-20 flex-grow">
         {{ block "main" . }}{{ end }}
     </div>
 
     <!-- Footer -->
-    {{ partial "footer" . }}
+    <div class="mt-auto">
+        {{ partial "footer" . }}
+    </div>
 
     <!-- Language Preference Script -->
     {{ if hugo.IsMultilingual }}

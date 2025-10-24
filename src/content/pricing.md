@@ -13,7 +13,6 @@ layout: "pricing"
             "name": "Managed Apps",
             "price": "40",
             "description": "Custom Django, Python, or containerized applications.",
-            "featured": true,
             "features": [
                 "Custom apps & databases",
                 "Git-based deployment",
@@ -29,7 +28,7 @@ layout: "pricing"
         },
         {
             "name": "Complex Hosting",
-            "price": "100-200",
+            "price": "100+",
             "description": "Multi-container setups with databases, caching, and more.",
             "features": [
                 "Complex architectures",
@@ -67,50 +66,72 @@ layout: "pricing"
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8 mb-16">
     <div class="border-2 border-gray-200 rounded-2xl p-8 bg-white shadow-sm">
-        <div class="grid md:grid-cols-2 gap-8 items-center">
-            <div>
-                <h3 class="text-2xl font-bold text-gray-900 mb-2">Nextcloud Shared</h3>
-                <p class="text-gray-600 mb-4">Your private cloud for files, photos, and documents.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+            <div class="flex flex-col">
+                <h3 class="text-2xl font-bold text-gray-900 mb-2">Self-Hosted Essentials</h3>
+                <p class="text-gray-600 mb-4">Pick your app, we handle the rest.</p>
                 <p class="flex items-baseline mb-6">
                     <span class="text-4xl font-bold text-gray-900">$15</span>
                     <span class="ml-2 text-gray-500">/month</span>
                 </p>
-                <a href="/contact" class="inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700 hover:scale-105">Get Started</a>
+                <a href="/contact" class="w-full md:w-auto inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700 hover:scale-105">Get Started</a>
             </div>
             <div>
-                <ul class="space-y-4 text-gray-600">
+                <p class="text-sm font-semibold text-gray-700 mb-3">Choose one app from our curated list:</p>
+                <ul class="space-y-2 text-gray-600 mb-4 text-sm">
                     <li class="flex items-start">
-                        <svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
-                        </svg>
-                        <span class="ml-3">256GB storage on shared instance</span>
+                        <span class="mr-2 mt-0.5 flex-shrink-0">•</span>
+                        <span><strong>Nextcloud</strong> - Files, photos, calendar & contacts</span>
                     </li>
                     <li class="flex items-start">
-                        <svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
-                        </svg>
-                        <span class="ml-3">Calendar & contacts sync</span>
+                        <span class="mr-2 mt-0.5 flex-shrink-0">•</span>
+                        <span><strong>Vaultwarden</strong> - Password manager (Bitwarden-compatible)</span>
                     </li>
                     <li class="flex items-start">
-                        <svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
-                        </svg>
-                        <span class="ml-3">Email ticket support (48hr response)</span>
+                        <span class="mr-2 mt-0.5 flex-shrink-0">•</span>
+                        <span><strong>Immich</strong> - Photo backup & management</span>
                     </li>
                     <li class="flex items-start">
-                        <svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
-                        </svg>
-                        <span class="ml-3">Access to public office hours</span>
+                        <span class="mr-2 mt-0.5 flex-shrink-0">•</span>
+                        <span><strong>Jellyfin</strong> - Media streaming</span>
                     </li>
                     <li class="flex items-start">
-                        <svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
-                        </svg>
-                        <span class="ml-3">Automated backups</span>
+                        <span class="mr-2 mt-0.5 flex-shrink-0">•</span>
+                        <span><strong>GitLab</strong> - Git repository hosting</span>
                     </li>
                     <li class="flex items-start">
-                        <svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24">
+                        <span class="mr-2 mt-0.5 flex-shrink-0">•</span>
+                        <span><strong>PhotoPrism</strong> - AI-powered photo management</span>
+                    </li>
+                </ul>
+                <p class="text-sm text-gray-500 italic mb-4">Need something else? Just ask - we love new challenges.</p>
+                <ul class="space-y-3 text-gray-600 text-sm">
+                    <li class="flex items-start">
+                        <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+                        </svg>
+                        <span class="ml-3">256GB storage included</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+                        </svg>
+                        <span class="ml-3">We handle setup, updates & backups</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+                        </svg>
+                        <span class="ml-3">Email support (48hr response)</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+                        </svg>
+                        <span class="ml-3">Office hours access</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
                             <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
                         </svg>
                         <span class="ml-3">California-based servers</span>
@@ -132,7 +153,7 @@ layout: "pricing"
         },
         {
             "question": "Is there a student discount?",
-            "answer": "Yes! UChicago and UC Irvine students (and recent grads) get 3 months free on our Nextcloud or Managed Apps tiers. Just reach out with proof of enrollment or recent graduation."
+            "answer": "Yes! UChicago and UC Irvine students (and recent grads) get 3 months free on our Self-Hosted Essentials or Managed Apps tiers. Just reach out with proof of enrollment or recent graduation."
         },
         {
             "question": "What if I need something custom?",

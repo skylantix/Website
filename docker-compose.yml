@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  skylantix-website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: skylantix-website
+    restart: unless-stopped
+    ports:
+      - "1112:80"
+    labels:
+      - "com.centurylinklabs.watchtower.enable=true"
+    networks:
+      - cloudflared-net
+
+networks:
+  cloudflared-net:
+    external: true

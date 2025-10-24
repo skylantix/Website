@@ -1,3 +1,19 @@
+# Hugo build outputs
 public/
 src/public/
 src/resources/
+
+# Hugo cache
+src/.hugo_build.lock
+
+# Node
+src/node_modules/
+
+# Context files
+BUSINESS_DISCUSSION.md
+CONTEXT.md
+
+# OS files
+.DS_Store
+Thumbs.db
+

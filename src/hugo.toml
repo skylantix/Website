@@ -1,4 +1,4 @@
-baseURL = "https://skylanix.com"
+baseURL = "https://skylantix.com"
 title = "Skylantix"
 defaultContentLanguage = "en"
 
@@ -9,7 +9,7 @@ theme = "hugo-saasify-theme"
 enableEmoji = true
 
 # Enable Git info for lastmod
-enableGitInfo = true
+enableGitInfo = false
 
 # Enable taxonomies
 [taxonomies]
@@ -24,6 +24,7 @@ paginatePath = "page"
   description = ""
   author = "Raphael Bitton"
   logo = "/images/logo.png"
+  source_code_url = "https://git.rbitton.com/skylantix/Website"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -101,8 +102,8 @@ paginatePath = "page"
   # Blog configuration
   [params.blog]
     enable = true
-    title = "Latest Articles"
-    subtitle = "Learn more about web development and best practices"
+    title = "Blog"
+    subtitle = "Insights on self-hosting, infrastructure, and privacy"
     
     # Blog CTA configuration
     [params.blog.cta]

@@ -4,7 +4,7 @@ title: Home
 
 {{< hero
     headline="<div class='inline-block bg-blue-600 text-white text-sm font-semibold px-4 py-2 rounded-full mb-4'>🎓 3 Months Free for UChicago & UC Irvine Students + Recent Grads</div><br>Managed Hosting That Actually Works for You"
-    sub_headline="From personal Nextcloud storage to custom Django apps—boutique hosting for everyone. Personal support from a real human, privacy-first infrastructure, and transparent pricing."
+    sub_headline="From self-hosted apps to custom Django deployments—boutique hosting with a personal touch. Real human support, privacy-first infrastructure, and transparent pricing."
     primary_button_text="Get Started"
     primary_button_url="/contact/"
     secondary_button_text="View Pricing"
@@ -22,12 +22,12 @@ title: Home
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-gradient-to-br from-blue-50 to-blue-100 p-8 rounded-lg shadow-sm hover:shadow-md transition-shadow">
             <div class="text-blue-600 font-bold text-sm mb-2">STARTING AT $15/MONTH</div>
-            <h3 class="text-2xl font-bold mb-3">Nextcloud Storage</h3>
-            <p class="text-gray-600 mb-4">Your private cloud for files, photos, and documents. Escape Google Drive without sacrificing convenience.</p>
+            <h3 class="text-2xl font-bold mb-3">Self-Hosted Apps</h3>
+            <p class="text-gray-600 mb-4">Pick your app, we handle the rest. Nextcloud, Vaultwarden, Immich, Jellyfin, GitLab, PhotoPrism, and more.</p>
             <ul class="text-sm text-gray-600 space-y-2">
-                <li>✓ 256GB storage</li>
-                <li>✓ Calendar & contacts sync</li>
-                <li>✓ Fully managed & backed up</li>
+                <li>✓ 256GB storage included</li>
+                <li>✓ Setup, updates & backups</li>
+                <li>✓ Choose from curated list</li>
                 <li>✓ California-based servers</li>
             </ul>
         </div>
@@ -88,7 +88,7 @@ title: Home
 
 {{< feature
     title="Actually Managed Infrastructure"
-    description="We handle everything—deployment, updates, backups, monitoring, security. Whether it's your personal Nextcloud or a custom app, we take care of it. Protected by Cloudflare for DDoS protection and SSL. No DevOps knowledge required, no waking up to broken servers at 2am."
+    description="We handle everything—deployment, updates, backups, monitoring, security. Whether it's Nextcloud, a password manager, or a custom app, we take care of it. Protected by Cloudflare for DDoS protection and SSL. No DevOps knowledge required, no waking up to broken servers at 2am."
     badge="Fully Managed"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
