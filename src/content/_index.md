@@ -3,7 +3,7 @@ title: Home
 ---
 
 {{< hero
-    headline="Managed Hosting That Actually Works for You"
+    headline="<div class='inline-block bg-blue-600 text-white text-sm font-semibold px-4 py-2 rounded-full mb-4'>🎓 3 Months Free for UChicago & UC Irvine Students + Recent Grads</div><br>Managed Hosting That Actually Works for You"
     sub_headline="From personal Nextcloud storage to custom Django apps—boutique hosting for everyone. Personal support from a real human, privacy-first infrastructure, and transparent pricing."
     primary_button_text="Get Started"
     primary_button_url="/contact/"

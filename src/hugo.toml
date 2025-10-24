@@ -23,7 +23,7 @@ paginatePath = "page"
 [params]
   description = ""
   author = "Raphael Bitton"
-  logo = "/images/logo.svg"
+  logo = "/images/logo.png"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -72,7 +72,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "/images/logo.png"
     
     # Menu configuration
     [params.header.menu]
@@ -93,11 +93,6 @@ paginatePath = "page"
     
     # Button configuration
     [params.header.buttons]
-      # Sign In button
-      [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "/signin"
-      
       # Get Started button
       [params.header.buttons.getStarted]
         text = "Get Started"
@@ -198,9 +193,9 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Performance", url = "/features/performance/" },
-        { name = "Design System", url = "/features/design-system/" },
-        { name = "Developer Experience", url = "/features/developer-experience/" }
+        { name = "Personal Service", url = "/features/personal-service/" },
+        { name = "Privacy-First", url = "/features/privacy-first/" },
+        { name = "Managed Infrastructure", url = "/features/managed-infrastructure/" }
       ]
   [[menu.main]]
     name = "Pricing"
@@ -217,21 +212,21 @@ paginatePath = "page"
       has_submenu = true
       submenu = [
         { name = "About Us", url = "/company/" },
-        { name = "Careers", url = "/careers/" }
+        { name = "Mentorship", url = "/mentorship/" }
       ]
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
-    name = "Performance"
-    url = "/features/performance/"
+    name = "Personal Service"
+    url = "/features/personal-service/"
     weight = 1
   [[menu.footer_column_1]]
-    name = "Design System"
-    url = "/features/design-system/"
+    name = "Privacy-First"
+    url = "/features/privacy-first/"
     weight = 2
   [[menu.footer_column_1]]
-    name = "Developer Experience"
-    url = "/features/developer-experience/"
+    name = "Managed Infrastructure"
+    url = "/features/managed-infrastructure/"
     weight = 3
 
   # Footer Column 2 Menu
@@ -244,8 +239,8 @@ paginatePath = "page"
     url = "/company"
     weight = 2
   [[menu.footer_column_2]]
-    name = "Careers"
-    url = "/careers"
+    name = "Mentorship"
+    url = "/mentorship"
     weight = 3
 
   # Footer Column 3 Menu
