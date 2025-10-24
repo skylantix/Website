@@ -65,16 +65,16 @@ layout: "pricing"
 {{< /pricing-table-1 >}}
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8 mb-16">
-    <div class="border-2 border-gray-200 rounded-2xl p-8 bg-white shadow-sm">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+    <div class="border-2 border-gray-200 rounded-2xl p-6 md:p-8 bg-white shadow-sm">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 items-start">
             <div class="flex flex-col">
-                <h3 class="text-2xl font-bold text-gray-900 mb-2">Self-Hosted Essentials</h3>
-                <p class="text-gray-600 mb-4">Pick your app, we handle the rest.</p>
-                <p class="flex items-baseline mb-6">
-                    <span class="text-4xl font-bold text-gray-900">$15</span>
-                    <span class="ml-2 text-gray-500">/month</span>
+                <h3 class="text-xl sm:text-2xl font-bold text-gray-900 mb-2">Self-Hosted Essentials</h3>
+                <p class="text-sm sm:text-base text-gray-600 mb-4">Pick your app, we handle the rest.</p>
+                <p class="flex items-baseline mb-4 md:mb-6">
+                    <span class="text-3xl sm:text-4xl font-bold text-gray-900">$15</span>
+                    <span class="ml-2 text-sm sm:text-base text-gray-500">/month</span>
                 </p>
-                <a href="/contact" class="w-full md:w-auto inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700 hover:scale-105">Get Started</a>
+                <a href="/contact" class="w-full md:w-auto inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700 hover:scale-105 text-sm sm:text-base">Get Started</a>
             </div>
             <div>
                 <p class="text-sm font-semibold text-gray-700 mb-3">Choose one app from our curated list:</p>

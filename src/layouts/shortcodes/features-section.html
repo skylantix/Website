@@ -1,0 +1,17 @@
+{{/* Features Section Wrapper Shortcode */}}
+{{ $title := .Get "title" | default "Powerful Features for Modern Teams" }}
+{{ $description := .Get "description" | default "Discover how our platform helps you understand and optimize every aspect of your user experience." }}
+
+<section class="section py-12 md:py-16">
+    <div class="container px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-12 md:mb-16">
+            <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 md:mb-6">{{ $title }}</h2>
+            <p class="text-lg sm:text-xl text-gray-600">{{ $description }}</p>
+        </div>
+
+        <!-- Feature Grid -->
+        <div class="space-y-16 md:space-y-24 lg:space-y-32">
+            {{ .Inner }}
+        </div>
+    </div>
+</section>

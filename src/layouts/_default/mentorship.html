@@ -2,10 +2,10 @@
 <div class="bg-gray-50">
     <!-- Hero Section -->
     <div class="bg-gradient-to-r from-primary-600 to-primary-700">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20 md:py-24">
             <div class="text-center">
-                <h1 class="text-4xl font-bold text-white mb-6">{{ .Title }}</h1>
-                <p class="text-xl text-white max-w-2xl mx-auto leading-relaxed">{{ .Description }}</p>
+                <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4 md:mb-6">{{ .Title }}</h1>
+                <p class="text-lg sm:text-xl text-white max-w-2xl mx-auto leading-relaxed">{{ .Description }}</p>
             </div>
         </div>
     </div>
@@ -44,18 +44,18 @@
                 </div>
                 {{ else }}
                 <div class="max-w-4xl mx-auto">
-                    <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">{{ .title }}</h2>
+                    <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-6 md:mb-8 text-center">{{ .title }}</h2>
                     <div class="space-y-6">
                         {{ range .values }}
                         <div class="flex items-start">
                             <div class="flex-shrink-0">
-                                <div class="flex items-center justify-center h-12 w-12 rounded-md bg-primary-600 text-white text-2xl">
+                                <div class="flex items-center justify-center h-10 w-10 sm:h-12 sm:w-12 rounded-md bg-primary-600 text-white text-xl sm:text-2xl">
                                     {{ .icon }}
                                 </div>
                             </div>
-                            <div class="ml-4">
-                                <h3 class="text-xl font-semibold text-gray-900">{{ .title }}</h3>
-                                <p class="mt-2 text-gray-600">{{ .description }}</p>
+                            <div class="ml-3 sm:ml-4">
+                                <h3 class="text-lg sm:text-xl font-semibold text-gray-900">{{ .title }}</h3>
+                                <p class="mt-2 text-sm sm:text-base text-gray-600">{{ .description }}</p>
                             </div>
                         </div>
                         {{ end }}
@@ -69,15 +69,15 @@
 
     <!-- Benefits Section -->
     {{ with .Params.benefits_section }}
-    <div class="bg-white py-16">
+    <div class="bg-white py-12 md:py-16">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">{{ .title }}</h2>
-            <div class="grid md:grid-cols-3 gap-8">
+            <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 text-center mb-8 md:mb-12">{{ .title }}</h2>
+            <div class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
                 {{ range .benefits }}
-                <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-shadow duration-200">
-                    <div class="text-2xl mb-4">{{ .icon }}</div>
-                    <h3 class="text-xl font-semibold text-gray-900 mb-2">{{ .title }}</h3>
-                    <p class="text-gray-600">{{ .description }}</p>
+                <div class="bg-gray-50 rounded-lg p-5 md:p-6 hover:shadow-md transition-shadow duration-200">
+                    <div class="text-xl sm:text-2xl mb-3 md:mb-4">{{ .icon }}</div>
+                    <h3 class="text-lg sm:text-xl font-semibold text-gray-900 mb-2">{{ .title }}</h3>
+                    <p class="text-sm sm:text-base text-gray-600">{{ .description }}</p>
                 </div>
                 {{ end }}
             </div>

@@ -5,84 +5,109 @@ layout: "simple"
 
 ## Introduction
 
-At Saasify, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service.
+At Skylantix, privacy isn't just a policy—it's why we exist. We're a privacy-first hosting company. This policy explains exactly what data we collect, why, and what we do (and don't do) with it.
+
+**Short version:** We collect the absolute minimum needed to run your hosting, we don't sell anything to anyone, and your data stays in California.
 
 ---
 
-## Information We Collect
+## What We Collect
 
-### Personal Information
+### Account & Billing Information
+* **Email address** - To communicate with you about your service
+* **Name** - For billing and support
+* **Billing information** - Processed through secure payment providers (we don't store credit card numbers)
 
-* **Name and email address**
-* **Billing information**
-* **Usage data and analytics**
-* **Communication preferences**
+### Technical Information
+* **IP addresses** - For security and abuse prevention
+* **Server logs** - Standard nginx access logs (automatically rotated and deleted after 30 days)
+* **Usage metrics** - Disk space, bandwidth, resource usage (to ensure we're meeting your needs)
 
-### Automatically Collected Information
-
-* **IP addresses**
-* **Browser type**
-* **Device information**
-* **Cookies and tracking technologies**
+### What We DON'T Collect
+* No analytics tracking on our website
+* No cookies except essential session cookies
+* No advertising IDs or tracking pixels
+* No data mining or behavioral profiling
+* We don't read your hosted data (it's yours, not ours)
 
 ---
 
 ## How We Use Your Information
 
-We use the collected information for:
+We use your information ONLY for:
 
-* **Service Delivery**  
-  Providing and maintaining our service
-* **Updates**  
-  Notifying you about changes to our service
-* **Support**  
-  Providing customer support
-* **Transactions**  
-  Processing your transactions
-* **Analytics**  
-  Analyzing usage patterns to improve our service
+* **Service Delivery** - Running and maintaining your hosting
+* **Billing** - Processing payments and sending invoices
+* **Support** - Responding to your questions and issues
+* **Security** - Preventing abuse and securing infrastructure
+* **Legal Compliance** - Meeting legal obligations (only when required by law)
+
+**We do NOT:**
+* Sell your data to anyone, ever
+* Use your data for advertising
+* Share your information with third parties (except payment processors and only for billing)
+* Train AI models on your data
+* Mine your data for any purpose
 
 ---
 
-## Data Security
+## Data Storage & Security
 
-We implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.
+* **Location:** All data is stored in Orange County, California, USA
+* **Encryption:** Data at rest is encrypted with LUKS; data in transit uses SSL/TLS
+* **Backups:** Automated encrypted backups following 3-2-1 rule
+* **Access:** Only the infrastructure administrator (me) has access, and only when necessary for support or maintenance
+* **Retention:** Your data is kept as long as you're a customer, then securely deleted within 30 days of cancellation
 
 ---
 
 ## Third-Party Services
 
-We may employ third-party companies and individuals to:
+We work with minimal third parties:
 
-* Facilitate our service
-* Provide service-related services
-* Assist in analyzing service usage
+* **Payment Processors** - For billing (they have their own privacy policies)
+* **Cloudflare** - For DDoS protection and SSL (they see your IP when you access your hosted services)
+
+That's it. We don't use analytics services, advertising networks, or data brokers.
 
 ---
 
 ## Your Rights
 
-You have the right to:
+You have complete control over your data:
 
-* **Access** your personal data
-* **Correct** inaccurate data
-* **Request deletion** of your data
-* **Object** to data processing
-* **Export** your data
+* **Access** - Request a copy of all data we have about you
+* **Correction** - Fix any inaccurate information
+* **Deletion** - Request deletion of your data (we'll delete within 30 days)
+* **Export** - Download all your hosted data anytime
+* **Portability** - We'll help you migrate to another provider if you want to leave
+
+**To exercise these rights:** Just email hello@skylantix.com
+
+---
+
+## Student Data
+
+If you're using our student discount, we only collect proof of enrollment to verify eligibility. This is deleted after verification.
 
 ---
 
 ## Changes to This Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+If we change this policy, we'll:
+* Email you directly about significant changes
+* Post the updated policy here with a new "Last Updated" date
+* Give you 30 days notice before changes take effect
+
+We won't make changes that reduce your privacy protections without your explicit consent.
 
 ---
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us at:
+Questions about privacy? We're happy to explain anything.
 
-* **Email:** privacy@saasify.com
-* **Address:** 123 Tech Street, San Francisco, CA 94105
+* **Email:** hello@skylantix.com
+* **Location:** Orange County, California
 
-*Last Updated: January 2024*
+*Last Updated: October 24, 2025*

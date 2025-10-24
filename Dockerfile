@@ -1,5 +1,5 @@
 # Build stage
-FROM hugomods/hugo:exts as builder
+FROM hugomods/hugo:exts AS builder
 
 WORKDIR /src
 
