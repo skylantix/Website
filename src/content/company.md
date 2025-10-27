@@ -36,6 +36,10 @@ description: "Learn about Skylantix: boutique managed hosting founded by a UChic
             <p>
                 This is a one-person operation by design. Small, focused, and excellent at what we do: managing your infrastructure so you don't have to.
             </p>
+            <figure class="mx-auto text-center">
+                <img src="/images/airplane.png" alt="Skylantix Airplane" class="mx-auto" />
+                <figcaption class="text-sm text-gray-500 mt-2"><a href="https://rbitton.com">Raphael Bitton</a>, Founder</figcaption>
+            </figure>
         </div>
     </div>
 {{< /section-container >}}

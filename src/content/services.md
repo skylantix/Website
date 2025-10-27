@@ -15,7 +15,53 @@ layout: "services"
 
 <div class="mb-20">
 <h2 class="text-3xl font-bold text-gray-900 mb-4 text-center">Self-Hosted Essentials</h2>
-<p class="text-lg text-gray-600 mb-12 text-center max-w-3xl mx-auto">Pick your app, we handle everything else. Each application includes 256GB storage, automatic updates, daily backups, SSL certificates, and email support.</p>
+<p class="text-lg text-gray-600 mb-12 text-center max-w-3xl mx-auto">Pick your app, we handle everything else. Each application includes automatic updates, daily backups, SSL certificates, and email support.</p>
+
+<div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow border-2 border-blue-200 p-6 mb-6">
+<div class="flex items-start justify-between mb-4">
+<div>
+<h3 class="text-xl font-bold text-gray-900">Nextcloud</h3>
+<p class="text-sm text-gray-600 mt-1">Complete Google Workspace Replacement - Docs, Email, Meets, Photos, Contacts & More</p>
+</div>
+<div class="text-right">
+<div class="text-3xl font-bold text-blue-600">$15</div>
+<div class="text-xs text-gray-500">/month</div>
+</div>
+</div>
+<ul class="text-sm text-gray-700 space-y-2 mb-4">
+<li class="flex items-start">
+<svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+<path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+</svg>
+<span>File sync & storage (180 GB)</span>
+</li>
+<li class="flex items-start">
+<svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+<path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+</svg>
+<span>Calendar & contacts</span>
+</li>
+<li class="flex items-start">
+<svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+<path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+</svg>
+<span>Office documents & collaboration</span>
+</li>
+<li class="flex items-start">
+<svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+<path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+</svg>
+<span>Video calls & conferencing</span>
+</li>
+<li class="flex items-start">
+<svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+<path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
+</svg>
+<span>Email client & @mail.skylantix.com email (20 GB)</span>
+</li>
+</ul>
+<a href="/contact" class="block w-full text-center px-4 py-2 rounded-lg font-bold transition bg-blue-600 text-white hover:bg-blue-700 text-sm">Get Started</a>
+</div>
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
 
@@ -37,30 +83,15 @@ layout: "services"
 <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow border-2 border-gray-100 p-6">
 <div class="flex items-start justify-between mb-4">
 <div>
-<h3 class="text-xl font-bold text-gray-900">Jellyfin</h3>
-<p class="text-sm text-gray-600 mt-1">Media Streaming</p>
+<h3 class="text-xl font-bold text-gray-900">Gitea</h3>
+<p class="text-sm text-gray-600 mt-1">Git Repository Hosting</p>
 </div>
 <div class="text-right">
-<div class="text-3xl font-bold text-blue-600">$12</div>
+<div class="text-3xl font-bold text-blue-600">$8</div>
 <div class="text-xs text-gray-500">/month</div>
 </div>
 </div>
-<p class="text-gray-700 mb-4 text-sm">Stream your movies, TV shows, and music. Your personal Netflix with no subscription fees or tracking.</p>
-<a href="/contact" class="block w-full text-center px-4 py-2 rounded-lg font-bold transition bg-blue-600 text-white hover:bg-blue-700 text-sm">Get Started</a>
-</div>
-
-<div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow border-2 border-gray-100 p-6">
-<div class="flex items-start justify-between mb-4">
-<div>
-<h3 class="text-xl font-bold text-gray-900">PhotoPrism</h3>
-<p class="text-sm text-gray-600 mt-1">Photo Management</p>
-</div>
-<div class="text-right">
-<div class="text-3xl font-bold text-blue-600">$15</div>
-<div class="text-xs text-gray-500">/month</div>
-</div>
-</div>
-<p class="text-gray-700 mb-4 text-sm">AI-powered photo management with automatic organization, facial recognition, and advanced search.</p>
+<p class="text-gray-700 mb-4 text-sm">Lightweight Git hosting with 20 repositories. Free with all higher tiers. Self-hosted GitHub alternative.</p>
 <a href="/contact" class="block w-full text-center px-4 py-2 rounded-lg font-bold transition bg-blue-600 text-white hover:bg-blue-700 text-sm">Get Started</a>
 </div>
 
@@ -71,41 +102,11 @@ layout: "services"
 <p class="text-sm text-gray-600 mt-1">Photo Backup</p>
 </div>
 <div class="text-right">
-<div class="text-3xl font-bold text-blue-600">$15</div>
+<div class="text-3xl font-bold text-blue-600">$12</div>
 <div class="text-xs text-gray-500">/month</div>
 </div>
 </div>
-<p class="text-gray-700 mb-4 text-sm">Google Photos alternative with mobile apps, automatic backup, AI search, and photo management.</p>
-<a href="/contact" class="block w-full text-center px-4 py-2 rounded-lg font-bold transition bg-blue-600 text-white hover:bg-blue-700 text-sm">Get Started</a>
-</div>
-
-<div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow border-2 border-blue-200 p-6">
-<div class="flex items-start justify-between mb-4">
-<div>
-<h3 class="text-xl font-bold text-gray-900">Nextcloud</h3>
-<p class="text-sm text-gray-600 mt-1">Complete Cloud Suite</p>
-</div>
-<div class="text-right">
-<div class="text-3xl font-bold text-blue-600">$15</div>
-<div class="text-xs text-gray-500">/month</div>
-</div>
-</div>
-<p class="text-gray-700 mb-4 text-sm">Full-featured cloud platform: file sync, calendar, contacts, office documents, and collaboration tools. Includes 250 GB and an @skylantix.email email.</p>
-<a href="/contact" class="block w-full text-center px-4 py-2 rounded-lg font-bold transition bg-blue-600 text-white hover:bg-blue-700 text-sm">Get Started</a>
-</div>
-
-<div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow border-2 border-gray-100 p-6">
-<div class="flex items-start justify-between mb-4">
-<div>
-<h3 class="text-xl font-bold text-gray-900">GitLab</h3>
-<p class="text-sm text-gray-600 mt-1">DevOps Platform</p>
-</div>
-<div class="text-right">
-<div class="text-3xl font-bold text-blue-600">$30</div>
-<div class="text-xs text-gray-500">/month</div>
-</div>
-</div>
-<p class="text-gray-700 mb-4 text-sm">Complete DevOps platform with Git repositories, CI/CD pipelines, issue tracking, and more.</p>
+<p class="text-gray-700 mb-4 text-sm">Google Photos alternative with mobile apps, automatic backup, AI search, and photo management. Includes 200 GB storage.</p>
 <a href="/contact" class="block w-full text-center px-4 py-2 rounded-lg font-bold transition bg-blue-600 text-white hover:bg-blue-700 text-sm">Get Started</a>
 </div>
 
@@ -136,7 +137,7 @@ layout: "services"
 <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
 <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/>
 </svg>
-<span class="text-sm text-gray-700">Daily backups</span>
+<span class="text-sm text-gray-700">RAID 10 backups</span>
 </div>
 <div class="flex items-start">
 <svg class="h-5 w-5 flex-shrink-0 text-blue-500 mt-0.5 mr-2" fill="currentColor" viewBox="0 0 24 24">
@@ -641,6 +642,30 @@ We Don't Do
 </span>
 </summary>
 <p class="mt-3 text-gray-600 px-4">Yes! We're compatible with GitHub Actions and GitLab CI/CD pipelines. Send us your Git repo and we'll handle deployment from your existing workflows. Makes updating your apps as simple as pushing to your repository.</p>
+</details>
+
+<details class="group">
+<summary class="flex justify-between items-center cursor-pointer list-none p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+<span class="font-semibold text-gray-900">What about uptime and SLAs?</span>
+<span class="transition group-open:rotate-180">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+</svg>
+</span>
+</summary>
+<p class="mt-3 text-gray-600 px-4">We're honest about what we are: a boutique hosting company, not AWS. We aim for high reliability with redundant internet (fiber + cable + 5G backup) and solar + battery power, but we don't claim 99.99% uptime. If you need enterprise-level SLAs, we're probably not the right fit.</p>
+</details>
+
+<details class="group">
+<summary class="flex justify-between items-center cursor-pointer list-none p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+<span class="font-semibold text-gray-900">What infrastructure do you use?</span>
+<span class="transition group-open:rotate-180">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+</svg>
+</span>
+</summary>
+<p class="mt-3 text-gray-600 px-4">Everything runs on Debian Linux with LUKS encrypted drives for data security. We offer no-RAID configurations (single disk) and software RAID1 (mirrored) configurations for redundancy. Hourly snapshots provide point-in-time recovery, and all servers are fronted by Cloudflare for security and DDoS protection.</p>
 </details>
 
 <details class="group">

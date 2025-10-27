@@ -1,0 +1,158 @@
+{{ define "main" }}
+<div class="flex-1">
+    <div class="!max-w-none">
+        {{ .Content }}
+    </div>
+</div>
+
+<!-- Product/Service Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "position": 1,
+      "name": "Self-Hosted Essentials",
+      "description": "Managed hosting for self-hosted apps like Nextcloud, Vaultwarden, Immich, Jellyfin, GitLab, and PhotoPrism with 256GB storage, automatic updates, backups, and SSL certificates.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "price": "15.00",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "15.00",
+          "priceCurrency": "USD",
+          "billingDuration": "P1M"
+        },
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "position": 2,
+      "name": "Managed Apps",
+      "description": "Custom Django, Python, Node.js, or containerized application hosting with databases, Git-based deployment, CI/CD integration, and 24-hour support.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "price": "40.00",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "40.00",
+          "priceCurrency": "USD",
+          "billingDuration": "P1M"
+        },
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "position": 3,
+      "name": "Complex Hosting",
+      "description": "Multi-container architectures with microservices, caching layers, message queues, multiple databases, higher resources, and priority 4-12 hour support.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "price": "100.00",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "100.00",
+          "priceCurrency": "USD",
+          "billingDuration": "P1M"
+        },
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "position": 4,
+      "name": "Boutique/Dedicated Hosting",
+      "description": "White-glove concierge service with dedicated hardware, custom architecture, 24/7 direct access, proactive monitoring, and premium hands-on support.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skylantix"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Service Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Managed Hosting",
+  "provider": {
+    "@type": "Organization",
+    "name": "Skylantix",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Managed Hosting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Self-Hosted Essentials",
+          "description": "Managed hosting for popular self-hosted applications"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Managed Apps",
+          "description": "Custom application hosting and deployment"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Complex Hosting",
+          "description": "Multi-container infrastructure hosting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Boutique/Dedicated",
+          "description": "Dedicated hardware with white-glove service"
+        }
+      }
+    ]
+  }
+}
+</script>
+{{ end }}

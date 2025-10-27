@@ -9,7 +9,7 @@ description: "Personal, privacy-first managed hosting for self-hosted apps like 
     primary_button_text="Get Started"
     primary_button_url="/get-started/"
     secondary_button_text="View Pricing"
-    secondary_button_url="/pricing/"
+    secondary_button_url="/services/"
     hero_image="/images/hero-dashboard.svg"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
@@ -70,7 +70,7 @@ description: "Personal, privacy-first managed hosting for self-hosted apps like 
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="/pricing/"
+    buttonLink="/services/"
     features="Real human support,Public office hours,Scaled support tiers,Direct communication"
     imagePosition="right"
 >}}
@@ -94,7 +94,7 @@ description: "Personal, privacy-first managed hosting for self-hosted apps like 
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="View Services"
-    buttonLink="/pricing/"
+    buttonLink="/services/"
     features="End-to-end management,Cloudflare security,Automated backups,24/7 monitoring"
     imagePosition="right"
 >}}
