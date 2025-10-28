@@ -21,7 +21,7 @@ layout: "services"
 <div class="bg-white rounded-2xl shadow-lg p-8 border-2 border-purple-100 hover:shadow-xl transition-shadow">
 <h3 class="text-2xl font-bold text-gray-900 mb-3">Managed Apps</h3>
 <div class="flex items-center justify-between mb-4">
-<p class="text-3xl font-bold text-purple-600">$40<span class="text-lg text-gray-500">/mo</span></p>
+<p class="text-3xl font-bold text-purple-600">$60<span class="text-lg text-gray-500">/mo</span></p>
 <span class="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-bold px-3 py-1 rounded-full">Student Discount</span>
 </div>
 <p class="text-gray-600 mb-6">Django, Python, Node.js, or containerized applications with databases and CI/CD.</p>
@@ -30,7 +30,7 @@ layout: "services"
 
 <div class="bg-white rounded-2xl shadow-lg p-8 border-2 border-indigo-100 hover:shadow-xl transition-shadow">
 <h3 class="text-2xl font-bold text-gray-900 mb-3">Complex Hosting</h3>
-<p class="text-3xl font-bold text-indigo-600 mb-4">$100+<span class="text-lg text-gray-500">/mo</span></p>
+<p class="text-3xl font-bold text-indigo-600 mb-4">$200-400<span class="text-lg text-gray-500">/mo</span></p>
 <p class="text-gray-600 mb-6">Multi-container architectures with microservices, caching, message queues, and priority support.</p>
 <a href="/hosting-tiers" class="block w-full text-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-indigo-600 text-white hover:bg-indigo-700">Learn More</a>
 </div>
@@ -75,7 +75,7 @@ layout: "services"
 <p class="text-xl font-bold text-blue-600">$3<span class="text-sm text-gray-500">/mo</span></p>
 </div>
 </div>
-<p class="text-sm text-gray-600 italic mb-4">All apps include RAID 10 backups, SSL, automatic updates, and email support. Don't see what you need? <a href="/contact" class="text-blue-600 hover:underline">Contact us</a> about other applications!</p>
+<p class="text-sm text-gray-600 italic mb-4">All apps include RAID 10 backups, SSL, updates are manually done with care, and email support. Don't see what you need? <a href="/contact" class="text-blue-600 hover:underline">Contact us</a> about other applications!</p>
 <a href="/self-hosted-essentials" class="block w-full text-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-blue-600 text-white hover:bg-blue-700">Learn More</a>
 </div>
 
@@ -243,17 +243,7 @@ We Don't Do
 <p class="mt-3 text-gray-600 px-4">Support is scaled to your tier—from email tickets to direct phone access. You'll talk to a real human (me), not a ticket system. Office hours are available for all tiers, and higher tiers get phone support and faster response times.</p>
 </details>
 
-<details class="group">
-<summary class="flex justify-between items-center cursor-pointer list-none p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
-<span class="font-semibold text-gray-900">Can I upgrade or downgrade my plan?</span>
-<span class="transition group-open:rotate-180">
-<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-</svg>
-</span>
-</summary>
-<p class="mt-3 text-gray-600 px-4">Absolutely! Plans are flexible. Contact us and we'll adjust your hosting to match your needs. No long-term contracts or lock-in.</p>
-</details>
+
 
 <details class="group">
 <summary class="flex justify-between items-center cursor-pointer list-none p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
@@ -264,7 +254,7 @@ We Don't Do
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">Yes—if you're not satisfied in the first 30 days, we'll refund your money. No questions asked.</p>
+<p class="mt-3 text-gray-600 px-4">Yes—if you're not satisfied in the first 14 days, we'll refund your money. No questions asked.</p>
 </details>
 
 <details class="group">
@@ -322,6 +312,9 @@ We Don't Do
 <h2 class="text-3xl font-bold text-gray-900 mb-4 text-center">Student Discount</h2>
 <p class="text-lg text-gray-700 text-center max-w-3xl mx-auto">
 <strong>UChicago and UC Irvine students (and recent grads)</strong> get <strong class="text-purple-700">3 months free</strong> on our Self-Hosted Essentials or Managed Apps tiers. Just reach out with proof of enrollment or recent graduation.
+</p>
+<p class="text-lg text-gray-700 text-center max-w-3xl mx-auto mt-4">
+Other university students can enjoy a <strong class="text-purple-700">20% discount</strong> on the same tiers. Please provide proof of enrollment to qualify.
 </p>
 </div>
 

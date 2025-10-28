@@ -19,7 +19,7 @@ layout: "services"
 <div class="flex items-center justify-between mb-6">
 <h2 class="text-3xl font-bold text-gray-900">Managed Apps</h2>
 <div class="text-right">
-<div class="text-4xl font-bold text-purple-600">$40</div>
+<div class="text-4xl font-bold text-purple-600">$60</div>
 <div class="text-sm text-gray-500">/month</div>
 </div>
 </div>
@@ -110,7 +110,7 @@ layout: "services"
 <div class="flex items-center justify-between mb-6">
 <h2 class="text-3xl font-bold text-gray-900">Complex Hosting</h2>
 <div class="text-right">
-<div class="text-4xl font-bold text-indigo-600">$100+</div>
+<div class="text-4xl font-bold text-indigo-600">$200-400</div>
 <div class="text-sm text-gray-500">/month</div>
 </div>
 </div>
