@@ -12,8 +12,6 @@ Each Skylantix membership costs **$17 per month**. That price is deliberate:
 
 ### The Structure
 Skylantix will operate initially as a **sole proprietorship (Schedule C)**, but with the internal ethics of a cooperative. As the project grows, it may evolve into a nonprofit or cooperative structure—but the core principles will remain unchanged:
-- **Transparency:** Annual publication of financials (Schedule C/EIN summary).
-- **Accountability:** 50% of profits beyond a modest personal income cap ($250k–$300k adjusted for cost of living) will be reinvested or donated.
 - **Sustainability:** Hardware amortized every 3–5 years, fully owned, with RAID10 + Z2/3 backups and caching layers for efficiency (Raid Z2/Z3 to be implimented when fincances allow).
 
 ### The Growth Vision
@@ -22,7 +20,7 @@ The Skylantix user base will remain intentionally small—**no more than 5,000 m
 - Additional offerings such as hosted Bitwarden, Firefly (for fincances), an @mail.skylantix.com email with 20GB of storage (so it's a drop in replacment for Google workspace), a Mattermost account, and Gitea for projects.
 - We will also offer hosting for user's personal projects such as Django and whatnot at a later date.
 - Personalized support via Mattermost or email (no ticket bureaucracy).
-- Participation in polls on donations, features, and development priorities.
+
 
 Growth will not be exponential; it will be *deliberate*. The project’s health is measured in **trust**, not market share.
 
@@ -31,21 +29,16 @@ With Cloudflare and VPS-based caching, Skylantix can reduce outbound bandwidth b
 
 Hardware and compute amortization will ensure stable costs while user data remains on owner-managed, privacy-respecting systems. No hyperscaler lock-in.
 
-### Reinvestment and Charity
-Once Skylantix reaches sustainability, **half of all profits beyond the founder’s cap** will be distributed as follows:
-- 50% donated to privacy nonprofits, open-source developers, and digital rights groups (e.g., the Linux Foundation, EFF, smaller open-source maintainers).
-- 50% reinvested into Skylantix infrastructure and new user features.
 
-This ensures that the project always grows outward—supporting both the ecosystem and the users who made it possible.
 
 ### User Ownership and Community
-The first 100 long-term users will receive **free lifetime memberships** as a gesture of gratitude and shared ownership. Additional users who make major contributions (testing, documentation, referrals) may also receive lifetime access.
+Early members are rewarded for their trust and contributions. Additional users who make major contributions (testing, documentation, referrals) may also receive lifetime access.
 
-All users are invited to Mattermost to discuss updates, vote on charity and infrastructure allocations, and provide direct feedback. Skylantix aims to feel less like a service provider and more like a *digital village*.
+All users are invited to Mattermost to discuss updates, and provide direct feedback. Skylantix aims to feel less like a service provider and more like a *digital village*.
 
 ### Future Expansion
 Over time, Skylantix may split into two branches:
-1. **Skylantix Core (nonprofit cooperative)** – The community-driven, capped user base described above.
+1. **Skylantix Core (cooperative)** – The community-driven, capped user base described above.
 2. **A sister brand (for-profit)** – Offering managed services, consulting, or white-glove hosting at the same ethical standards but under a separate identity.
 
 This ensures the cooperative stays pure while still allowing the founder and team to experiment commercially.
@@ -54,5 +47,5 @@ This ensures the cooperative stays pure while still allowing the founder and tea
 Skylantix’s long-term goal is not domination—it’s dignity. The internet was meant to be decentralized, personal, and curious. Skylantix simply reclaims that spirit.
 
 A place where users know their sysadmin by name.
-A business that gives away half its surplus.
+
 A cloud that doesn’t pretend to own the sky.

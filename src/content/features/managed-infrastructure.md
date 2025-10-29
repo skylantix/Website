@@ -1,125 +1,150 @@
 ---
-title: "Actually Managed Infrastructure"
-description: "We handle updates, backups, monitoring, and security. You just use your apps. No DevOps degree required."
+title: "Cooperative Infrastructure"
+description: "Community-owned, professionally managed infrastructure. We handle everything so you can focus on your digital life, not server maintenance."
 layout: "feature"
 badge: "Fully Managed"
 badgeColor: "#16a34a"
 features:
   - title: "End-to-End Management"
-    description: "From deployment to monitoring to updates—we handle it all. You don't need to be a sysadmin to run reliable infrastructure."
-  - title: "Automated Backups"
-    description: "Regular automated backups following the 3-2-1 rule. Your data is protected without you thinking about it. Offsite storage for disaster recovery."
+    description: "From deployment to monitoring to updates—we handle it all. No DevOps degree required. Just use your apps."
+  - title: "RAID10 + Backups"
+    description: "Regular automated backups following 3-2-1 rule. RAID10 storage with Z2/Z3 planned. Your data is protected without you thinking about it."
   - title: "24/7 Monitoring"
-    description: "Automated monitoring watches your applications around the clock. We get alerts before you notice problems. Proactive issue resolution."
-  - title: "Security & Updates"
-    description: "Regular security patches, system updates, and dependency management. Your infrastructure stays current and secure without manual intervention."
+    description: "Automated monitoring watches infrastructure around the clock. We respond to issues before you notice problems. Proactive maintenance."
+  - title: "Sustainable Hardware"
+    description: "Owner-managed hardware amortized over 3-5 years. Solar + battery + grid power. Redundant internet. Built to last."
 demo:
-  description: "Focus on your work while we handle the infrastructure complexity."
+  description: "Focus on your digital life while the cooperative manages infrastructure for everyone."
   image: "/images/feature-3.svg"
 ---
 
-## Infrastructure Management Without the Headaches
+## Infrastructure That Works for the Community
 
-Running your own infrastructure is powerful. Managing it 24/7 is exhausting. Skylantix gives you the best of both worlds: the control and privacy of self-hosted infrastructure with the convenience of fully managed services.
+Skylantix isn't traditional hosting. It's cooperative infrastructure—professionally managed, community-governed, and designed for sustainability over growth.
 
-### What "Actually Managed" Means
+### What "Cooperative Infrastructure" Means
 
-This isn't shared hosting where you get a cPanel and basic PHP support. This isn't a VPS where we hand you SSH access and say "good luck." This is comprehensive infrastructure management where we handle everything so you don't have to.
+We own our hardware. We manage it professionally. We operate transparently. And the community benefits from economies of scale that would be impossible for individuals.
 
-#### Deployment & Configuration
-- **Git-Based Workflow**: Push to your repository, we handle deployment
-- **CI/CD Integration**: Compatible with GitHub Actions and GitLab CI/CD
-- **Container Orchestration**: Docker and Kubernetes management
-- **Environment Configuration**: We set up databases, caching, load balancing
-- **SSL Certificates**: Automatic provisioning and renewal via Cloudflare
+#### For All Members ($20/month)
+- **Nextcloud**: 180 GB storage with end-to-end encryption
+- **Email**: @mail.skylantix.com with 20 GB storage
+- **Bitwarden**: Password manager
+- **Firefly III**: Personal finance management
+- **Mattermost**: Community chat and support
+- **Gitea**: Git repository hosting
 
-#### Ongoing Maintenance
-- **System Updates**: Regular Debian security patches and system updates
-- **Application Updates**: Framework and dependency updates when needed
-- **Database Maintenance**: Optimization, vacuuming, index management
-- **Log Management**: Rotation, archival, monitoring for issues
-- **Resource Optimization**: Performance tuning as your needs evolve
+All fully managed. Updates, backups, monitoring, and security handled by the cooperative.
 
-#### Backup & Recovery
-- **Automated Backups**: Regular snapshots of all data
-- **Offsite Storage**: Backups stored separately for disaster recovery
-- **3-2-1 Rule**: Three copies, two media types, one offsite
-- **Tested Restores**: We verify backups actually work
-- **Point-in-Time Recovery**: Roll back to earlier versions when needed
+#### Infrastructure Stack
 
-#### Monitoring & Response
-- **24/7 Automated Monitoring**: Systems watched around the clock
-- **Proactive Alerts**: We get notified before you experience downtime
-- **Resource Monitoring**: CPU, memory, disk, network tracking
-- **Application Health Checks**: Verify services are responding correctly
-- **Log Analysis**: Automated scanning for errors and anomalies
+**Storage & Backups**:
+- RAID10 for production data
+- RAID Z2/Z3 planned when finances allow (community votes on priority)
+- Automated offsite backups following 3-2-1 rule
+- LUKS encrypted drives
+- Point-in-time recovery available
 
-### Infrastructure Stack
+**Network & Security**:
+- Cloudflare CDN for caching (96-98% bandwidth reduction)
+- DDoS protection and SSL/TLS
+- Firewall rules and regular security updates
+- Monitoring for unusual access patterns
 
-**Operating System**: Debian Linux (stable, secure, well-supported)
+**Power & Connectivity**:
+- Solar + battery backup + grid power
+- Redundant internet: fiber + cable + 5G failover
+- Designed for California resilience (rolling blackouts, etc.)
 
-**Storage Options**:
-- No-RAID configuration (single disk, cost-effective)
-- Software RAID1 (mirrored disks for redundancy)
-
-**Network**:
-- Cloudflare CDN and DDoS protection
-- SSL/TLS encryption for all traffic
-- Redundant internet (fiber + cable + 5G backup)
-
-**Power**:
-- Solar power with battery backup
-- Grid connection for reliability
-- Uninterruptible power supply (UPS)
-
-**Orchestration**:
+**Computing**:
+- Debian Linux (stable, secure, well-supported)
 - Docker for containerized applications
-- Kubernetes for complex multi-container setups
-- Automated scaling and restart policies
+- Owner-managed hardware (no hyperscaler lock-in)
+- Hardware amortized over 3-5 years for sustainability
 
-### What You Don't Need to Worry About
+### Geographic Distribution
 
-❌ **No 2am server crashes** - We monitor and respond to issues
-❌ **No manual updates** - Patches applied automatically
-❌ **No backup configuration** - Set up and running from day one
-❌ **No security hardening** - Infrastructure secured by default
-❌ **No capacity planning** - We monitor and advise on scaling
+Skylantix uses multiple locations in California (Irvine, Long Beach, Santa Clarita regions) to balance load and provide redundancy. Each location hosts approximately 1,250 users.
+
+This approach:
+- Balances load across infrastructure
+- Provides geographic redundancy
+- Maintains data sovereignty in California
+- Keeps infrastructure human-scale and manageable
+
+### What You Don't Manage
+
+❌ **No server maintenance** - We handle updates, patches, and security
+❌ **No backup configuration** - Automated and tested from day one
+❌ **No 2am emergencies** - We monitor and respond to issues
+❌ **No capacity planning** - We scale infrastructure as the cooperative grows
 ❌ **No certificate renewals** - SSL handled automatically
-❌ **No log rotation setup** - Maintenance automated
-❌ **No database optimization** - We tune for performance
+❌ **No hardware failures** - We manage redundancy and replacements
+
+### What You Do Get
+
+✓ **Reliable Services**: Nextcloud, email, Bitwarden, Firefly, Mattermost, Gitea
+✓ **Community Support**: Mattermost chat with your sysadmin and other members
+✓ **Transparent Operations**: Know how infrastructure works and where data lives
+✓ **Member Governance**: Vote on infrastructure priorities and upgrades
+✓ **Sustainable Model**: Hardware amortization ensures stable, predictable costs
+
+### Future: Django & Custom App Hosting
+
+Coming soon for members: managed Django, Python, and containerized app hosting. Because a cooperative grows with its community's needs.
+
+Community members will vote on:
+- When to launch custom app hosting
+- Pricing models (included in $20 or add-on?)
+- Resource allocation priorities
+- Which frameworks to support first
+
+### The Cooperative Advantage
+
+**Individual Self-Hosting**: You buy hardware, configure everything, manage 24/7, handle failures alone, pay full cost.
+
+**Traditional Hosting**: You rent from corporations, data scattered globally, no governance, surveillance capitalism, opaque pricing.
+
+**Skylantix Cooperative**: Community owns infrastructure collectively, professional management, transparent governance, California-based, sustainable costs, member benefits.
+
+### Sustainability Model
+
+Infrastructure is designed for long-term sustainability:
+
+- **Fixed Costs**: Hardware amortized over 3-5 years, predictable expenses
+- **Community Scale**: 5,000 members share infrastructure costs
+- **Efficient Architecture**: Cloudflare caching reduces bandwidth 96-98%
+- **Reinvestment**: 50% of surplus profits go to infrastructure upgrades (community votes on priorities)
+- **No Vendor Lock-in**: We own hardware outright, no surprise cloud bills
 
 ### Who This Is For
 
-**Developers Who Want to Focus on Code**:
-- You build apps, we run the infrastructure
-- Deploy via Git, we handle the rest
-- No ops knowledge required
+**People Escaping Big Tech**:
+- Leaving Google Drive, Gmail, Google Photos
+- Want privacy without becoming a sysadmin
+- Need reliable alternatives to surveillance capitalism
 
-**Small Business Owners**:
-- Run business applications without hiring a sysadmin
-- Reliable infrastructure without the complexity
-- Focus on your business, not servers
+**Cooperative-Minded Individuals**:
+- Value community over corporations
+- Want transparent governance
+- Care about sustainability and profit sharing
 
-**Self-Hosting Enthusiasts**:
-- Want the privacy of self-hosting
+**Privacy Advocates**:
+- Need California-based data sovereignty
+- Want end-to-end encryption
+- Value transparency and accountability
+
+**Practical Self-Hosters**:
+- Love the idea of self-hosting
 - Don't want to manage servers 24/7
-- Tried DIY and gave up after the 2am page
-
-**Privacy-Conscious Users**:
-- Want to escape Google/Microsoft
-- Need reliable alternatives to big tech
-- Don't want to become a Linux sysadmin
+- Tried DIY and realized it's a second job
 
 ### The Promise
 
-When you choose managed hosting with Skylantix, here's what you get:
+Skylantix manages infrastructure so you don't have to. We handle deployment, monitoring, backups, updates, security, and optimization. You get reliable services, community support, and transparent governance.
 
-**We handle**: Deployment, monitoring, backups, updates, security, optimization, troubleshooting, capacity planning, disaster recovery
+No 2am server alerts. No weekends debugging networking issues. No late nights applying security patches.
 
-**You handle**: Using your applications, building your business, living your life
+Just cooperative infrastructure that works—for the whole village.
 
-That's it. That's managed infrastructure done right.
-
-No waking up to server alerts. No weekends spent debugging networking issues. No late nights applying security patches. Just reliable infrastructure that works, managed by someone who knows what they're doing.
-
-Sleep well. We've got this.
+Sleep well. The community's got this.

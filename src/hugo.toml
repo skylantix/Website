@@ -21,7 +21,7 @@ paginate = 6
 paginatePath = "page"
 
 [params]
-  description = "Boutique managed hosting for self-hosted apps, Django applications, and custom infrastructure. Personal support, privacy-first hosting in California with transparent pricing."
+  description = "A cooperative microcloud community. Personal, private, and ethical cloud hosting. $17/month for Nextcloud, email, Bitwarden, and more. Limited to 5,000 members worldwide."
   author = "Raphael Bitton"
   logo = "/images/logo.png"
   image = "/images/skylantix-og.png"
@@ -31,19 +31,19 @@ paginatePath = "page"
   
   # SEO
   [params.seo]
-    keywords = ["managed hosting", "self-hosted apps", "Nextcloud hosting", "Django hosting", "privacy-first hosting", "California hosting", "boutique hosting", "personal support"]
+    keywords = ["cooperative cloud", "privacy cloud", "ethical hosting", "community cloud", "Nextcloud hosting", "decentralized cloud", "personal cloud", "privacy-first hosting"]
     twitter_site = "@skylantix"
   
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Hosting Done Right"
-    description = "Managed infrastructure for Nextcloud, Django apps, and more. Personal support, transparent pricing, zero corporate BS"
+    title = "Join the Cooperative Microcloud"
+    description = "A digital village where users know their sysadmin by name. $17/month for privacy, dignity, and community."
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
     [params.cta.primary_button]
-      text = "Get Started Free"
+      text = "Join Skylantix"
       url = "/get-started"
   
   # Social Media Links
@@ -106,7 +106,7 @@ paginatePath = "page"
   [params.blog]
     enable = true
     title = "Blog"
-    subtitle = "Insights on self-hosting, infrastructure, and privacy"
+    subtitle = "Thoughts on privacy, community, and reclaiming the decentralized internet"
     
     # Blog CTA configuration
     [params.blog.cta]
@@ -217,8 +217,8 @@ paginatePath = "page"
         { name = "Managed Infrastructure", url = "/features/managed-infrastructure/" }
       ]
   [[menu.main]]
-    name = "Services & Pricing"
-    url = "/services"
+    name = "Membership"
+    url = "/membership"
     weight = 2
   [[menu.main]]
     name = "Blog"
@@ -234,8 +234,10 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "About Us", url = "/company/" },
-        { name = "Mentorship", url = "/mentorship/" }
+        { name = "Our Philosophy", url = "/philosophy/" },
+        { name = "Our Promise", url = "/promise/" },
+        { name = "How It Works", url = "/how-it-works/" },
+        { name = "Transparency", url = "/transparency/" }
       ]
 
   # Footer Column 1 Menu
@@ -254,20 +256,20 @@ paginatePath = "page"
 
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
-    name = "Services"
-    url = "/services"
+    name = "Membership"
+    url = "/membership"
     weight = 1
   [[menu.footer_column_2]]
     name = "Blog"
     url = "/blog"
     weight = 2
   [[menu.footer_column_2]]
-    name = "About Us"
-    url = "/company"
+    name = "Our Philosophy"
+    url = "/philosophy"
     weight = 3
   [[menu.footer_column_2]]
-    name = "Mentorship"
-    url = "/mentorship"
+    name = "Transparency"
+    url = "/transparency"
     weight = 4
 
   # Footer Column 3 Menu

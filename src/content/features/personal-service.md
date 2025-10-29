@@ -1,73 +1,67 @@
 ---
-title: "Personal Service"
-description: "Talk to a real human, not a ticket system. Get support from someone who actually cares about your infrastructure."
+title: "Community & Support"
+description: "Join a digital village. Talk to your sysadmin by name. Get support from someone who actually cares about your infrastructure."
 layout: "feature"
-badge: "Support"
+badge: "Community"
 badgeColor: "#2563eb"
 features:
-  - title: "Real Human Support"
-    description: "You talk to a real person, not an AI chatbot or anonymous ticket system. We know your setup and actually care about solving your problems."
-  - title: "Public Office Hours"
-    description: "Drop in during public office hours to ask questions, troubleshoot issues, or just chat about your hosting needs. Available to all tiers."
-  - title: "Scaled Support Access"
-    description: "Support grows with your plan—from email tickets to text messages to direct phone access. Higher tiers get faster response times and more direct access."
-  - title: "Personal Relationship"
-    description: "Work with the same team every time. We learn your infrastructure, your preferences, and your business needs. No explaining your setup to a new support rep every time."
+  - title: "Digital Village"
+    description: "You're not a customer—you're a member of a 5,000-person cooperative. Know your sysadmin by name. Participate in community decisions."
+  - title: "Mattermost Support"
+    description: "Get help via Mattermost community chat, not anonymous ticket systems. Direct communication with the people running your infrastructure."
+  - title: "Member Voting"
+    description: "Your voice helps shape the cooperative's direction."
+  - title: "Transparent Governance"
+    description: "Open discussions about decisions and a commitment to transparency."
 demo:
-  description: "Experience support that feels like working with a trusted colleague, not a faceless corporation."
+  description: "Experience community-driven infrastructure where users and sysadmins work together."
   image: "/images/feature-1.svg"
 ---
 
-## Support That Actually Supports You
+## A Digital Village, Not a Service Provider
 
-Tired of submitting tickets to anonymous support queues? Frustrated by chatbots that don't understand your problem? Skylantix offers something different: personal, human support from someone who knows your infrastructure.
+Tired of being a ticket number? Frustrated by faceless corporations that treat you as a revenue stream? Skylantix is different: a cooperative microcloud where users know their sysadmin by name.
 
-### What Makes Our Support Different
+### What Makes Our Community Different
 
-#### You Talk to the Same Team
-- Direct communication with the people running your infrastructure
-- No rotating cast of support reps
-- We remember your previous conversations and your setup
+#### You're a Member, Not a Customer
+- Part of a 5,000-member cooperative (intentionally capped)
+
+- Participate in community discussions on Mattermost
+- Shape how the cooperative evolves
+
+#### Personal Support
+- Direct communication via Mattermost or email
+- No ticket bureaucracy or rotating support agents
+- Talk to the same person who manages your infrastructure
 - Continuity and context in every interaction
 
-#### Support Tiers That Scale
+### How Support Works
 
-**All Tiers:**
-- Access to public office hours
-- Email ticket support
-- Real responses from a real human
+**Mattermost Community**: All members get access to our Mattermost instance for support, discussions, and community engagement. Think of it like Slack, but privacy-respecting and community-owned.
 
-**Managed Apps & Up ($40+/month):**
-- Google Voice text message support
-- Schedule calls 48 hours out
-- 24-hour response time
+**Direct Communication**: Reach out when you need help. We respond personally—no canned responses, no AI chatbots, no script-reading support agents.
 
-**Complex Hosting ($100+/month):**
-- Priority support (4-12 hour response)
-- Phone support during business hours
-- Same-day call scheduling
+**Community Knowledge**: Learn from other members, share solutions, and participate in discussions about privacy, self-hosting, and decentralization.
 
-**Boutique/Dedicated ($1,000+/month):**
-- Direct cell phone access 24/7
-- White-glove concierge service
-- Proactive monitoring and outreach
+**Transparent Operations**: Questions about infrastructure, security, or finances? Just ask. We operate in the open because trust requires it.
 
-### How It Works
 
-**Office Hours**: Regular scheduled times where you can drop in with questions. Think of it like your friend who knows servers being available to help.
 
-**Tickets & Texts**: Reach out when you need help. We respond personally—no canned responses, no script-reading support agents.
+### Why Community Matters
 
-**Phone Support**: For higher tiers, call during business hours or even 24/7 for boutique customers. Talk through complex issues in real-time.
+When you're part of a cooperative, you're invested in its success. When your sysadmin knows your name, support becomes personal. When you can vote on how surplus profits get allocated, you're not being extracted from—you're participating in governance.
 
-**Proactive Support**: On boutique plans, we don't just wait for you to have problems. We monitor proactively and reach out if we see issues developing.
+This isn't customer service. It's community.
 
-### Why Personal Matters
+### Rewarding Early Members
 
-When your site goes down at 2am, you don't want to explain your entire setup to a tier-1 support agent reading from a script. You want someone who knows your infrastructure and can fix it fast.
+Early members are rewarded for their trust and contributions. We believe in rewarding those who help us build and grow the community. This is about building together, not just transacting.
 
-When you're planning to scale your app, you want advice from someone who understands your specific setup and business needs—not generic cloud provider documentation.
+### Comparison to Traditional Hosting
 
-When you have a weird edge case bug, you want someone who will actually dig into the problem and figure it out—not someone incentivized to close tickets quickly.
+**Traditional Hosting**: You submit tickets. Support agents read from scripts. You're a number in a queue. Your feedback disappears into a void.
 
-That's what personal service means. And that's what you get with Skylantix.
+**Skylantix**: You chat on Mattermost. Your sysadmin knows your setup. You vote on decisions. Your feedback shapes the cooperative.
+
+That's what a digital village looks like.

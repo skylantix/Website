@@ -1,13 +1,13 @@
 ---
-title: "Privacy Policy - Skylantix"
-description: "Skylantix Privacy Policy: We collect minimal data, never sell your information, and keep everything in California. Privacy-first hosting company."
+title: "Privacy Policy - Skylantix Cooperative"
+description: "Skylantix Privacy Policy: We collect minimal data, never sell your information, and keep everything in California. Privacy-first cooperative cloud."
 layout: "simple"
 robots: "index, follow"
 ---
 
 ## Introduction
 
-At Skylantix, privacy isn't just a policy—it's why we exist. We're a privacy-first hosting company. This policy explains exactly what data we collect, why, and what we do (and don't do) with it.
+At Skylantix, privacy isn't just a policy—it's why we exist. We're a privacy-first cooperative microcloud. This policy explains exactly what data we collect, why, and what we do (and don't do) with it.
 
 **Short version:** We collect the absolute minimum needed to run your hosting, we don't sell anything to anyone, and your data stays in California.
 
@@ -59,7 +59,7 @@ We use your information ONLY for:
 * **Encryption:** Data at rest is encrypted with LUKS; data in transit uses SSL/TLS
 * **Backups:** Automated encrypted backups following 3-2-1 rule
 * **Access:** Only the infrastructure administrator (me) has access, and only when necessary for support or maintenance
-* **Retention:** Your data is kept as long as you're a customer, then securely deleted within 30 days of cancellation
+* **Retention:** Your data is kept as long as you're a member, then securely deleted within 30 days of cancellation
 
 ---
 

@@ -1,46 +1,46 @@
 ---
-title: "Privacy-First Infrastructure"
-description: "Your data stays in California. No data mining, no selling your information. Transparent infrastructure for people who care about privacy."
+title: "Privacy & Data Sovereignty"
+description: "Your data stays in California on hardware we own. No surveillance capitalism. Transparent infrastructure for people who value privacy and dignity."
 layout: "feature"
 badge: "Privacy"
 badgeColor: "#7c3aed"
 features:
-  - title: "California-Based Hosting"
-    description: "All infrastructure is in Orange County, California. Your data doesn't get scattered across Amazon's global datacenter network. You know exactly where your data lives."
-  - title: "No Data Mining"
-    description: "We don't analyze your data, we don't sell your information, we don't train AI models on your content. Your data is yours. Period."
-  - title: "Transparent Infrastructure"
-    description: "You know exactly what hardware runs your applications, where it's located, and how it's secured. No mysterious cloud abstractions."
-  - title: "Escape Big Tech"
-    description: "Perfect for people de-Googling their lives. Get the convenience of cloud services without surveillance capitalism. Own your data."
+  - title: "California-Based Infrastructure"
+    description: "All servers in Orange County, California on hardware we own. No hyperscaler lock-in. No scattered datacenters. You know exactly where your data lives."
+  - title: "No Surveillance Capitalism"
+    description: "We don't mine your data, sell your information, or train AI models on your content. Your data is yours. Period."
+  - title: "End-to-End Encryption"
+    description: "Nextcloud with end-to-end encryption. LUKS encrypted drives. Your privacy is built into the architecture, not bolted on."
+  - title: "Community Accountability"
+    description: "Transparent operations. Published financials. Member governance. Trust built through openness, not corporate promises."
 demo:
-  description: "Host your applications with confidence, knowing your data stays private and under your control."
+  description: "Host your digital life with confidence, knowing your data stays private and under your control."
   image: "/images/feature-2.svg"
 ---
 
-## Your Data. Your Privacy. Your Control.
+## Your Data. Your Privacy. Your Dignity.
 
-In an age where big tech treats your personal information as their product, Skylantix offers something different: hosting that respects your privacy and puts you in control of your data.
+The internet was meant to be decentralized and personal. But we handed it over to surveillance capitalists who treat your data as their product. Skylantix reclaims that spirit: cooperative infrastructure that respects your privacy and puts you in control.
 
 ### Privacy Principles
 
 #### Data Sovereignty
-- **California Hosting**: All servers physically located in Orange County, California
-- **No Global Replication**: Your data doesn't get automatically copied to regions you didn't authorize
-- **Clear Jurisdiction**: U.S. law applies, no ambiguous international data laws
-- **You Choose**: You know exactly where your data lives
+- **California Hosting**: All servers physically located in Orange County (Irvine, Long Beach, Santa Clarita regions)
+- **Owner-Managed Hardware**: We own our infrastructure outright—no AWS, no Azure, no hyperscaler lock-in
+- **Clear Jurisdiction**: U.S. law applies, no ambiguous international data handling
+- **Transparent Location**: You know exactly where your data lives and who manages it
 
 #### No Surveillance
-- **No Data Mining**: We don't analyze the contents of your files or databases
+- **No Data Mining**: We don't analyze the contents of your files, emails, or databases
 - **No Third-Party Sharing**: We don't sell, share, or monetize your information
 - **No AI Training**: Your data isn't used to train language models or other AI systems
-- **No Advertising Networks**: We don't integrate tracking pixels or ad platforms
+- **No Advertising**: We don't integrate tracking pixels, ad networks, or analytics beyond basic server monitoring
 
-#### Transparent Operations
-- **Real Infrastructure**: Physical servers you can understand, not abstract "cloud instances"
-- **Clear Ownership**: You know who runs your hosting and how to reach them
-- **No Hidden Services**: We tell you exactly what's running and why
-- **Open Communication**: Questions about security or privacy? Just ask.
+#### Community Accountability
+- **Published Financials**: Annual reports on revenue, expenses, and profit allocation
+- **Member Voting**: Community decides on privacy policies and infrastructure decisions
+- **Open Communication**: Questions about security or privacy? Ask on Mattermost. We answer honestly.
+- **Transparent Governance**: No corporate opacity—you know how decisions get made
 
 ### Security Architecture
 
@@ -51,13 +51,14 @@ In an age where big tech treats your personal information as their product, Skyl
 - Monitoring for unusual access patterns
 
 **Data Protection**:
+- RAID10 storage with Z2/Z3 planned when finances allow
+- LUKS encrypted drives for data at rest
 - Automated offsite backups following 3-2-1 rule
+- End-to-end encryption for Nextcloud
 - Encrypted data transmission (SSL/TLS)
-- Access controls limiting who can see your data
-- Secure credential management
 
 **Physical Security**:
-- Servers in secure location with controlled access
+- Servers in secure locations with controlled access
 - Redundant power (solar + battery backup + grid)
 - Redundant internet (fiber + cable + 5G backup)
 - Environmental monitoring
@@ -65,27 +66,51 @@ In an age where big tech treats your personal information as their product, Skyl
 ### Who This Is For
 
 **Privacy-Conscious Individuals**:
-- People leaving Google Drive for Nextcloud
+- People leaving Google Drive, Gmail, and Google Photos
 - Anyone concerned about big tech surveillance
 - Those who want control over personal data
 - Users tired of being the product
 
-**Small Businesses**:
-- Companies that handle customer data responsibly
-- Businesses with privacy compliance requirements
-- Organizations wanting to avoid hyperscaler vendor lock-in
-- Teams needing California-based hosting for regulatory reasons
+**Cooperative Members**:
+- People who value community over corporations
+- Those seeking transparent governance
+- Anyone wanting to participate in decision-making
+- Members who care about profit sharing and charity
 
-**Developers & Tech Users**:
+**Digital Sovereignty Advocates**:
 - Self-hosters who want reliability without complexity
 - People running personal projects with sensitive data
-- Developers needing trustworthy infrastructure
-- Anyone who values transparency over corporate abstractions
+- Anyone who values decentralization
+- Users escaping hyperscaler vendor lock-in
 
-### The Big Tech Alternative
+### The Skylantix Difference
 
-You don't have to choose between convenience and privacy. You don't have to accept surveillance as the cost of cloud services. You don't have to wonder what big tech is doing with your data.
+**Traditional Cloud**: Your data scattered across Amazon's global datacenters. Privacy policies written by lawyers. Terms that change without notice. No idea who has access.
 
-With Skylantix, you get professional managed hosting that respects your privacy, keeps your data in California, and treats you like a person—not a product.
+**Skylantix**: Your data on specific hardware in California. Privacy policies written in plain English. Community governance. Your sysadmin knows your name.
 
-**Simple question**: Do you know where your data is right now? With us, you always will.
+### Built for Privacy from Day One
+
+This isn't privacy theater. It's not marketing spin. It's infrastructure designed around the principle that your data belongs to you.
+
+- **Nextcloud** with end-to-end encryption for your files
+- **Bitwarden** for password management (no LastPass breaches here)
+- **Email** at @mail.skylantix.com without Google scanning it
+- **Firefly III** for personal finances without Mint selling your spending habits
+
+### Cooperative Transparency
+
+Because we're a cooperative, privacy isn't just a feature—it's encoded into our governance:
+
+- Members vote on privacy policies
+- Annual financial transparency ensures no hidden revenue from data sales
+- Community accountability keeps us honest
+- Open communication builds trust
+
+### Simple Question
+
+Do you know where your data is right now? With Skylantix, you always will.
+
+Not in "the cloud." In California. On hardware we own. Managed by people you know. Governed by a community you're part of.
+
+That's data sovereignty. That's dignity.
