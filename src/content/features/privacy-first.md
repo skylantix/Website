@@ -20,12 +20,12 @@ demo:
 
 ## Your Data. Your Privacy. Your Dignity.
 
-The internet was meant to be decentralized and personal. But we handed it over to surveillance capitalists who treat your data as their product. Skylantix reclaims that spirit: cooperative infrastructure that respects your privacy and puts you in control.
+The internet was meant to be decentralized and personal. But we handed it over to surveillance capitalists who treat your data as their product. Skylantix reclaims that spirit: collective infrastructure that respects your privacy and puts you in control.
 
 ### Privacy Principles
 
 #### Data Sovereignty
-- **California Hosting**: All servers physically located in Orange County (Irvine, Long Beach, Santa Clarita regions)
+- **California Hosting**: Servers in Irvine (launch), Long Beach (100 members), Santa Clarita (as needed)
 - **Owner-Managed Hardware**: We own our infrastructure outright—no AWS, no Azure, no hyperscaler lock-in
 - **Clear Jurisdiction**: U.S. law applies, no ambiguous international data handling
 - **Transparent Location**: You know exactly where your data lives and who manages it
@@ -51,7 +51,7 @@ The internet was meant to be decentralized and personal. But we handed it over t
 - Monitoring for unusual access patterns
 
 **Data Protection**:
-- RAID10 storage with Z2/Z3 planned when finances allow
+- RAID10 storage now, RAID Z2/Z3 backup added at 100 members
 - LUKS encrypted drives for data at rest
 - Automated offsite backups following 3-2-1 rule
 - End-to-end encryption for Nextcloud
@@ -71,7 +71,7 @@ The internet was meant to be decentralized and personal. But we handed it over t
 - Those who want control over personal data
 - Users tired of being the product
 
-**Cooperative Members**:
+**Collective Members**:
 - People who value community over corporations
 - Those seeking transparent governance
 - Anyone wanting to participate in decision-making
@@ -93,14 +93,14 @@ The internet was meant to be decentralized and personal. But we handed it over t
 
 This isn't privacy theater. It's not marketing spin. It's infrastructure designed around the principle that your data belongs to you.
 
-- **Nextcloud** with end-to-end encryption for your files
+- **Nextcloud & Immich** with end-to-end encryption for your files and photos (200 GB total: 180 GB shared, 20 GB for email)
 - **Bitwarden** for password management (no LastPass breaches here)
 - **Email** at @mail.skylantix.com without Google scanning it
-- **Firefly III** for personal finances without Mint selling your spending habits
+- **Linkding** for bookmark archiving without Pocket selling your reading habits
 
-### Cooperative Transparency
+### Collective Transparency
 
-Because we're a cooperative, privacy isn't just a feature—it's encoded into our governance:
+Because we're a collective, privacy isn't just a feature—it's encoded into our governance:
 
 - Members vote on privacy policies
 - Annual financial transparency ensures no hidden revenue from data sales

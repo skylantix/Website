@@ -8,7 +8,7 @@ layout: "company"
     <div class="text-center max-w-4xl mx-auto">
         <h1 class="text-4xl md:text-5xl font-bold mb-6">Radical Transparency</h1>
         <p class="text-xl text-gray-700 mb-8">
-            A cooperative built on trust must operate in the open. Here's our commitment to financial transparency and community accountability.
+            A collective built on trust must operate in the open. Here's our commitment to financial transparency and community accountability.
         </p>
     </div>
 {{< /section-container >}}
@@ -18,7 +18,7 @@ layout: "company"
         <h2 class="text-3xl font-bold mb-8">Our Commitment</h2>
         <div class="prose prose-lg text-gray-700">
             <p>
-                Skylantix operates with the internal ethics of a cooperative, even while structured initially as a sole proprietorship (Schedule C). As we grow, we may evolve into a nonprofit or cooperative legal structure—but the core principles of transparency and accountability will never change.
+                Skylantix operates with the internal ethics of a collective, even while structured initially as a sole proprietorship (Schedule C). As we grow, we may evolve into a nonprofit or collective legal structure—but the core principles of transparency and accountability will never change.
             </p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
@@ -28,11 +28,11 @@ layout: "company"
             </div>
             <div class="bg-gradient-to-br from-purple-50 to-purple-100 p-6 rounded-lg border-2 border-purple-200">
                 <h3 class="font-bold text-purple-900 mb-3 text-xl">💰 Profit Sharing</h3>
-                <p class="text-sm text-gray-700">50% of profits beyond a modest cap are split between charity and infrastructure.</p>
+                <p class="text-sm text-gray-700">After admin wages and costs, surplus profits split 50/50: reinvestment and open-source community support.</p>
             </div>
             <div class="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-lg border-2 border-green-200">
-                <h3 class="font-bold text-green-900 mb-3 text-xl">🗳️ Community Voting</h3>
-                <p class="text-sm text-gray-700">Members vote on which charities receive donations and which features get priority.</p>
+                <h3 class="font-bold text-green-900 mb-3 text-xl">🗳️ Community Governance</h3>
+                <p class="text-sm text-gray-700">Members vote on donations, features, and can apply for grants/zero-interest loans for community projects.</p>
             </div>
         </div>
     </div>
@@ -45,7 +45,20 @@ layout: "company"
             <div class="mb-8">
                 <h3 class="text-xl font-bold text-gray-900 mb-4">How It Works</h3>
                 <p class="text-gray-700 mb-4">
-                    Once Skylantix reaches sustainability and exceeds a modest founder income cap, <strong>50% of all additional profits</strong> will be distributed as follows:
+                    After covering operational costs and livable wages for admins, <strong>all surplus profits</strong> are split 50/50:
+                </p>
+                <ul class="space-y-2 text-gray-700 mb-4 ml-6">
+                    <li class="flex items-start">
+                        <span class="mr-2 text-blue-600 font-bold">→</span>
+                        <span><strong>50% reinvested</strong> into infrastructure and new features</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-green-600 font-bold">→</span>
+                        <span><strong>50% returned</strong> to the open-source community</span>
+                    </li>
+                </ul>
+                <p class="text-gray-700 mb-4">
+                    <strong>Members decide how funds are allocated</strong> through voting on feature priorities, donation recipients, and community grants.
                 </p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -101,6 +114,33 @@ layout: "company"
                         </li>
                     </ul>
                 </div>
+            </div>
+            <div class="mt-8 p-6 bg-purple-50 rounded-lg border-2 border-purple-300">
+                <h3 class="text-xl font-bold text-purple-900 mb-4">🎯 Community Grants & Loans</h3>
+                <p class="text-gray-700 mb-4">
+                    Members can apply for <strong>grants and zero-interest loans</strong> from the reinvestment fund for projects that benefit the community:
+                </p>
+                <ul class="space-y-2 text-sm text-gray-700">
+                    <li class="flex items-start">
+                        <span class="mr-2 text-purple-600">•</span>
+                        <span>Open-source tools that integrate with Skylantix services</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-purple-600">•</span>
+                        <span>Educational content for privacy and self-hosting</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-purple-600">•</span>
+                        <span>Community-driven features and improvements</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-purple-600">•</span>
+                        <span>Projects that advance digital sovereignty</span>
+                    </li>
+                </ul>
+                <p class="text-sm text-gray-600 mt-4 italic">
+                    Application process and criteria will be developed with community input as we reach sustainability.
+                </p>
             </div>
             <div class="mt-6 p-4 bg-amber-50 rounded-lg border border-amber-200">
                 <p class="text-sm text-gray-700 italic text-center">
@@ -159,7 +199,7 @@ layout: "company"
         <h2 class="text-3xl font-bold mb-8 text-center">Member Governance</h2>
         <div class="bg-white rounded-xl shadow-lg p-8">
             <p class="text-lg text-gray-700 mb-6">
-                All Skylantix members are invited to participate in shaping the cooperative through Mattermost polls and discussions:
+                All Skylantix members are invited to participate in shaping the collective through Mattermost polls and discussions:
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div class="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-lg">
@@ -176,7 +216,7 @@ layout: "company"
                 </div>
                 <div class="bg-gradient-to-br from-amber-50 to-orange-100 p-6 rounded-lg">
                     <h3 class="font-bold text-amber-900 mb-3">Community Feedback</h3>
-                    <p class="text-sm text-gray-700">Direct input on policies, pricing adjustments, and cooperative evolution.</p>
+                    <p class="text-sm text-gray-700">Direct input on policies, pricing adjustments, and collective evolution.</p>
                 </div>
             </div>
         </div>
@@ -198,8 +238,8 @@ layout: "company"
             <div class="bg-gray-50 p-6 rounded-lg border border-gray-200">
                 <h4 class="font-bold text-gray-900 mb-3">🔒 Storage & Backups</h4>
                 <ul class="space-y-2 text-sm text-gray-700">
-                    <li>• RAID10 for production data</li>
-                    <li>• RAID Z2/Z3 planned when finances allow</li>
+                    <li>• RAID10 for production data now</li>
+                    <li>• RAID Z2/Z3 backup added at 100 members</li>
                     <li>• Offsite backup following 3-2-1 rule</li>
                     <li>• LUKS encrypted drives</li>
                 </ul>
@@ -210,7 +250,7 @@ layout: "company"
                     <li>• Solar + battery backup + grid power</li>
                     <li>• Fiber + cable + 5G failover internet</li>
                     <li>• Cloudflare caching (96-98% bandwidth reduction)</li>
-                    <li>• California-based (Irvine, Long Beach, Santa Clarita)</li>
+                    <li>• California: Irvine (launch) → Long Beach (100 members) → Santa Clarita</li>
                 </ul>
             </div>
         </div>

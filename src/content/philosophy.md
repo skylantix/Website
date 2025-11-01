@@ -1,14 +1,19 @@
 ---
-title: "Our Philosophy - The Skylantix Cooperative"
-description: "Understanding the principles behind Skylantix: a cooperative microcloud built on transparency, sustainability, and human-scale community."
+title: "Philosophy & Promise - The Skylantix Collective"
+description: "Understanding the principles behind Skylantix: a collective microcloud built on transparency, sustainability, and human-scale community. Our commitments to fair pricing, shared prosperity, sustainable independence, privacy, stewardship, and radical transparency."
 layout: "company"
+aliases:
+  - /promise/
+  - /promise
+  - /company/
+  - /company
 ---
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-purple-50 to-white pt-20 pb-32" >}}
     <div class="text-center max-w-4xl mx-auto">
         <h1 class="text-4xl md:text-5xl font-bold mb-6">The Skylantix Philosophy</h1>
         <p class="text-2xl text-gray-700 mb-8 font-light">
-            Not a corporation. A cooperative microcloud—a community of users and technologists who believe digital life should be personal, private, and ethical.
+            Not a corporation. A collective microcloud—a community of users and technologists who believe digital life should be personal, private, and ethical.
         </p>
     </div>
 {{< /section-container >}}
@@ -22,6 +27,112 @@ layout: "company"
         <p class="text-gray-700 leading-relaxed">
             The internet was meant to be decentralized, personal, and curious. Skylantix simply reclaims that spirit.
         </p>
+        <p class="text-xl text-gray-700 leading-relaxed mt-8">
+            Skylantix isn't a startup chasing infinite growth. It's a long-term craft project built on a simple belief: technology should serve people, not the other way around.
+        </p>
+        <p class="text-gray-700 leading-relaxed">
+            When you join Skylantix, you're not just renting server space — you're becoming part of a small, self-sustaining community that values privacy, transparency, and care in engineering.
+        </p>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-20 bg-gradient-to-br from-blue-50 to-purple-50" >}}
+    <div class="max-w-4xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-8">The Story Behind Skylantix</h2>
+        <div class="bg-white rounded-xl shadow-lg p-8">
+            <div class="prose prose-lg mx-auto text-gray-600">
+                <p>
+                    Skylantix was founded by a University of Chicago student who loves infrastructure and believes the internet should belong to people, not corporations. I'm learning production sysadmin work by actually doing it—managing real infrastructure for real users.
+                </p>
+                <p>
+                    I'm building a <strong>collective microcloud</strong>—starting small and growing deliberately toward 5,000 members, with a commitment to transparency and community. After graduation, I'm running this full-time from Irvine, California, where the servers actually live. You'll talk to me directly via Mattermost, not through ticket systems. Your data stays on California-based hardware I own, not scattered across Amazon's datacenters.
+                </p>
+                <p>
+                    Skylantix is built on <strong>solid economics from day one</strong>. The infrastructure costs are covered with minimal members, allowing me to focus on growing the collective deliberately rather than desperately. This isn't a venture-backed startup burning cash—it's a sustainable craft project. The infrastructure runs on owner-managed servers with redundant internet (fiber + cable + 5G backup), solar power, and battery backup. Everything is fronted through Cloudflare for security and DDoS protection, with automated offsite backups following the 3-2-1 rule.
+                </p>
+                <p>
+                    This is a human-scale operation by design. Small, sustainable, and built on trust—not market share. $20/month or $200/year. The first 50 members get extraordinary perks when we reach 1,200 members: annual subscribers get free service for life, monthly subscribers get permanent 50% off. <strong>We're building this together, deliberately and transparently.</strong>
+                </p>
+                <figure class="mx-auto text-center">
+                    <img src="/images/airplane.png" alt="Raphael Bitton, Founder" class="mx-auto rounded-lg shadow-md" />
+                    <figcaption class="text-sm text-gray-500 mt-3"><a href="https://rbitton.com" class="text-blue-600 hover:underline">Raphael Bitton</a>, Founder & Principal Engineer</figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-20 bg-gray-50" id="promise" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-4">The Skylantix Promise</h2>
+        <p class="text-xl text-gray-600 text-center mb-12 max-w-3xl mx-auto">
+            A collective microcloud that remembers the internet was meant to be human.
+        </p>
+
+        <div class="space-y-8">
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-blue-600 mb-4">1. Fair Pricing, Real Costs</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    What you pay reflects the actual cost of running and improving the service — no hidden fees, no artificial scarcity. Prices adjust only if the real world demands it: hardware, electricity, or bandwidth, not corporate greed.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-purple-600 mb-4">2. Shared Prosperity</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    If Skylantix has a good year, you'll feel it too. Some years that means better hardware, more features, or free upgrades. Some years, it means no bill in December. When Skylantix wins, everyone wins.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-green-600 mb-4">3. Sustainable Independence</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    We own our hardware, we pay our own bills, and we answer to no investors. That keeps us honest and lets us stay small enough to care.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-indigo-600 mb-4">4. Privacy by Design</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    Your data lives here—encrypted at rest and in transit, on physical servers in California. It's never tracked, mined, or sold.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-amber-600 mb-4">5. Stewardship Over Growth</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    We're not trying to host the world, just the right kind of people. When we reach our ideal size, we'll slow down, switch to invites, and focus on making what exists better instead of bigger.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-red-600 mb-4">6. Radical Transparency</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    We don't expect trust without proof. Skylantix runs in the open — with status pages, changelogs, and yearly transparency reports that show where money goes, how systems perform, and what we're improving. Honesty isn't a feature here; it's infrastructure.
+                </p>
+            </div>
+        </div>
+
+        <div class="max-w-4xl mx-auto mt-12">
+            <div class="prose prose-lg text-gray-700 mx-auto">
+                <p class="text-xl text-center leading-relaxed mb-8">
+                    Most companies measure success in users and revenue. We measure ours in uptime, trust, and the quiet satisfaction of knowing a few thousand people have a corner of the internet that's truly theirs.
+                </p>
+                <p class="text-center text-gray-700 font-semibold text-lg">
+                    That's the deal.
+                </p>
+                <p class="text-center text-gray-700 leading-relaxed">
+                    No hype, no fine print — just good infrastructure and good intent.<br/>
+                    The internet works best when it's personal.<br/>
+                    We're here to keep it that way.
+                </p>
+            </div>
+            <div class="text-center mt-8">
+                <p class="text-xl italic text-gray-600">
+                    — Raphael Bitton, Founder & Principal Engineer
+                </p>
+            </div>
+        </div>
     </div>
 {{< /section-container >}}
 
@@ -45,7 +156,7 @@ layout: "company"
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600 text-xl">•</span>
-                    <span>It leaves room for student discounts (up to 40%) without collapsing margins.</span>
+                    <span>It leaves room for student discounts (40% off for undergraduates) without collapsing margins.</span>
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600 text-xl">•</span>
@@ -61,16 +172,16 @@ layout: "company"
         <h2 class="text-3xl font-bold mb-8">The Structure</h2>
         <div class="prose prose-lg text-gray-700">
             <p>
-                Skylantix operates initially as a <strong>sole proprietorship (Schedule C)</strong>, but with the internal ethics of a cooperative. As the project grows, it may evolve into a nonprofit or cooperative structure—but the core principles will remain unchanged:
+                Skylantix operates initially as a <strong>sole proprietorship (Schedule C)</strong>, but with the internal ethics of a collective. As the project grows, it may evolve into a nonprofit or collective structure—but the core principles will remain unchanged:
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8 not-prose">
                 <div class="bg-purple-50 p-6 rounded-lg">
                     <h3 class="font-bold text-purple-900 mb-2">Accountability</h3>
-                    <p class="text-sm text-gray-700">A significant portion of profits are reinvested into the community and the infrastructure you use.</p>
+                    <p class="text-sm text-gray-700">After admin wages, profits split 50/50: reinvestment in infrastructure and support for open-source community.</p>
                 </div>
                 <div class="bg-green-50 p-6 rounded-lg">
                     <h3 class="font-bold text-green-900 mb-2">Sustainability</h3>
-                    <p class="text-sm text-gray-700">Hardware amortized every 3–5 years, fully owned, with RAID10 + Z2/3 backups and caching layers for efficiency.</p>
+                    <p class="text-sm text-gray-700">Hardware amortized every 3–5 years, fully owned. RAID10 now, RAID Z2/Z3 backup added at 100 members.</p>
                 </div>
             </div>
         </div>
@@ -88,7 +199,7 @@ layout: "company"
             <ul class="space-y-3 text-gray-700 mb-6">
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600">✓</span>
-                    <span>Secure, fast Nextcloud hosting with end-to-end encryption and 180 GB of storage</span>
+                    <span>Secure, fast Nextcloud and Immich hosting with end-to-end encryption and 180 GB of shared storage</span>
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600">✓</span>
@@ -96,7 +207,7 @@ layout: "company"
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600">✓</span>
-                    <span>Hosted Bitwarden, Firefly (for finances), Mattermost, and Gitea</span>
+                    <span>Hosted Bitwarden, Linkding, Mattermost, Gitea, Immich, and Minecraft Server</span>
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600">✓</span>
@@ -121,13 +232,20 @@ layout: "company"
         <h2 class="text-3xl font-bold mb-8">User Ownership and Community</h2>
         <div class="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 border-2 border-amber-200 mb-8">
             <h3 class="text-2xl font-bold text-amber-900 mb-4">🎁 Rewarding Early Members</h3>
-            <p class="text-gray-700">
-                Early members are rewarded for their trust and contributions. We believe in rewarding those who help us build and grow the community.
+            <p class="text-gray-700 mb-3">
+                The first 50 members get extraordinary rewards when Skylantix reaches financial viability (1,200 members):
+            </p>
+            <ul class="text-gray-700 space-y-2">
+                <li><strong>Annual subscribers:</strong> All fees waived permanently (free for life)</li>
+                <li><strong>Monthly subscribers:</strong> Permanent 50% discount ($10/month instead of $20)</li>
+            </ul>
+            <p class="text-gray-700 mt-3 italic">
+                These perks are our way of thanking those who trust us early and help build the community from the ground up.
             </p>
         </div>
         <div class="prose prose-lg text-gray-700">
             <p>
-                All users are invited to Mattermost to discuss updates, shape the future of the cooperative, and provide direct feedback. Skylantix aims to feel less like a service provider and more like a <strong>digital village</strong>.
+                All users are invited to Mattermost to discuss updates, shape the future of the collective, and provide direct feedback. Skylantix aims to feel less like a service provider and more like a <strong>digital village</strong>.
             </p>
         </div>
     </div>
@@ -135,13 +253,13 @@ layout: "company"
 
 {{< section-container class="py-20 bg-white" >}}
     <div class="max-w-4xl mx-auto">
-        <h2 class="text-3xl font-bold mb-8">Infrastructure & Caching</h2>
+        <h2 class="text-3xl font-bold mb-8">Infrastructure & Growth Roadmap</h2>
         <div class="prose prose-lg text-gray-700">
             <p>
-                With Cloudflare and VPS-based caching, Skylantix can reduce outbound bandwidth by 96–98%, keeping operational costs and ISP scrutiny minimal. Each location (e.g., Irvine, Long Beach, Santa Clarita) will host roughly 1,250 users—balancing load, redundancy, and data sovereignty.
+                Skylantix starts in <strong>Irvine, California</strong> with RAID10 redundancy. At <strong>100 members</strong>, we add a second node in <strong>Long Beach</strong> with RAID Z2/Z3 backup. As demand grows, a third node in <strong>Santa Clarita</strong> will be added. Each location will host approximately 1,250 users—balancing load, redundancy, and data sovereignty.
             </p>
             <p>
-                Hardware and compute amortization will ensure stable costs while user data remains on owner-managed, privacy-respecting systems. <strong>No hyperscaler lock-in.</strong>
+                With Cloudflare and VPS-based caching, Skylantix can reduce outbound bandwidth by 96–98%, keeping operational costs and ISP scrutiny minimal. Hardware is amortized over 3-5 years, ensuring stable costs while user data remains on owner-managed, privacy-respecting systems. <strong>No hyperscaler lock-in.</strong>
             </p>
         </div>
     </div>
@@ -163,9 +281,9 @@ layout: "company"
 
 {{< section-container class="py-20 bg-gradient-to-br from-blue-100 to-purple-100" >}}
     <div class="max-w-4xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-6 text-gray-900">Ready to Join the Cooperative?</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-6 text-gray-900">Ready to Join the Collective?</h2>
         <p class="text-xl text-gray-700 leading-relaxed mb-8">
-            If this philosophy resonates with you, we invite you to become a member of the Skylantix cooperative. Help us build a more ethical, personal, and decentralized internet.
+            If this philosophy resonates with you, we invite you to become a member of the Skylantix collective. Help us build a more ethical, personal, and decentralized internet.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="/get-started" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-blue-600 text-white hover:bg-blue-700 hover:scale-105 text-lg">

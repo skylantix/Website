@@ -6,11 +6,11 @@ badge: "Community"
 badgeColor: "#2563eb"
 features:
   - title: "Digital Village"
-    description: "You're not a customer—you're a member of a 5,000-person cooperative. Know your sysadmin by name. Participate in community decisions."
+    description: "You're not a customer—you're a member of a 5,000-person collective. Know your sysadmin by name. Participate in community decisions."
   - title: "Mattermost Support"
     description: "Get help via Mattermost community chat, not anonymous ticket systems. Direct communication with the people running your infrastructure."
   - title: "Member Voting"
-    description: "Your voice helps shape the cooperative's direction."
+    description: "Your voice helps shape the collective's direction."
   - title: "Transparent Governance"
     description: "Open discussions about decisions and a commitment to transparency."
 demo:
@@ -20,15 +20,15 @@ demo:
 
 ## A Digital Village, Not a Service Provider
 
-Tired of being a ticket number? Frustrated by faceless corporations that treat you as a revenue stream? Skylantix is different: a cooperative microcloud where users know their sysadmin by name.
+Tired of being a ticket number? Frustrated by faceless corporations that treat you as a revenue stream? Skylantix is different: a collective microcloud where users know their sysadmin by name.
 
 ### What Makes Our Community Different
 
 #### You're a Member, Not a Customer
-- Part of a 5,000-member cooperative (intentionally capped)
+- Part of a 5,000-member collective (intentionally capped)
 
 - Participate in community discussions on Mattermost
-- Shape how the cooperative evolves
+- Shape how the collective evolves
 
 #### Personal Support
 - Direct communication via Mattermost or email
@@ -50,18 +50,18 @@ Tired of being a ticket number? Frustrated by faceless corporations that treat y
 
 ### Why Community Matters
 
-When you're part of a cooperative, you're invested in its success. When your sysadmin knows your name, support becomes personal. When you can vote on how surplus profits get allocated, you're not being extracted from—you're participating in governance.
+When you're part of a collective, you're invested in its success. When your sysadmin knows your name, support becomes personal. When you can vote on how surplus profits get allocated, you're not being extracted from—you're participating in governance.
 
 This isn't customer service. It's community.
 
 ### Rewarding Early Members
 
-Early members are rewarded for their trust and contributions. We believe in rewarding those who help us build and grow the community. This is about building together, not just transacting.
+The first 50 members receive exceptional rewards when Skylantix reaches 1,200 members: annual subscribers get free service for life, while monthly subscribers get a permanent 50% discount. This is about building together, not just transacting.
 
 ### Comparison to Traditional Hosting
 
 **Traditional Hosting**: You submit tickets. Support agents read from scripts. You're a number in a queue. Your feedback disappears into a void.
 
-**Skylantix**: You chat on Mattermost. Your sysadmin knows your setup. You vote on decisions. Your feedback shapes the cooperative.
+**Skylantix**: You chat on Mattermost. Your sysadmin knows your setup. You vote on decisions. Your feedback shapes the collective.
 
 That's what a digital village looks like.

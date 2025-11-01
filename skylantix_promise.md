@@ -1,6 +1,8 @@
 ## The Skylantix Promise
 
-## A hosting company that remembers the internet was meant to be human.
+**Note: This content has been merged into the Philosophy page at /src/content/philosophy.md**
+
+## A collective microcloud that remembers the internet was meant to be human.
 
 Skylantix isn’t a startup chasing infinite growth. It’s a long-term craft project built on a simple belief: technology should serve people, not the other way around.
 

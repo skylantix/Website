@@ -1,13 +1,13 @@
 ---
-title: "Privacy Policy - Skylantix Cooperative"
-description: "Skylantix Privacy Policy: We collect minimal data, never sell your information, and keep everything in California. Privacy-first cooperative cloud."
+title: "Privacy Policy - Skylantix Collective"
+description: "Skylantix Privacy Policy: We collect minimal data, never sell your information, and keep everything in California. Privacy-first collective cloud."
 layout: "simple"
 robots: "index, follow"
 ---
 
 ## Introduction
 
-At Skylantix, privacy isn't just a policy—it's why we exist. We're a privacy-first cooperative microcloud. This policy explains exactly what data we collect, why, and what we do (and don't do) with it.
+At Skylantix, privacy isn't just a policy—it's why we exist. We're a privacy-first collective microcloud. This policy explains exactly what data we collect, why, and what we do (and don't do) with it.
 
 **Short version:** We collect the absolute minimum needed to run your hosting, we don't sell anything to anyone, and your data stays in California.
 
@@ -112,4 +112,4 @@ Questions about privacy? We're happy to explain anything.
 * **Email:** hello@skylantix.com
 * **Location:** Orange County, California
 
-*Last Updated: October 24, 2025*
+*Last Updated: October 24, 2024*

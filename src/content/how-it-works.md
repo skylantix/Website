@@ -1,6 +1,6 @@
 ---
-title: "How It Works - The Skylantix Cooperative Model"
-description: "Understanding how Skylantix operates as a cooperative microcloud with 5,000 members, transparent governance, and community infrastructure."
+title: "How It Works - The Skylantix Collective Model"
+description: "Understanding how Skylantix operates as a collective microcloud with 5,000 members, transparent governance, and community infrastructure."
 layout: "company"
 ---
 
@@ -8,17 +8,17 @@ layout: "company"
     <div class="text-center max-w-4xl mx-auto">
         <h1 class="text-4xl md:text-5xl font-bold mb-6">How Skylantix Works</h1>
         <p class="text-xl text-gray-700 mb-8">
-            A cooperative microcloud designed for human-scale community. Privacy-first infrastructure meets transparent governance.
+            A collective microcloud designed for human-scale community. Privacy-first infrastructure meets transparent governance.
         </p>
     </div>
 {{< /section-container >}}
 
 {{< section-container class="py-20 bg-white" >}}
     <div class="max-w-4xl mx-auto">
-        <h2 class="text-3xl font-bold mb-8">The Cooperative Model</h2>
+        <h2 class="text-3xl font-bold mb-8">The Collective Model</h2>
         <div class="prose prose-lg text-gray-700 mb-8">
             <p>
-                Skylantix operates as a <strong>cooperative microcloud</strong>—not a corporation chasing exponential growth, but a sustainable community growing deliberately toward 5,000 members globally. Each member pays $20/month or $200/year and receives the same services, support, and voting rights.
+                Skylantix operates as a <strong>collective microcloud</strong>—not a corporation chasing exponential growth, but a sustainable community growing deliberately toward 5,000 members globally. Each member pays $20/month or $200/year and receives the same services, support, and voting rights.
             </p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -59,7 +59,7 @@ layout: "company"
                     <div class="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4 mt-1 font-bold">2</div>
                     <div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Setup & Onboarding</h3>
-                        <p class="text-gray-700">We provision your Nextcloud, email, Bitwarden, Firefly, and Gitea accounts. You receive welcome info and Mattermost invite.</p>
+                        <p class="text-gray-700">We provision your Nextcloud, email, Bitwarden, Linkding, Mattermost, Gitea, Immich, and Minecraft Server accounts. You receive welcome info and Mattermost invite.</p>
                     </div>
                 </div>
             </div>
@@ -89,9 +89,12 @@ layout: "company"
     <div class="max-w-5xl mx-auto">
         <h2 class="text-3xl font-bold mb-8 text-center">Infrastructure Architecture</h2>
         <div class="bg-gradient-to-br from-gray-50 to-blue-50 rounded-xl p-8 border-2 border-blue-200">
-            <h3 class="text-2xl font-bold text-gray-900 mb-6">Multi-Location Design</h3>
+            <h3 class="text-2xl font-bold text-gray-900 mb-6">Phased Infrastructure Rollout</h3>
             <p class="text-gray-700 mb-6">
-                Skylantix uses geographic distribution in California (Irvine, Long Beach, Santa Clarita regions) to balance load and provide redundancy. Each location hosts approximately 1,250 users.
+                <strong>Phase 1 (Launch):</strong> Single node in Irvine, CA with RAID10<br>
+                <strong>Phase 2 (100 members):</strong> Add Long Beach node + RAID Z2/Z3 backup<br>
+                <strong>Phase 3 (As needed):</strong> Add Santa Clarita node for full geographic distribution<br>
+                Each location will host approximately 1,250 users for optimal load balancing and redundancy.
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -100,7 +103,7 @@ layout: "company"
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h4 class="font-bold text-purple-900 mb-3">💾 Owner-Managed Hardware</h4>
-                    <p class="text-sm text-gray-700">We own all hardware outright. No AWS lock-in. RAID10 with Z2/Z3 planned. LUKS encrypted drives.</p>
+                    <p class="text-sm text-gray-700">We own all hardware outright. No AWS lock-in. RAID10 now, RAID Z2/Z3 backup at 100 members. LUKS encrypted drives.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h4 class="font-bold text-green-900 mb-3">⚡ Redundant Power & Internet</h4>
@@ -141,7 +144,7 @@ layout: "company"
                     <span class="text-2xl mr-4">💬</span>
                     <div>
                         <h4 class="font-bold text-green-900 mb-1">Mattermost Discussions</h4>
-                        <p class="text-sm text-gray-700">Open discussions on policies, infrastructure changes, and cooperative evolution. Your voice matters.</p>
+                        <p class="text-sm text-gray-700">Open discussions on policies, infrastructure changes, and collective evolution. Your voice matters.</p>
                     </div>
                 </div>
                 <div class="flex items-start p-4 bg-amber-50 rounded-lg">
@@ -170,16 +173,16 @@ layout: "company"
                 <p class="text-sm text-gray-700">Hardware amortized over 3-5 years. $20/month × 5,000 members = predictable revenue for sustainable operations.</p>
             </div>
             <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-500">
-                <h4 class="font-bold text-gray-900 mb-3">Modest Personal Cap</h4>
-                <p class="text-sm text-gray-700">Founder income capped at a modest level. Beyond that, profits go to charity and infrastructure.</p>
+                <h4 class="font-bold text-gray-900 mb-3">Admin Wages First</h4>
+                <p class="text-sm text-gray-700">After operational costs, admins receive livable wages. All surplus beyond that is distributed to the community.</p>
             </div>
             <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-green-500">
                 <h4 class="font-bold text-gray-900 mb-3">Community Reinvestment</h4>
-                <p class="text-sm text-gray-700">50% of surplus profits reinvested in infrastructure, new features, and hardware upgrades decided by the community.</p>
+                <p class="text-sm text-gray-700">50% of surplus profits reinvested in infrastructure, new features, and hardware upgrades. Members vote on priorities and can apply for grants/zero-interest loans.</p>
             </div>
             <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-amber-500">
                 <h4 class="font-bold text-gray-900 mb-3">Ecosystem Support</h4>
-                <p class="text-sm text-gray-700">50% of surplus profits donated to open-source projects and privacy organizations that make this possible.</p>
+                <p class="text-sm text-gray-700">50% of surplus profits returned to the open-source community through donations to projects and organizations voted on by members.</p>
             </div>
         </div>
     </div>
@@ -213,7 +216,7 @@ layout: "company"
     <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl md:text-4xl font-bold mb-6">Ready to Be Part of the Village?</h2>
         <p class="text-xl leading-relaxed mb-8">
-            Join a cooperative that values dignity over domination. Know your sysadmin. Vote on how we grow. Reclaim the decentralized internet.
+            Join a collective that values dignity over domination. Know your sysadmin. Vote on how we grow. Reclaim the decentralized internet.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="/get-started" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-white text-blue-900 hover:bg-gray-100 hover:scale-105 text-lg">

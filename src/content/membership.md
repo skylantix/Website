@@ -1,5 +1,5 @@
 ---
-title: "Membership - Join the Skylantix Cooperative"
+title: "Membership - Join the Skylantix Collective"
 description: "$20/month or $200/year for Nextcloud, email, Bitwarden, and community. One price. No tiers. Transparent and ethical cloud hosting."
 layout: "company"
 ---
@@ -30,7 +30,7 @@ layout: "company"
 <ul class="space-y-3 text-gray-700">
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
-<span><strong>Nextcloud</strong> - 180 GB storage with end-to-end encryption (Google Drive replacement)</span>
+<span><strong>Nextcloud & Immich</strong> - 180 GB shared storage with end-to-end encryption (Google Drive & Photos replacement)</span>
 </li>
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
@@ -42,7 +42,7 @@ layout: "company"
 </li>
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
-<span><strong>Firefly III</strong> - Personal finance management (Mint replacement)</span>
+<span><strong>Linkding</strong> - Bookmark archiving (Pocket replacement)</span>
 </li>
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
@@ -51,6 +51,14 @@ layout: "company"
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
 <span><strong>Gitea</strong> - Git repository hosting for your projects</span>
+</li>
+<li class="flex items-start">
+<span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
+<span><strong>Immich</strong> - Photo management and backup (Google Photos replacement)</span>
+</li>
+<li class="flex items-start">
+<span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
+<span><strong>Minecraft Server</strong> - Connect with fellow members on our shared Java/Bedrock crossplay server</span>
 </li>
 </ul>
 </div>
@@ -88,24 +96,18 @@ layout: "company"
 
 <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-lg p-6 border-2 border-green-200">
 <h4 class="font-bold text-green-900 mb-2">🚀 Coming Soon for Members</h4>
-<p class="text-gray-700">Custom Django/Python app hosting. Because a cooperative grows with its community.</p>
+<p class="text-gray-700">Custom Django/Python app hosting. Because a collective grows with its community.</p>
 </div>
 </div>
 
 <div class="bg-white rounded-2xl shadow-lg p-8 md:p-12 mb-16 border-2 border-gray-100">
-<h2 class="text-3xl font-bold text-gray-900 mb-6 text-center">Student Discounts</h2>
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-<div class="bg-gradient-to-br from-amber-50 to-orange-50 p-6 rounded-lg border-2 border-amber-200">
-<h3 class="text-xl font-bold text-amber-900 mb-3">🎓 UChicago & UC Irvine</h3>
-<p class="text-3xl font-bold text-orange-600 mb-2">40% Off</p>
-<p class="text-gray-700">Students and recent graduates: <strong>$10.20/month</strong></p>
-<p class="text-sm text-gray-600 mt-2 italic">Proof of enrollment or recent graduation required</p>
-</div>
-<div class="bg-gradient-to-br from-purple-50 to-pink-50 p-6 rounded-lg border-2 border-purple-200">
-<h3 class="text-xl font-bold text-purple-900 mb-3">📚 Other Universities</h3>
-<p class="text-3xl font-bold text-purple-600 mb-2">20% Off</p>
-<p class="text-gray-700">All verified students: <strong>$13.60/month</strong></p>
-<p class="text-sm text-gray-600 mt-2 italic">Proof of enrollment required</p>
+<h2 class="text-3xl font-bold text-gray-900 mb-6 text-center">Student Discount</h2>
+<div class="max-w-2xl mx-auto">
+<div class="bg-gradient-to-br from-blue-50 to-purple-50 p-8 rounded-lg border-2 border-blue-200">
+<h3 class="text-2xl font-bold text-blue-900 mb-3">🎓 University Students</h3>
+<p class="text-3xl font-bold text-blue-600 mb-2">40% Off + 1 Month Free</p>
+<p class="text-gray-700 mb-3">Currently enrolled undergraduate students: <strong>$12/month</strong> during enrollment</p>
+<p class="text-sm text-gray-600 mt-2 italic">Valid student ID or proof of enrollment required. Discount applies throughout your undergraduate program.</p>
 </div>
 </div>
 </div>
@@ -129,7 +131,7 @@ layout: "company"
 </svg>
 </div>
 <h3 class="text-xl font-bold text-gray-900 mb-2">California-Based</h3>
-<p class="text-gray-600">All servers in Orange County, CA. Your data stays in California, not scattered across cloud regions.</p>
+<p class="text-gray-600">Starts in Irvine, expands to Long Beach (100 members), then Santa Clarita. Your data stays in California on hardware we own.</p>
 </div>
 <div class="text-center">
 <div class="bg-green-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
@@ -138,7 +140,7 @@ layout: "company"
 </svg>
 </div>
 <h3 class="text-xl font-bold text-gray-900 mb-2">Redundant Infrastructure</h3>
-<p class="text-gray-600">RAID10 backups, redundant internet (fiber + cable + 5G), and solar + battery + grid power.</p>
+<p class="text-gray-600">RAID10 now, RAID Z2/Z3 at 100 members. Redundant internet (fiber + cable + 5G) and solar + battery + grid power.</p>
 </div>
 </div>
 </div>
@@ -149,14 +151,14 @@ layout: "company"
 
 <details class="group">
 <summary class="flex justify-between items-center cursor-pointer list-none p-4 bg-white rounded-lg hover:bg-gray-50 transition shadow-sm">
-<span class="font-semibold text-gray-900">Why $17? Why not $15 or $20?</span>
+<span class="font-semibold text-gray-900">Why $20? Why not $15 or $25?</span>
 <span class="transition group-open:rotate-180">
 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">The price is psychologically sincere—not a marketing trick like $19.99. It's affordable but substantial enough to sustain the service without exploiting users. It leaves room for student discounts (up to 40%) without collapsing margins. It's the value of a cup of coffee per week for privacy, reliability, and transparency.</p>
+<p class="mt-3 text-gray-600 px-4">The price is psychologically sincere—not a marketing trick like $19.99. It's affordable but substantial enough to sustain the service without exploiting users. It leaves room for student discounts (40% for undergraduates) without collapsing margins. It's the value of a cup of coffee per week for privacy, reliability, and transparency.</p>
 </details>
 
 <details class="group">
@@ -168,7 +170,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">Currently, all members get 180 GB for Nextcloud and 20 GB for email. We're focused on sustainability and fairness, so we don't offer variable tiers yet. If you need more, let us know via Mattermost—the cooperative evolves based on member needs.</p>
+<p class="mt-3 text-gray-600 px-4">Currently, all members get 180 GB shared between Nextcloud and Immich, plus 20 GB for email (200 GB total). We're focused on sustainability and fairness, so we don't offer variable tiers yet. If you need more, let us know via Mattermost—the collective evolves based on member needs.</p>
 </details>
 
 <details class="group">
@@ -180,7 +182,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">We're not a business—we're a cooperative growing toward 5,000 members. You can help shape our services. A significant portion of profits are reinvested into the community and the infrastructure you use. You'll know your sysadmin by name. This is community-owned infrastructure, not corporate extraction.</p>
+<p class="mt-3 text-gray-600 px-4">We're not a business—we're a collective growing toward 5,000 members. You can help shape our services. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. Members vote on allocation. You'll know your sysadmin by name. This is community-owned infrastructure, not corporate extraction.</p>
 </details>
 
 <details class="group">
@@ -192,7 +194,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">All infrastructure is in California (Irvine, Long Beach, Santa Clarita regions). Your data stays on hardware we own—not scattered across Amazon's datacenters. We use Cloudflare for security and DDoS protection, but your actual data lives on our RAID10 systems in California.</p>
+<p class="mt-3 text-gray-600 px-4">Infrastructure starts in Irvine, CA and expands to Long Beach (at 100 members) and Santa Clarita (as demand grows). Your data stays on hardware we own—not scattered across Amazon's datacenters. We use Cloudflare for security and DDoS protection, but your actual data lives on our RAID10 systems (RAID Z2/Z3 backup added at 100 members) in California.</p>
 </details>
 
 <details class="group">
@@ -216,14 +218,14 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">Early members are rewarded for their trust and contributions. These perks can range from discounts to lifetime access, depending on the member's contribution to the cooperative. We believe in rewarding those who help us build and grow the community.</p>
+<p class="mt-3 text-gray-600 px-4">The first 50 members get special rewards when Skylantix reaches financial viability (1,200 members): <strong>Annual subscribers get all fees waived permanently</strong>, and <strong>monthly subscribers get a permanent 50% discount</strong>. These perks are our way of thanking those who trust us early and help build the community.</p>
 </details>
 
 </div>
 </div>
 
 <div class="bg-white rounded-2xl shadow-lg p-8 md:p-12 text-center border-2 border-blue-100">
-<h2 class="text-3xl font-bold text-gray-900 mb-4">Ready to Join the Cooperative?</h2>
+<h2 class="text-3xl font-bold text-gray-900 mb-4">Ready to Join the Collective?</h2>
 <p class="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
 Be part of a digital village. Know your sysadmin by name. Vote on how we grow. Reclaim the decentralized internet.
 </p>
