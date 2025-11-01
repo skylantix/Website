@@ -58,8 +58,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
             </div>
         </div>
         <div class="mt-8 p-4 bg-blue-100 rounded-lg border-2 border-blue-300">
-            <p class="text-sm text-gray-700 text-center"><strong>Coming Soon:</strong> Custom Containerized app hosting for members. Because a collective grows with its community.</p>
-            <p class="text-sm text-gray-700 text-center"><strong>Coming Later:</strong> Locally-hosted, private LLM chatbots.</p>   
+            <p class="text-sm text-gray-700 text-center"><strong>Coming Soon:</strong> Custom containerized app hosting for members. Because a collective grows with its community.</p>
         </div>
     </div>
 </div>
@@ -84,7 +83,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
 
 {{< feature
     title="Transparent & Accountable"
-    description="We believe in transparency and accountability. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. The first 50 members get extraordinary perks when we reach viability. We don't just talk about ethics—we encode them into how we operate."
+    description="We believe in transparency and accountability. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. The first 50 members get extraordinary perks when we reach 1,200 members: annual subscribers get free service for life, monthly subscribers get permanent 50% off. We don't just talk about ethics—we encode them into how we operate."
     badge="Radical Transparency"
     badgeColor="#7c3aed"
     image="/images/skylantix_clouds_3.png"

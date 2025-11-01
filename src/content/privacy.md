@@ -9,7 +9,7 @@ robots: "index, follow"
 
 At Skylantix, privacy isn't just a policy—it's why we exist. We're a privacy-first collective microcloud. This policy explains exactly what data we collect, why, and what we do (and don't do) with it.
 
-**Short version:** We collect the absolute minimum needed to run your hosting, we don't sell anything to anyone, and your data stays in California.
+**Short version:** We collect the absolute minimum needed to run the collective, we never sell your information to anyone, and your data stays in California on hardware we own.
 
 ---
 
@@ -55,10 +55,10 @@ We use your information ONLY for:
 
 ## Data Storage & Security
 
-* **Location:** All data is stored in Orange County, California, USA
+* **Location:** All data is stored in Irvine, California, USA on hardware we own (not AWS, Google, or other cloud providers)
 * **Encryption:** Data at rest is encrypted with LUKS; data in transit uses SSL/TLS
-* **Backups:** Automated encrypted backups following 3-2-1 rule
-* **Access:** Only the infrastructure administrator (me) has access, and only when necessary for support or maintenance
+* **Backups:** Automated encrypted backups following 3-2-1 rule (RAID10 now, RAID Z2/Z3 backup added at 100 members)
+* **Access:** Only the infrastructure administrator has access, and only when necessary for support or maintenance
 * **Retention:** Your data is kept as long as you're a member, then securely deleted within 30 days of cancellation
 
 ---
@@ -107,9 +107,10 @@ We won't make changes that reduce your privacy protections without your explicit
 
 ## Contact Us
 
-Questions about privacy? We're happy to explain anything.
+Questions about privacy? We're happy to explain anything. You can reach me directly via Mattermost or email.
 
 * **Email:** hello@skylantix.com
-* **Location:** Orange County, California
+* **Support:** Via Mattermost after joining
+* **Location:** Irvine, California
 
-*Last Updated: October 24, 2024*
+*Last Updated: October 31, 2024*

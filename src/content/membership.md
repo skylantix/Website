@@ -96,7 +96,7 @@ layout: "company"
 
 <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-lg p-6 border-2 border-green-200">
 <h4 class="font-bold text-green-900 mb-2">🚀 Coming Soon for Members</h4>
-<p class="text-gray-700">Custom Django/Python app hosting. Because a collective grows with its community.</p>
+<p class="text-gray-700">Custom containerized app hosting. Because a collective grows with its community.</p>
 </div>
 </div>
 

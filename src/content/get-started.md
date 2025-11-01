@@ -111,9 +111,14 @@ layout: "get-started"
                     <p class="text-gray-700 mb-4">
                         This price is <em>deliberate</em>—not rounded to $19.99 or $24.99, but chosen with intention. It's affordable but substantial enough to sustain the service without exploiting users.
                     </p>
-                    <p class="text-gray-700">
+                    <p class="text-gray-700 mb-4">
                         <strong>Students:</strong> 40% off + 1 month free for undergraduate students—just provide proof of enrollment.
                     </p>
+                    <div class="bg-green-50 border-2 border-green-200 rounded-lg p-4 mt-6">
+                        <p class="text-sm text-gray-700 text-center">
+                            <strong>✓ 14-Day Money-Back Guarantee:</strong> If Skylantix isn't right for you, we'll refund your payment in full within 14 days—no questions asked.
+                        </p>
+                    </div>
                 </div>
 
                 <!-- PAYMENT INTEGRATION SECTION -->
@@ -129,11 +134,22 @@ layout: "get-started"
                     
                     <div class="border-t-2 border-gray-200 pt-6 mt-6">
                         <p class="text-gray-700 text-center mb-4 font-semibold">Pay with Cryptocurrency (Annual Plan Only)</p>
-                        <div class="flex justify-center">
+                        <div class="flex justify-center mb-4">
                             <a href="https://nowpayments.io/payment/?iid=4314745071&source=button" target="_blank" rel="noreferrer noopener">
                                 <img src="https://nowpayments.io/images/embeds/payment-button-white.svg" alt="Cryptocurrency & Bitcoin payment button by NOWPayments">
                             </a>
                         </div>
+                        <div class="bg-amber-50 border-2 border-amber-200 rounded-lg p-4 max-w-2xl mx-auto">
+                            <p class="text-sm text-gray-700 text-center">
+                                <strong>⚠️ Important:</strong> After completing your crypto payment, please email <a href="mailto:hello@skylantix.com" class="text-blue-600 hover:underline font-semibold">hello@skylantix.com</a> with your transaction details and desired username to activate your account.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="text-center mt-8">
+                        <a href="/faq" class="inline-flex items-center justify-center px-6 py-3 rounded-lg font-semibold transition duration-200 ease-in-out bg-gray-100 text-gray-900 hover:bg-gray-200 hover:scale-105">
+                            📖 Have Questions? Read the FAQ
+                        </a>
                     </div>
                 </div>
             </div>
@@ -252,13 +268,13 @@ layout: "get-started"
                 <div class="bg-white rounded-lg shadow-sm p-6">
                     <h3 class="font-bold text-gray-900 mb-2">Where is my data hosted?</h3>
                     <p class="text-gray-600 text-sm">
-                        Your data lives on physical servers in California, owned and managed by Skylantix—not rented from hyperscalers. No tracking, no data mining.
+                        Your data lives on physical servers in Irvine, California, owned and managed by Skylantix—not rented from hyperscalers. No tracking, no data mining.
                     </p>
                 </div>
                 <div class="bg-white rounded-lg shadow-sm p-6">
                     <h3 class="font-bold text-gray-900 mb-2">Can I cancel anytime?</h3>
                     <p class="text-gray-600 text-sm">
-                        Yes. No long-term contracts or lock-ins. Cancel with 30 days notice, and we'll help you export your data cleanly.
+                        Yes. We offer a 14-day money-back guarantee if Skylantix isn't right for you. After that, cancel anytime with no long-term contracts. You have 30 days to export your data after cancellation.
                     </p>
                 </div>
                 <div class="bg-white rounded-lg shadow-sm p-6">

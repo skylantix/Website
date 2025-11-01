@@ -27,12 +27,14 @@ Skylantix isn't traditional hosting. It's collective infrastructure—profession
 We own our hardware. We manage it professionally. We operate transparently. And the community benefits from economies of scale that would be impossible for individuals.
 
 #### For All Members ($20/month)
-- **Nextcloud & Immich**: 180 GB shared storage with end-to-end encryption
+- **Nextcloud**: File storage and digital life management (180 GB shared with Immich)
 - **Email**: @mail.skylantix.com with 20 GB storage (200 GB total)
 - **Bitwarden**: Password manager
-- **Linkding**: Bookmark archiving
+- **Linkding**: Bookmark manager
 - **Mattermost**: Community chat and support
 - **Gitea**: Git repository hosting
+- **Immich**: Photo management and backup (Google Photos replacement)
+- **Minecraft Server**: Shared community server (Java/Bedrock crossplay)
 
 All fully managed. Updates, backups, monitoring, and security handled by the collective.
 

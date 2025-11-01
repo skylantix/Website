@@ -2,11 +2,13 @@
 
 ## Executive Summary
 
-Skylantix is a collective microcloud offering privacy-first cloud services to individuals escaping Big Tech surveillance capitalism. With a break-even point of just 10 paying members and $1,500 in startup costs, the business model is sustainable from day one while maintaining the ability to scale deliberately to 5,000 members.
+Skylantix is a collective microcloud offering privacy-first cloud services to individuals escaping Big Tech surveillance capitalism. With infrastructure costs covered by just 10 paying members and $1,500 in startup costs, the business model allows for sustainable, deliberate growth to 5,000 members.
 
-**Core Offering:** $20/month or $200/year for Nextcloud, email, Bitwarden, Linkding, Mattermost, Gitea, Immich, and Minecraft Server—all on California-based, owner-managed infrastructure.
+**Core Offering:** $20/month or $200/year for a complete de-Google suite: Nextcloud (including Office, Calendar, Contacts, Talk video conferencing), email, Bitwarden, Linkding, Mattermost, Gitea, Immich, and Minecraft Server—all on California-based, owner-managed infrastructure.
 
-**Founder:** Raphael Bitton, University of Chicago student learning production sysadmin work by managing real infrastructure for real users.
+**Value Proposition:** A full Google Workspace + Slack + GitHub replacement for $20/month (compared to $30-50/month for equivalent privacy-focused services separately).
+
+**Founder:** Raphael Bitton, University of Chicago student learning production systems administration by managing real infrastructure for real users. This is openly positioned as a learning project with transparency over perfection.
 
 **Timeline:** Launch before graduation (6 months), reach 10 paying members pre-graduation, scale deliberately post-graduation while living at home in Irvine, CA.
 
@@ -18,9 +20,11 @@ Skylantix is a collective microcloud offering privacy-first cloud services to in
 
 - **Primary:** $20/month or $200/year membership
 - **Student Discount:** $12/month (40% off + 1 month free for enrolled undergraduates)
+- **14-Day Money-Back Guarantee:** Full refund within 14 days of signup (both monthly and annual)
 - **Early Member Perks (First 50 members):**
   - Annual subscribers: Free for life when Skylantix reaches 1,200 members
   - Monthly subscribers: Permanent 50% discount ($10/month) at 1,200 members
+- **Payment Methods:** Credit/debit via Stripe; cryptocurrency via NOWPayments (requires email activation)
 
 ### Cost Structure
 
@@ -34,10 +38,11 @@ Skylantix is a collective microcloud offering privacy-first cloud services to in
 - Internet: Redundant fiber + cable + 5G backup (already existing)
 - Domain, Cloudflare, minimal software licensing
 
-**Break-Even Analysis:**
+**Sustainability Analysis:**
 - **2 users:** Covers hardware amortization (3-5 years)
-- **10 users:** Full break-even ($200/month = $2,400/year)
-- **Every user beyond 10:** Essentially profit (minus time investment)
+- **10 users:** Infrastructure costs covered ($200/month = $2,400/year)
+- **Every user beyond 10:** Revenue growth to support operations and eventual admin wages
+- **Note:** "Infrastructure costs covered" means servers are paid for, but doesn't include founder's time/livelihood until higher member counts
 
 ### Profit Distribution (After Viability at 1,200 Members)
 
@@ -167,10 +172,11 @@ Members vote on:
 - No hyperscaler lock-in (no AWS, Google, Azure)
 
 ### 4. **Sustainable Economics**
-- Break-even at 10 users (not 10,000)
+- Infrastructure costs covered with just 10 users (not 10,000)
 - Hardware amortized over 3-5 years
 - Cloudflare caching reduces bandwidth costs 96-98%
 - No investor pressure for exponential growth
+- Honest about learning curve and operational realities
 
 ### 5. **Community Benefits**
 - 50% of profits to open-source community
@@ -208,12 +214,12 @@ Members vote on:
 - **Mitigation:** Mentorship program, automation, paid part-time support at 100+ members
 
 **2. Hardware Failure**
-- **Risk:** Major equipment failure before break-even
-- **Mitigation:** RAID10 redundancy, automated backups, low break-even point (just 10 users)
+- **Risk:** Major equipment failure before infrastructure is sustainable
+- **Mitigation:** RAID10 redundancy, automated backups, low sustainability threshold (just 10 users cover infrastructure costs)
 
 **3. Reputation Damage**
 - **Risk:** Data loss, breach, or extended outage harms personal reputation
-- **Mitigation:** Cloudflare security, regular backups, incident transparency, conservative growth
+- **Mitigation:** Cloudflare security, regular backups, incident transparency, conservative growth; openly positioning as learning project sets realistic expectations
 
 **4. Time Investment vs. Opportunity Cost**
 - **Risk:** Spending time on Skylantix instead of high-paying corporate job
@@ -221,22 +227,23 @@ Members vote on:
 
 **5. Slow Growth**
 - **Risk:** Stuck at 20-30 members, not enough to justify full-time focus
-- **Mitigation:** Break-even is 10 users; anything above is profit; can run part-time while working elsewhere
+- **Mitigation:** Infrastructure costs covered at 10 users; anything above supports operations; can run part-time while working elsewhere
 
 **6. Market Saturation**
 - **Risk:** Too much competition from Proton, Tutanota, self-hosting providers
-- **Mitigation:** Differentiation through transparency, community, and human-scale positioning; not trying to compete with enterprise players
+- **Mitigation:** Differentiation through transparency, community, and human-scale positioning; complete de-Google suite for $20/month (40-50% cheaper than assembling equivalent privacy-focused services separately); not trying to compete with enterprise players
 
 ---
 
 ## Success Metrics
 
 ### Year 1 (Pre-Graduation + Post-Grad)
-- ✓ 10 paying members (break-even)
+- ✓ 10 paying members (infrastructure costs covered)
 - ✓ $200/month recurring revenue
-- ✓ 99%+ uptime
+- ✓ Target 99% uptime (goal, not guarantee)
 - ✓ Monthly transparency reports published
 - ✓ Public infrastructure documentation
+- ✓ Honest incident reporting and learning in public
 
 ### Year 2
 - ✓ 100 paying members
@@ -317,13 +324,13 @@ If Skylantix cannot continue operations for any reason:
 4. **Refunds:** Pro-rate annual memberships fairly
 5. **Data Deletion:** Securely wipe all member data after migration period
 
-**However:** With break-even at just 10 members and minimal ongoing costs, shutdown is unlikely unless founder chooses to pursue other opportunities.
+**However:** With infrastructure costs covered at just 10 members and minimal ongoing costs, shutdown is unlikely unless founder chooses to pursue other opportunities.
 
 ---
 
 ## Conclusion
 
-Skylantix is positioned as a **sustainable craft project with business upside**. The low break-even point (10 users), minimal startup costs ($1,500), and post-graduation living situation (minimal personal expenses) create an ideal environment for deliberate, principled growth.
+Skylantix is positioned as a **sustainable craft project with business upside**. The low infrastructure sustainability threshold (10 users cover costs), minimal startup costs ($1,500), and post-graduation living situation (minimal personal expenses) create an ideal environment for deliberate, principled growth.
 
 This is not a startup chasing unicorn status. It's a human-scale infrastructure project that happens to be profitable, educational, and aligned with values of transparency, privacy, and community.
 
@@ -331,7 +338,7 @@ This is not a startup chasing unicorn status. It's a human-scale infrastructure 
 
 **The risk:** Minimal financial risk; primary risk is time investment, which yields valuable experience regardless of outcome.
 
-**The timeline:** 6 months to break-even, 2-3 years to viability, 5+ years to steady state.
+**The timeline:** 6 months to infrastructure sustainability, 2-3 years to viability (livable wages), 5+ years to steady state.
 
 **The mission:** Reclaim the decentralized, personal, curious internet that was meant to be.
 

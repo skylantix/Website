@@ -272,8 +272,8 @@ paginatePath = "page"
     url = "/transparency"
     weight = 4
   [[menu.footer_column_2]]
-    name = "Blog"
-    url = "/blog"
+    name = "FAQ"
+    url = "/faq"
     weight = 5
 
   # Footer Column 3 Menu
@@ -282,7 +282,11 @@ paginatePath = "page"
     url = "/privacy"
     weight = 1
   [[menu.footer_column_3]]
+    name = "Terms of Service"
+    url = "/terms"
+    weight = 2
+  [[menu.footer_column_3]]
     name = "Contact"
     url = "/contact"
-    weight = 2
+    weight = 3
 
