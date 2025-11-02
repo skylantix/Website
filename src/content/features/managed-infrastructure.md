@@ -31,7 +31,7 @@ We own our hardware. We manage it professionally. We operate transparently. And 
 
 #### For All Members ($20/month)
 - **Nextcloud**: File storage and digital life management (180 GB shared with Immich)
-- **Email**: @mail.skylantix.com with 20 GB storage (200 GB total)
+- **Email**: @skylantix.net with 20 GB storage (200 GB total)
 - **Bitwarden**: Password manager
 - **Linkding**: Bookmark manager
 - **Mattermost**: Community chat and support

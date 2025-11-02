@@ -392,7 +392,7 @@ Members can apply for:
 **Total Storage:** 200 GB (180 GB shared Nextcloud/Immich + 20 GB email)
 
 **Communication:**
-- **Email**: @mail.skylantix.com address, 20 GB storage (drop-in Google Workspace replacement)
+- **Email**: @skylantix.net address, 20 GB storage (drop-in Google Workspace replacement)
 - **Mattermost**: Community chat, support, governance discussions
 
 **Security & Tools:**
@@ -435,7 +435,7 @@ Members can apply for:
 1. Visit /get-started page
 2. Fill out membership form
 3. Choose membership tier (monthly/annual, student discount if applicable)
-4. Choose @mail.skylantix.com email address
+4. Choose @skylantix.net email address
 5. Payment via Stripe or cryptocurrency
 
 **Timeline:** Immediate payment processing

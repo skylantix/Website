@@ -203,7 +203,7 @@ aliases:
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600">✓</span>
-                    <span>@mail.skylantix.com email with 20GB of storage (a drop-in replacement for Google Workspace)</span>
+                    <span>@skylantix.net email with 20GB of storage (a drop-in replacement for Google Workspace)</span>
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600">✓</span>

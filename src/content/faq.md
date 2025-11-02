@@ -62,7 +62,7 @@ We accept credit and debit cards through our secure payment processor. We don't 
 Every membership ($20/month or $200/year) includes:
 
 - **Nextcloud** - File storage and digital life management
-- **Email** - @mail.skylantix.com address
+- **Email** - @skylantix.net address
 - **Bitwarden** - Password manager
 - **Linkding** - Bookmark manager
 - **Mattermost** - Community chat
@@ -231,7 +231,7 @@ Members vote on allocation priorities.
 
 ### Can I use my own domain for email?
 
-Not currently, but this may be available in the future. For now, all members get an @mail.skylantix.com address.
+Not currently, but this may be available in the future. For now, all members get an @skylantix.net address.
 
 ### Do you support two-factor authentication (2FA)?
 

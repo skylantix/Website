@@ -34,7 +34,7 @@ layout: "company"
 </li>
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>
-<span><strong>Email</strong> - @mail.skylantix.com with 20 GB storage (Gmail replacement)</span>
+<span><strong>Email</strong> - @skylantix.net with 20 GB storage (Gmail replacement)</span>
 </li>
 <li class="flex items-start">
 <span class="mr-3 text-blue-600 text-xl font-bold">✓</span>

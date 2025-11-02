@@ -27,7 +27,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
             <span class="text-gray-500 line-through">Google Drive</span> → <span class="font-semibold text-blue-600">Nextcloud</span>
         </div>
         <div class="bg-white p-4 rounded-lg shadow-sm">
-            <span class="text-gray-500 line-through">Gmail</span> → <span class="font-semibold text-blue-600">@mail.skylantix.com</span>
+            <span class="text-gray-500 line-through">Gmail</span> → <span class="font-semibold text-blue-600">@skylantix.net</span>
         </div>
         <div class="bg-white p-4 rounded-lg shadow-sm">
             <span class="text-gray-500 line-through">Google Photos</span> → <span class="font-semibold text-blue-600">Immich</span>
@@ -54,7 +54,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
                 <h3 class="text-xl font-bold mb-4 text-blue-700">Core Services</h3>
                 <ul class="space-y-3 text-gray-700">
                     <li class="flex items-start"><span class="mr-2 text-blue-600">✓</span><span><strong>Nextcloud</strong> for your files and digital life</span></li>
-                    <li class="flex items-start"><span class="mr-2 text-blue-600">✓</span><span><strong>Email</strong> an @mail.skylantix.com address</span></li>
+                    <li class="flex items-start"><span class="mr-2 text-blue-600">✓</span><span><strong>Email</strong> an @skylantix.net address</span></li>
                     <li class="flex items-start"><span class="mr-2 text-blue-600">✓</span><span><strong>Bitwarden</strong> password manager</span></li>
                     <li class="flex items-start"><span class="mr-2 text-blue-600">✓</span><span><strong>Linkding</strong> bookmark manager</span></li>
                     <li class="flex items-start"><span class="mr-2 text-blue-600">✓</span><span><strong>Mattermost</strong> community chat</span></li>

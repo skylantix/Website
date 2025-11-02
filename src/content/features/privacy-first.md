@@ -98,7 +98,7 @@ This isn't privacy theater. It's not marketing spin. It's infrastructure designe
 
 - **Nextcloud & Immich** with end-to-end encryption for your files and photos (200 GB total: 180 GB shared, 20 GB for email)
 - **Bitwarden** for password management (no LastPass breaches here)
-- **Email** at @mail.skylantix.com without Google scanning it
+- **Email** at @skylantix.net without Google scanning it
 - **Linkding** for bookmark archiving without Pocket selling your reading habits
 
 ### Collective Transparency

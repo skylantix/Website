@@ -31,7 +31,7 @@ layout: "get-started"
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                     </svg>
                     <div>
-                        <h3 class="font-bold text-gray-900 mb-1">Email @mail.skylantix.com</h3>
+                        <h3 class="font-bold text-gray-900 mb-1">Email (@skylantix.net)</h3>
                         <p class="text-sm text-gray-600">20 GB mailbox—a drop-in replacement for Google Workspace</p>
                     </div>
                 </div>
@@ -173,7 +173,7 @@ layout: "get-started"
                             Choose your payment method above (card via Stripe or crypto via NOWPayments), or email us at <a href="mailto:hello@skylantix.com" class="text-primary-600 hover:text-primary-700 font-semibold">hello@skylantix.com</a> if you prefer to discuss first.
                         </p>
                         <p class="text-gray-600">
-                            Please include your desired <code class="bg-gray-100 px-2 py-1 rounded text-sm">@mail.skylantix.com</code> username in your signup or email.
+                            Please include your desired <code class="bg-gray-100 px-2 py-1 rounded text-sm">@skylantix.net</code> username in your signup or email.
                         </p>
                     </div>
                 </div>

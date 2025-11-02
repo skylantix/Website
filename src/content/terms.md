@@ -43,7 +43,7 @@ By creating a Skylantix account, you agree to these terms. If you don't agree, p
 Skylantix provides the following services for $20/month or $200/year:
 
 - **Nextcloud** - File storage and digital life management
-- **Email** - @mail.skylantix.com address with 20 GB storage
+- **Email** - @skylantix.net address with 20 GB storage
 - **Bitwarden** - Password manager
 - **Linkding** - Bookmark manager
 - **Mattermost** - Community chat

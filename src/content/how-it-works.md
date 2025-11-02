@@ -50,7 +50,7 @@ layout: "company"
                     <div class="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4 mt-1 font-bold">1</div>
                     <div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Sign Up</h3>
-                        <p class="text-gray-700">Join at $20/month or $200/year (or discounted rate for students). Provide basic info and choose your @mail.skylantix.com email address.</p>
+                        <p class="text-gray-700">Join at $20/month or $200/year (or discounted rate for students). Provide basic info and choose your @skylantix.net email address.</p>
                     </div>
                 </div>
             </div>
