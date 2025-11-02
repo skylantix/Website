@@ -113,4 +113,4 @@ Questions about privacy? We're happy to explain anything. You can reach me direc
 * **Support:** Via Mattermost after joining
 * **Location:** Irvine, California
 
-*Last Updated: October 31, 2024*
+*Last Updated: November 1, 2025*

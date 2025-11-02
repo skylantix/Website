@@ -115,15 +115,15 @@ You may NOT:
 
 ## 5. Early Member Benefits
 
-The first 50 members receive extraordinary perks when Skylantix reaches 1,200 members:
+The first 50 members total (regardless of plan type) receive extraordinary perks when Skylantix reaches 1,250 members:
 
-- **Annual subscribers:** All fees waived permanently (free for life)
-- **Monthly subscribers:** Permanent 50% discount ($10/month instead of $20)
+- **If you chose annual:** All fees waived as long as Skylantix operates
+- **If you chose monthly:** 50% discount ($10/month instead of $20) as long as Skylantix operates
 
 **Important:**
 - Early member status is tied to your account (non-transferable)
 - If you cancel and rejoin, you lose early member benefits
-- Benefits activate automatically when we reach 1,200 members
+- Benefits activate automatically when we reach 1,250 members
 
 ---
 
@@ -376,5 +376,5 @@ Let's build a better internet together.
 
 ---
 
-*Last Updated: October 31, 2024*
-*Effective Date: October 31, 2024*
+*Last Updated: November 1, 2025*
+*Effective Date: November 1, 2025*

@@ -218,7 +218,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">The first 50 members get special rewards when Skylantix reaches financial viability (1,200 members): <strong>Annual subscribers get all fees waived permanently</strong>, and <strong>monthly subscribers get a permanent 50% discount</strong>. These perks are our way of thanking those who trust us early and help build the community.</p>
+<p class="mt-3 text-gray-600 px-4">The first 50 members total get special rewards when Skylantix reaches financial viability (1,250 members): <strong>if you chose annual, all fees waived as long as Skylantix operates</strong>, and <strong>if you chose monthly, 50% off as long as Skylantix operates</strong>. These perks are our way of thanking those who trust us early and help build the community.</p>
 </details>
 
 </div>
@@ -231,6 +231,7 @@ Be part of a digital village. Know your sysadmin by name. Vote on how we grow. R
 </p>
 <div class="flex flex-col sm:flex-row gap-4 justify-center">
 <a href="/get-started" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-blue-600 text-white hover:bg-blue-700 hover:scale-105 text-lg">Join Skylantix</a>
+<a href="/timeline" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-purple-600 text-white hover:bg-purple-700 hover:scale-105 text-lg">View Timeline</a>
 <a href="/philosophy" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-gray-100 text-gray-900 hover:bg-gray-200 hover:scale-105 text-lg">Read Our Philosophy</a>
 </div>
 <p class="text-sm text-gray-500 mt-6">Growing toward 5,000 members worldwide</p>

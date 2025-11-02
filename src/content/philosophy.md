@@ -51,7 +51,7 @@ aliases:
                     Skylantix is built on <strong>solid economics from day one</strong>. The infrastructure costs are covered with minimal members, allowing me to focus on growing the collective deliberately rather than desperately. This isn't a venture-backed startup burning cash—it's a sustainable craft project. The infrastructure runs on owner-managed servers with redundant internet (fiber + cable + 5G backup), solar power, and battery backup. Everything is fronted through Cloudflare for security and DDoS protection, with automated offsite backups following the 3-2-1 rule.
                 </p>
                 <p>
-                    This is a human-scale operation by design. Small, sustainable, and built on trust—not market share. $20/month or $200/year. The first 50 members get extraordinary perks when we reach 1,200 members: annual subscribers get free service for life, monthly subscribers get permanent 50% off. <strong>We're building this together, deliberately and transparently.</strong>
+                    This is a human-scale operation by design. Small, sustainable, and built on trust—not market share. $20/month or $200/year. The first 50 members total get extraordinary perks when we reach 1,250 members: if you chose annual, free service as long as Skylantix operates; if you chose monthly, 50% off as long as Skylantix operates. <strong>We're building this together, deliberately and transparently.</strong>
                 </p>
                 <figure class="mx-auto text-center">
                     <img src="/images/airplane.png" alt="Raphael Bitton, Founder" class="mx-auto rounded-lg shadow-md" />
@@ -233,15 +233,20 @@ aliases:
         <div class="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 border-2 border-amber-200 mb-8">
             <h3 class="text-2xl font-bold text-amber-900 mb-4">🎁 Rewarding Early Members</h3>
             <p class="text-gray-700 mb-3">
-                The first 50 members get extraordinary rewards when Skylantix reaches financial viability (1,200 members):
+                The first 50 members total get extraordinary rewards when Skylantix reaches financial viability (1,250 members):
             </p>
             <ul class="text-gray-700 space-y-2">
-                <li><strong>Annual subscribers:</strong> All fees waived permanently (free for life)</li>
-                <li><strong>Monthly subscribers:</strong> Permanent 50% discount ($10/month instead of $20)</li>
+                <li><strong>If you chose annual:</strong> All fees waived as long as Skylantix operates</li>
+                <li><strong>If you chose monthly:</strong> 50% discount ($10/month instead of $20) as long as Skylantix operates</li>
             </ul>
             <p class="text-gray-700 mt-3 italic">
                 These perks are our way of thanking those who trust us early and help build the community from the ground up.
             </p>
+            <div class="text-center mt-4">
+                <a href="/timeline" class="inline-flex items-center justify-center px-6 py-3 rounded-lg font-semibold transition duration-200 ease-in-out bg-amber-600 text-white hover:bg-amber-700 hover:scale-105">
+                    See When Perks Activate →
+                </a>
+            </div>
         </div>
         <div class="prose prose-lg text-gray-700">
             <p>
@@ -261,6 +266,11 @@ aliases:
             <p>
                 With Cloudflare and VPS-based caching, Skylantix can reduce outbound bandwidth by 96–98%, keeping operational costs and ISP scrutiny minimal. Hardware is amortized over 3-5 years, ensuring stable costs while user data remains on owner-managed, privacy-respecting systems. <strong>No hyperscaler lock-in.</strong>
             </p>
+        </div>
+        <div class="text-center mt-8">
+            <a href="/timeline" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-blue-600 text-white hover:bg-blue-700 hover:scale-105 text-lg">
+                View Our Timeline & Milestones
+            </a>
         </div>
     </div>
 {{< /section-container >}}

@@ -236,6 +236,7 @@ paginatePath = "page"
       has_submenu = true
       submenu = [
         { name = "Our Philosophy", url = "/philosophy/" },
+        { name = "Timeline", url = "/timeline/" },
         { name = "Mentorship", url = "/mentorship/" },
         { name = "Contact", url = "/contact/" }
       ]

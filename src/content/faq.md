@@ -139,17 +139,21 @@ Yes, you can rejoin anytime. However, early member benefits (if you had them) ar
 
 ### What are the early member perks?
 
-The first 50 members receive extraordinary rewards when Skylantix reaches 1,200 members:
-- **Annual subscribers:** All fees waived permanently (free for life)
-- **Monthly subscribers:** Permanent 50% discount ($10/month instead of $20)
+The first 50 members total (regardless of plan type) receive extraordinary rewards when Skylantix reaches 1,250 members:
+- **If you chose annual:** All fees waived as long as Skylantix operates
+- **If you chose monthly:** 50% discount ($10/month instead of $20) as long as Skylantix operates
 
 ### When do the perks activate?
 
-Perks activate automatically when we reach 1,200 paying members. We'll announce this milestone via email and Mattermost.
+Perks activate automatically when we reach 1,250 paying members. We'll announce this milestone via email and Mattermost.
 
 ### Can I transfer my early member status?
 
 No, early member status is tied to your account and non-transferable. If you cancel and rejoin, you lose early member benefits.
+
+### Want to see the full growth plan?
+
+Check out our [Timeline & Roadmap](/timeline) to see exactly what happens at each milestone from launch to 5,000 members.
 
 ---
 
@@ -281,4 +285,4 @@ We're building Skylantix transparently and honestly. If something's unclear, jus
 
 ---
 
-*Last Updated: October 31, 2024*
+*Last Updated: November 1, 2025*

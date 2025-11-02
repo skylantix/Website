@@ -16,6 +16,9 @@ features:
 demo:
   description: "Host your digital life with confidence, knowing your data stays private and under your control."
   image: "/images/feature-2.svg"
+contact_cta:
+  title: "Questions About Privacy & Security?"
+  description: "We believe privacy requires transparency. Ask us anything about our security architecture, data handling, or governance model."
 ---
 
 ## Your Data. Your Privacy. Your Dignity.

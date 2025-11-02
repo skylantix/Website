@@ -16,6 +16,9 @@ features:
 demo:
   description: "Focus on your digital life while the collective manages infrastructure for everyone."
   image: "/images/feature-3.svg"
+contact_cta:
+  title: "Questions About Our Infrastructure?"
+  description: "We're happy to discuss our infrastructure architecture, security measures, and how we manage collective resources. Reach out anytime."
 ---
 
 ## Infrastructure That Works for the Community

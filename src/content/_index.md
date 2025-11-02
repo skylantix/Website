@@ -16,6 +16,26 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
     gradient-angle="180"
 >}}
 
+{{< section-container class="py-8 md:py-12 bg-gradient-to-r from-blue-50 to-purple-50" >}}
+<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Replace Google Workspace with Privacy-Focused Alternatives</h2>
+    <p class="text-lg text-gray-700 max-w-3xl mx-auto mb-6">
+        Escape surveillance capitalism without becoming your own sysadmin. Get Nextcloud, email, Bitwarden, photo backup, and more—fully managed on California-based infrastructure you can trust.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-3xl mx-auto text-sm">
+        <div class="bg-white p-4 rounded-lg shadow-sm">
+            <span class="text-gray-500 line-through">Google Drive</span> → <span class="font-semibold text-blue-600">Nextcloud</span>
+        </div>
+        <div class="bg-white p-4 rounded-lg shadow-sm">
+            <span class="text-gray-500 line-through">Gmail</span> → <span class="font-semibold text-blue-600">@mail.skylantix.com</span>
+        </div>
+        <div class="bg-white p-4 rounded-lg shadow-sm">
+            <span class="text-gray-500 line-through">Google Photos</span> → <span class="font-semibold text-blue-600">Immich</span>
+        </div>
+    </div>
+</div>
+{{< /section-container >}}
+
 {{< section-container class="py-12 md:py-20 bg-white" >}}
 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
     <h2 class="text-2xl sm:text-3xl font-bold text-center mb-3 md:mb-4">One Membership. Everything You Need.</h2>
@@ -64,6 +84,18 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
 </div>
 {{< /section-container >}}
 
+{{< section-container class="py-8 md:py-12 bg-gradient-to-r from-purple-600 to-blue-600" >}}
+<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <h2 class="text-2xl md:text-3xl font-bold mb-4 text-white">Deliberate Growth from Launch to 5,000 Members</h2>
+    <p class="text-lg mb-6 text-white">
+        We're not chasing exponential growth. See exactly what happens at 10, 100, 500, 1,250, and 5,000 members—with concrete milestones and planned pauses.
+    </p>
+    <a href="/timeline" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-white text-purple-600 hover:bg-gray-100 hover:scale-105 text-lg shadow-lg">
+        View Our Timeline & Roadmap →
+    </a>
+</div>
+{{< /section-container >}}
+
 {{< features-section
     title="Why Skylantix is Different"
     description="We're a community reclaiming the decentralized internet."
@@ -83,13 +115,13 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
 
 {{< feature
     title="Transparent & Accountable"
-    description="We believe in transparency and accountability. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. The first 50 members get extraordinary perks when we reach 1,200 members: annual subscribers get free service for life, monthly subscribers get permanent 50% off. We don't just talk about ethics—we encode them into how we operate."
+    description="We believe in transparency and accountability. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. The first 50 members total get extraordinary perks when we reach 1,250 members: if you chose annual, free service as long as Skylantix operates; if you chose monthly, 50% off as long as Skylantix operates. We don't just talk about ethics—we encode them into how we operate."
     badge="Radical Transparency"
     badgeColor="#7c3aed"
     image="/images/skylantix_clouds_3.png"
     buttonText="See Our Finances"
     buttonLink="/transparency/"
-    features="Published financials,Profit sharing model,Lifetime memberships,Community accountability"
+    features="Published financials,Profit sharing model,Deliberate growth,Community accountability"
     imagePosition="left"
 >}}
 
@@ -114,9 +146,14 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
     <p class="text-lg text-gray-600 mb-6">
         "I'm building Skylantix to be the kind of cloud I've always wanted: small, transparent, and built on trust. After graduation, I'm running this full-time from Irvine—where the servers live. You'll talk to me directly, not a ticket system."
     </p>
-    <a href="/philosophy" class="text-blue-600 font-semibold hover:underline">
-        Read Our Philosophy &rarr;
-    </a>
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/philosophy" class="text-blue-600 font-semibold hover:underline">
+            Read Our Philosophy &rarr;
+        </a>
+        <a href="/timeline" class="text-purple-600 font-semibold hover:underline">
+            View Growth Timeline &rarr;
+        </a>
+    </div>
 </div>
 {{< /section-container >}}
 

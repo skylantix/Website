@@ -16,6 +16,9 @@ features:
 demo:
   description: "Experience community-driven infrastructure where users and sysadmins work together."
   image: "/images/feature-1.svg"
+contact_cta:
+  title: "Want to Experience the Digital Village?"
+  description: "Get to know us before joining. Ask questions, learn about our community, and see if Skylantix is the right fit for you."
 ---
 
 ## A Digital Village, Not a Service Provider
@@ -56,7 +59,7 @@ This isn't customer service. It's community.
 
 ### Rewarding Early Members
 
-The first 50 members receive exceptional rewards when Skylantix reaches 1,200 members: annual subscribers get free service for life, while monthly subscribers get a permanent 50% discount. This is about building together, not just transacting.
+The first 50 members total receive exceptional rewards when Skylantix reaches 1,250 members: if you chose annual, free service as long as Skylantix operates; if you chose monthly, 50% off as long as Skylantix operates. This is about building together, not just transacting.
 
 ### Comparison to Traditional Hosting
 

@@ -259,7 +259,7 @@ layout: "company"
 
 {{< section-container class="py-20 bg-gradient-to-br from-gray-900 to-blue-900 text-white" >}}
     <div class="max-w-4xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-6">Questions About Transparency?</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-6 text-white">Questions About Transparency?</h2>
         <p class="text-xl leading-relaxed mb-8">
             We believe in operating in the open. If you have questions about our financials, governance, or anything else, just ask.
         </p>

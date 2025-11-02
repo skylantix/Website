@@ -214,13 +214,16 @@ layout: "company"
 
 {{< section-container class="py-20 bg-gradient-to-br from-gray-900 to-blue-900 text-white" >}}
     <div class="max-w-4xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-6">Ready to Be Part of the Village?</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-6 text-white">Ready to Be Part of the Village?</h2>
         <p class="text-xl leading-relaxed mb-8">
             Join a collective that values dignity over domination. Know your sysadmin. Vote on how we grow. Reclaim the decentralized internet.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="/get-started" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-white text-blue-900 hover:bg-gray-100 hover:scale-105 text-lg">
                 Join Skylantix
+            </a>
+            <a href="/timeline" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-purple-700 text-white hover:bg-purple-600 hover:scale-105 text-lg border-2 border-white">
+                View Timeline
             </a>
             <a href="/philosophy" class="inline-flex items-center justify-center px-8 py-4 rounded-lg font-bold transition duration-200 ease-in-out bg-blue-700 text-white hover:bg-blue-600 hover:scale-105 text-lg border-2 border-white">
                 Read Our Philosophy
