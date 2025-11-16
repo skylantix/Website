@@ -105,7 +105,7 @@ layout: "get-started"
             <div class="text-center">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Membership Dues</h2>
                 <p class="text-3xl font-bold text-gray-900 mb-6">
-                    $20/month or $200/year <span class="text-lg font-normal text-gray-600">(save $40)</span>
+                    $20/month or $200/year
                 </p>
                 <div class="max-w-2xl mx-auto mb-8">
                     <p class="text-gray-700 mb-4">

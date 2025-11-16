@@ -4,30 +4,22 @@ description: "Our transparent roadmap with concrete milestones. See exactly what
 layout: "company"
 ---
 
-{{< section-container class="bg-gradient-to-b from-blue-50 via-purple-50 to-white pt-20 pb-32" >}}
+{{< section-container class="bg-gradient-to-b from-blue-50 via-purple-50 to-white pt-20 pb-12" >}}
     <div class="text-center max-w-4xl mx-auto">
         <h1 class="text-4xl md:text-5xl font-bold mb-6">Timeline & Roadmap</h1>
         <p class="text-2xl text-gray-700 mb-8 font-light">
             Concrete milestones for transparent, deliberate growth. Here's exactly what happens as Skylantix grows.
         </p>
-    </div>
-{{< /section-container >}}
-
-{{< section-container class="py-20 bg-white" >}}
-    <div class="max-w-4xl mx-auto">
-        <div class="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-8 border-2 border-blue-200 mb-12">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4 text-center">🗺️ Current Status</h2>
-            <div class="text-center">
-                <div class="inline-block bg-blue-600 text-white text-lg font-bold px-6 py-3 rounded-full mb-4">
-                    Pre-Launch (Targeting First 10 Members)
-                </div>
-                <p class="text-lg text-gray-700">
-                    Infrastructure built, services configured, preparing for launch. Operating as sole proprietorship until 10-member milestone.
-                </p>
-                <p class="text-gray-600 mt-4 italic">
-                    We're learning in public and building deliberately. Join us on the journey.
-                </p>
+        <div class="bg-white rounded-xl p-8 border-2 border-purple-300 shadow-xl mt-8 inline-block">
+            <div class="inline-block bg-blue-600 text-white text-lg font-bold px-6 py-3 rounded-full mb-4">
+                Pre-Launch (Targeting First 10 Members)
             </div>
+            <p class="text-lg text-gray-700 mt-4">
+                Infrastructure built, services configured, preparing for launch. Operating as sole proprietorship until 10-member milestone.
+            </p>
+            <p class="text-gray-600 mt-4 italic">
+                We're learning in public and building deliberately. Join us on the journey.
+            </p>
         </div>
     </div>
 {{< /section-container >}}
@@ -81,11 +73,7 @@ layout: "company"
                         <ul class="space-y-2 text-gray-700 text-sm">
                             <li class="flex items-start">
                                 <span class="mr-2 text-blue-600">✓</span>
-                                <span><strong>Incorporate:</strong> Formalize legal structure (likely LLC or cooperative)</span>
-                            </li>
-                            <li class="flex items-start">
-                                <span class="mr-2 text-blue-600">✓</span>
-                                <span>Infrastructure costs fully covered ($200/month)</span>
+                                <span><strong>Incorporate:</strong> Form an LLC in California</span>
                             </li>
                             <li class="flex items-start">
                                 <span class="mr-2 text-blue-600">✓</span>
@@ -129,6 +117,11 @@ layout: "company"
                             <h5 class="font-bold text-purple-900 mb-2">👥 Part-Time Support</h5>
                             <p class="text-sm text-gray-700">Hire 1-2 part-time support staff from mentorship program</p>
                         </div>
+                    </div>
+                    <div class="mt-6 bg-purple-100 p-4 rounded-lg border-2 border-purple-300">
+                        <p class="text-sm text-gray-700 text-center">
+                            <strong>🏢 Business & Enterprise Solutions:</strong> We'll begin deploying business and enterprise solutions for teams and organizations
+                        </p>
                     </div>
                 </div>
             </div>
