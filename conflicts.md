@@ -7,7 +7,7 @@
   3. ✅ Business identity - Consistently described as "collective microcloud"
   4. ✅ Dates updated - All dates now show 2025-11-01
   5. ✅ Firefly removed - No longer mentioned anywhere
-  6. ✅ Profit distribution - Clearly stated as "50/50 split after admin wages" (50% reinvestment, 50% open-source)
+  6. ✅ Profit distribution - Clearly stated as "50/50 split after admin wages" (50% reinvestment in an endowment to help prices stay low long term, 50% open-source)
   7. ✅ Student discount - Consistently "40% off + 1 month free for undergraduate students"
   8. ✅ Early member perks - Clearly defined (Annual = free for life, Monthly = 50% off at 1,200 members)
   9. ✅ RAID Z2/Z3 - Consistently "RAID10 now, RAID Z2/Z3 backup added at 100 members"

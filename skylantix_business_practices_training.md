@@ -159,7 +159,7 @@
 
 ### After Operational Costs and Admin Wages
 
-**50% Reinvested** in infrastructure and features:
+**50% Reinvested** in an endowment to help prices stay low long term:
 - Hardware upgrades and expansion
 - RAID Z2/Z3 backup implementations
 - New member services (Django hosting, custom apps)

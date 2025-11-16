@@ -253,7 +253,7 @@ layout: "company"
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-amber-600">•</span>
-                            <span>50/50 profit distribution begins (reinvestment + open-source donations)</span>
+                            <span>50/50 profit distribution begins (reinvestment in an endowment to help prices stay low long term + open-source donations)</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-amber-600">•</span>

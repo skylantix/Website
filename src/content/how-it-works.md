@@ -178,7 +178,7 @@ layout: "company"
             </div>
             <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-green-500">
                 <h4 class="font-bold text-gray-900 mb-3">Community Reinvestment</h4>
-                <p class="text-sm text-gray-700">50% of surplus profits reinvested in infrastructure, new features, and hardware upgrades. Members vote on priorities and can apply for grants/zero-interest loans.</p>
+                <p class="text-sm text-gray-700">50% of surplus profits reinvested in an endowment to help prices stay low long term. Members vote on priorities and can apply for grants/zero-interest loans.</p>
             </div>
             <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-amber-500">
                 <h4 class="font-bold text-gray-900 mb-3">Ecosystem Support</h4>

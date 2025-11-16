@@ -182,7 +182,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">We're not a business—we're a collective growing toward 5,000 members. You can help shape our services. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. Members vote on allocation. You'll know your sysadmin by name. This is community-owned infrastructure, not corporate extraction.</p>
+<p class="mt-3 text-gray-600 px-4">We're not a business—we're a collective growing toward 5,000 members. You can help shape our services. After admin wages, profits are split 50/50: reinvestment in an endowment to help prices stay low long term and support for the open-source community. Members vote on allocation. You'll know your sysadmin by name. This is community-owned infrastructure, not corporate extraction.</p>
 </details>
 
 <details class="group">

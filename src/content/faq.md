@@ -220,7 +220,7 @@ No, participation is voluntary. You can just use the services and enjoy the priv
 ### What's the profit sharing model?
 
 After covering operational costs and livable wages for admins:
-- **50%** reinvested in infrastructure and new features
+- **50%** reinvested in an endowment to help prices stay low long term
 - **50%** donated to the open-source community
 
 Members vote on allocation priorities.

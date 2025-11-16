@@ -28,7 +28,7 @@ layout: "company"
             </div>
             <div class="bg-gradient-to-br from-purple-50 to-purple-100 p-6 rounded-lg border-2 border-purple-200">
                 <h3 class="font-bold text-purple-900 mb-3 text-xl">💰 Profit Sharing</h3>
-                <p class="text-sm text-gray-700">After admin wages and costs, surplus profits split 50/50: reinvestment and open-source community support.</p>
+                <p class="text-sm text-gray-700">After admin wages and costs, surplus profits split 50/50: reinvestment in an endowment to help prices stay low long term and open-source community support.</p>
             </div>
             <div class="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-lg border-2 border-green-200">
                 <h3 class="font-bold text-green-900 mb-3 text-xl">🗳️ Community Governance</h3>
@@ -50,7 +50,7 @@ layout: "company"
                 <ul class="space-y-2 text-gray-700 mb-4 ml-6">
                     <li class="flex items-start">
                         <span class="mr-2 text-blue-600 font-bold">→</span>
-                        <span><strong>50% reinvested</strong> into infrastructure and new features</span>
+                        <span><strong>50% reinvested</strong> into an endowment to help prices stay low long term</span>
                     </li>
                     <li class="flex items-start">
                         <span class="mr-2 text-green-600 font-bold">→</span>
@@ -90,7 +90,7 @@ layout: "company"
                 </div>
                 <div class="bg-gradient-to-br from-blue-50 to-indigo-50 p-6 rounded-lg border-2 border-blue-300">
                     <h4 class="text-2xl font-bold text-blue-800 mb-4">50% Reinvested</h4>
-                    <p class="text-gray-700 mb-4">Reinvested into Skylantix infrastructure and features:</p>
+                    <p class="text-gray-700 mb-4">Reinvested into an endowment to help prices stay low long term:</p>
                     <ul class="space-y-2 text-sm text-gray-700">
                         <li class="flex items-start">
                             <span class="mr-2 text-blue-600">•</span>

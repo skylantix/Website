@@ -115,7 +115,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
 
 {{< feature
     title="Transparent & Accountable"
-    description="We believe in transparency and accountability. After admin wages, profits are split 50/50: reinvestment in infrastructure and support for the open-source community. The first 50 members total get extraordinary perks when we reach 1,250 members: if you chose annual, free service as long as Skylantix operates; if you chose monthly, 50% off as long as Skylantix operates. We don't just talk about ethics—we encode them into how we operate."
+    description="We believe in transparency and accountability. After admin wages, profits are split 50/50: reinvestment in an endowment to help prices stay low long term and support for the open-source community. The first 50 members total get extraordinary perks when we reach 1,250 members: if you chose annual, free service as long as Skylantix operates; if you chose monthly, 50% off as long as Skylantix operates. We don't just talk about ethics—we encode them into how we operate."
     badge="Radical Transparency"
     badgeColor="#7c3aed"
     image="/images/skylantix_clouds_3.png"

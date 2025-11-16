@@ -119,7 +119,7 @@ Infrastructure is designed for long-term sustainability:
 - **Fixed Costs**: Hardware amortized over 3-5 years, predictable expenses
 - **Community Scale**: 5,000 members share infrastructure costs
 - **Efficient Architecture**: Cloudflare caching reduces bandwidth 96-98%
-- **Reinvestment**: 50% of surplus profits go to infrastructure upgrades (community votes on priorities)
+- **Reinvestment**: 50% of surplus profits go to an endowment to help prices stay low long term (community votes on priorities)
 - **No Vendor Lock-in**: We own hardware outright, no surprise cloud bills
 
 ### Who This Is For

@@ -177,7 +177,7 @@ aliases:
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8 not-prose">
                 <div class="bg-purple-50 p-6 rounded-lg">
                     <h3 class="font-bold text-purple-900 mb-2">Accountability</h3>
-                    <p class="text-sm text-gray-700">After admin wages, profits split 50/50: reinvestment in infrastructure and support for open-source community.</p>
+                    <p class="text-sm text-gray-700">After admin wages, profits split 50/50: reinvestment in an endowment to help prices stay low long term and support for open-source community.</p>
                 </div>
                 <div class="bg-green-50 p-6 rounded-lg">
                     <h3 class="font-bold text-green-900 mb-2">Sustainability</h3>

@@ -89,7 +89,7 @@ What you pay reflects the actual cost of running and improving the service—no 
 If Skylantix has a good year, members feel it too. Some years that means better hardware, more features, or free upgrades. Some years, it means no bill in December. When Skylantix wins, everyone wins.
 
 **Key Principles:**
-- Surplus profits split 50/50: reinvestment and community donations
+- Surplus profits split 50/50: reinvestment in an endowment to help prices stay low long term and community donations
 - Members vote on allocation priorities
 - Early member rewards at viability milestones
 - Community grants and zero-interest loans
