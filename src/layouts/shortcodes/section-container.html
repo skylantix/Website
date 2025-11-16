@@ -1,0 +1,4 @@
+{{ $class := .Get "class" }}
+<section {{ with $class }}class="{{ . }}"{{ end }}>
+    {{ .Inner }}
+</section>

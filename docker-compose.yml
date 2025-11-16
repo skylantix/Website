@@ -1,3 +1,5 @@
+name: skylantix.com
+
 services:
   skylantix-website:
     build:
