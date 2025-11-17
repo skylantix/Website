@@ -54,8 +54,8 @@ Skylantix provides the following services for $20/month or $200/year:
 **Storage:** 200 GB total (180 GB shared between Nextcloud/Immich + 20 GB email)
 
 **Infrastructure:**
-- California-based servers (Irvine, Long Beach at 100 members, Santa Clarita as needed)
-- RAID10 redundancy (RAID Z2/Z3 backup added at 100 members)
+- California-based servers (Orange County at launch, geographically distinct nodes added as we scale)
+- RAID Z3 redundancy from launch
 - Automated encrypted backups following 3-2-1 rule
 - Cloudflare DDoS protection and SSL/TLS
 
@@ -93,7 +93,7 @@ You may NOT:
 
 - **Monthly:** $20/month
 - **Annual:** $200/year (save $40)
-- **Student Discount:** $12/month (40% off + 1 month free for currently enrolled undergraduates)
+- **Student Discount:** $12/month or $120/year (40% off for 3 years for university students)
 
 ### Payment Terms
 
@@ -144,8 +144,8 @@ We aim for **99% uptime** (excluding scheduled maintenance) and work diligently 
 We're honest about limitations:
 - **No enterprise SLAs** - This is personally managed infrastructure, not a professional operations team
 - **Learning process** - I'm improving systems administration skills while running production infrastructure
-- **California power outages** - May cause brief interruptions (we have solar + battery backup, but it's not perfect)
-- **Internet outages** - Beyond our control (we have redundant connections: fiber, cable, 5G)
+- **California power outages** - May cause brief interruptions (we have backup power systems, but they're not perfect)
+- **Internet outages** - Beyond our control (we have redundant connections)
 - **Force majeure** - Natural disasters, wars, pandemics, etc.
 - **Human error** - I'm learning and mistakes will happen; I'll be transparent when they do
 
@@ -175,7 +175,7 @@ If uptime drops significantly in a month, I'll:
 We maintain automated encrypted backups:
 - Daily backups retained for 30 days
 - Following 3-2-1 rule (3 copies, 2 different media, 1 offsite)
-- RAID10 for redundancy (RAID Z2/Z3 backup at 100 members)
+- RAID Z3 redundancy
 
 **IMPORTANT:** Backups are for disaster recovery, not version control. You should maintain your own local backups of critical data.
 
@@ -321,9 +321,11 @@ As a collective microcloud, members have a voice:
 
 If using the student discount:
 
-- You must provide proof of enrollment (valid .edu email or enrollment letter)
-- Verification happens once per year
-- Discount ends when you graduate or are no longer enrolled
+- You must email student@skylantix.com from your university .edu email address with proof of enrollment (Student ID, unofficial transcript, or National Student Clearinghouse certificate of enrollment)
+- Verification happens once when you sign up
+- You receive the discount for 3 years from signup (no ongoing verification required)
+- You must be enrolled at the time of initial signup
+- After 3 years, pricing transitions to standard rates ($20/month or $200/year)
 - Falsifying student status results in account termination
 
 ---
@@ -358,7 +360,7 @@ Questions about these terms?
 
 - **Email:** hello@skylantix.com
 - **Mattermost:** Available after joining
-- **Location:** Irvine, California
+- **Location:** Orange County, California
 
 We're happy to explain anything. Our goal is transparency, not hiding behind legalese.
 

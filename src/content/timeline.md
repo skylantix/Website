@@ -48,11 +48,11 @@ layout: "company"
                         <ul class="space-y-2 text-gray-700 text-sm">
                             <li class="flex items-start">
                                 <span class="mr-2 text-blue-600">•</span>
-                                <span>Single node in <strong>Irvine, CA</strong></span>
+                                <span>Single node in <strong>Orange County, CA</strong></span>
                             </li>
                             <li class="flex items-start">
                                 <span class="mr-2 text-blue-600">•</span>
-                                <span>RAID10 storage with automated backups</span>
+                                <span>RAID Z3 storage with automated backups</span>
                             </li>
                             <li class="flex items-start">
                                 <span class="mr-2 text-blue-600">•</span>
@@ -71,10 +71,6 @@ layout: "company"
                     <div>
                         <h4 class="font-bold text-blue-900 mb-3">What Happens at 10 Members</h4>
                         <ul class="space-y-2 text-gray-700 text-sm">
-                            <li class="flex items-start">
-                                <span class="mr-2 text-blue-600">✓</span>
-                                <span><strong>Incorporate:</strong> Form an LLC in California</span>
-                            </li>
                             <li class="flex items-start">
                                 <span class="mr-2 text-blue-600">✓</span>
                                 <span>Begin monthly transparency reports</span>
@@ -103,11 +99,11 @@ layout: "company"
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
                             <h5 class="font-bold text-purple-900 mb-2">🏢 Add Second Node</h5>
-                            <p class="text-sm text-gray-700">Launch <strong>Long Beach, CA</strong> node for geographic redundancy</p>
+                            <p class="text-sm text-gray-700">Launch second geographically distinct California node for redundancy</p>
                         </div>
                         <div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
-                            <h5 class="font-bold text-purple-900 mb-2">💾 RAID Z2/Z3 Backup</h5>
-                            <p class="text-sm text-gray-700">Add RAID Z2/Z3 backup infrastructure for enhanced data protection</p>
+                            <h5 class="font-bold text-purple-900 mb-2">📍 Geographic Redundancy</h5>
+                            <p class="text-sm text-gray-700">Add geographically distinct node for distribution and enhanced redundancy</p>
                         </div>
                         <div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
                             <h5 class="font-bold text-purple-900 mb-2">📊 Public Dashboard</h5>
@@ -245,7 +241,7 @@ layout: "company"
                     <ul class="space-y-2 text-gray-700 text-sm">
                         <li class="flex items-start">
                             <span class="mr-2 text-amber-600">•</span>
-                            <span>Add <strong>Santa Clarita, CA</strong> node (3 total nodes)</span>
+                            <span>Add third geographically distinct California node (3 total nodes)</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-amber-600">•</span>
@@ -392,15 +388,15 @@ layout: "company"
                 <div class="flex items-center p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
                     <span class="text-2xl mr-4 font-bold text-blue-600">10</span>
                     <div class="flex-1">
-                        <p class="font-bold text-gray-900">Incorporate</p>
-                        <p class="text-sm text-gray-600">Formalize legal structure, infrastructure costs covered</p>
+                        <p class="font-bold text-gray-900">Begin Transparency Reports</p>
+                        <p class="text-sm text-gray-600">Monthly reporting begins, infrastructure costs covered</p>
                     </div>
                 </div>
                 <div class="flex items-center p-4 bg-purple-50 rounded-lg border-l-4 border-purple-500">
                     <span class="text-2xl mr-4 font-bold text-purple-600">100</span>
                     <div class="flex-1">
-                        <p class="font-bold text-gray-900">Add Long Beach Node + RAID Z2/Z3</p>
-                        <p class="text-sm text-gray-600">Geographic redundancy, enhanced backups, part-time support</p>
+                        <p class="font-bold text-gray-900">Add Second Node for Geographic Redundancy</p>
+                        <p class="text-sm text-gray-600">Geographically distinct California location, part-time support</p>
                     </div>
                 </div>
                 <div class="flex items-center p-4 bg-green-50 rounded-lg border-l-4 border-green-500">
@@ -421,7 +417,7 @@ layout: "company"
                     <span class="text-2xl mr-4 font-bold text-amber-600">1,250</span>
                     <div class="flex-1">
                         <p class="font-bold text-gray-900">Early Member Perks Activate</p>
-                        <p class="text-sm text-gray-600">Financial viability, profit sharing begins, Santa Clarita node</p>
+                        <p class="text-sm text-gray-600">Financial viability, profit sharing begins, third geographic node</p>
                     </div>
                 </div>
                 <div class="flex items-center p-4 bg-cyan-50 rounded-lg border-l-4 border-cyan-500">

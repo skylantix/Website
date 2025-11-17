@@ -98,7 +98,7 @@ layout: "company"
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-blue-600">•</span>
-                            <span>RAID Z2/Z3 backup implementations</span>
+                            <span>Geographic redundancy expansion</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-blue-600">•</span>
@@ -238,8 +238,7 @@ layout: "company"
             <div class="bg-gray-50 p-6 rounded-lg border border-gray-200">
                 <h4 class="font-bold text-gray-900 mb-3">🔒 Storage & Backups</h4>
                 <ul class="space-y-2 text-sm text-gray-700">
-                    <li>• RAID10 for production data now</li>
-                    <li>• RAID Z2/Z3 backup added at 100 members</li>
+                    <li>• RAID Z3 for production data</li>
                     <li>• Offsite backup following 3-2-1 rule</li>
                     <li>• LUKS encrypted drives</li>
                 </ul>
@@ -247,10 +246,10 @@ layout: "company"
             <div class="bg-gray-50 p-6 rounded-lg border border-gray-200">
                 <h4 class="font-bold text-gray-900 mb-3">⚡ Power & Connectivity</h4>
                 <ul class="space-y-2 text-sm text-gray-700">
-                    <li>• Solar + battery backup + grid power</li>
-                    <li>• Fiber + cable + 5G failover internet</li>
+                    <li>• Redundant power systems</li>
+                    <li>• Redundant internet connections</li>
                     <li>• Cloudflare caching (96-98% bandwidth reduction)</li>
-                    <li>• California: Irvine (launch) → Long Beach (100 members) → Santa Clarita</li>
+                    <li>• California: Orange County at launch → Geographically distinct nodes as we scale</li>
                 </ul>
             </div>
         </div>

@@ -91,9 +91,9 @@ layout: "company"
         <div class="bg-gradient-to-br from-gray-50 to-blue-50 rounded-xl p-8 border-2 border-blue-200">
             <h3 class="text-2xl font-bold text-gray-900 mb-6">Phased Infrastructure Rollout</h3>
             <p class="text-gray-700 mb-6">
-                <strong>Phase 1 (Launch):</strong> Single node in Irvine, CA with RAID10<br>
-                <strong>Phase 2 (100 members):</strong> Add Long Beach node + RAID Z2/Z3 backup<br>
-                <strong>Phase 3 (As needed):</strong> Add Santa Clarita node for full geographic distribution<br>
+                <strong>Phase 1 (Launch):</strong> Single node in Orange County, CA with RAID Z3<br>
+                <strong>Phase 2 (100 members):</strong> Add second geographically distinct node for redundancy<br>
+                <strong>Phase 3 (As needed):</strong> Add additional nodes for full geographic distribution<br>
                 Each location will host approximately 1,250 users for optimal load balancing and redundancy.
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
@@ -103,11 +103,11 @@ layout: "company"
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h4 class="font-bold text-purple-900 mb-3">💾 Owner-Managed Hardware</h4>
-                    <p class="text-sm text-gray-700">We own all hardware outright. No AWS lock-in. RAID10 now, RAID Z2/Z3 backup at 100 members. LUKS encrypted drives.</p>
+                    <p class="text-sm text-gray-700">We own all hardware outright. No AWS lock-in. RAID Z3 redundancy. LUKS encrypted drives.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h4 class="font-bold text-green-900 mb-3">⚡ Redundant Power & Internet</h4>
-                    <p class="text-sm text-gray-700">Solar + battery + grid power. Fiber + cable + 5G internet failover. Built for reliability.</p>
+                    <p class="text-sm text-gray-700">Redundant power and internet systems. Built for reliability.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h4 class="font-bold text-amber-900 mb-3">🔐 Privacy-First Design</h4>

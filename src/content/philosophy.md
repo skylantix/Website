@@ -45,10 +45,10 @@ aliases:
                     Skylantix was founded by a University of Chicago student who loves infrastructure and believes the internet should belong to people, not corporations. I'm learning production sysadmin work by actually doing it—managing real infrastructure for real users.
                 </p>
                 <p>
-                    I'm building a <strong>collective microcloud</strong>—starting small and growing deliberately toward 5,000 members, with a commitment to transparency and community. After graduation, I'm running this full-time from Irvine, California, where the servers actually live. You'll talk to me directly via Mattermost, not through ticket systems. Your data stays on California-based hardware I own, not scattered across Amazon's datacenters.
+                    I'm building a <strong>collective microcloud</strong>—starting small and growing deliberately toward 5,000 members, with a commitment to transparency and community. After graduation, I'm running this full-time from Orange County, California, where the servers actually live. You'll talk to me directly via Mattermost, not through ticket systems. Your data stays on California-based hardware I own, not scattered across Amazon's datacenters.
                 </p>
                 <p>
-                    Skylantix is built on <strong>solid economics from day one</strong>. The infrastructure costs are covered with minimal members, allowing me to focus on growing the collective deliberately rather than desperately. This isn't a venture-backed startup burning cash—it's a sustainable craft project. The infrastructure runs on owner-managed servers with redundant internet (fiber + cable + 5G backup), solar power, and battery backup. Everything is fronted through Cloudflare for security and DDoS protection, with automated offsite backups following the 3-2-1 rule.
+                    Skylantix is built on <strong>solid economics from day one</strong>. The infrastructure costs are covered with minimal members, allowing me to focus on growing the collective deliberately rather than desperately. This isn't a venture-backed startup burning cash—it's a sustainable craft project. The infrastructure runs on owner-managed servers with redundant internet and backup power systems. Everything is fronted through Cloudflare for security and DDoS protection, with automated offsite backups following the 3-2-1 rule.
                 </p>
                 <p>
                     This is a human-scale operation by design. Small, sustainable, and built on trust—not market share. $20/month or $200/year. The first 50 members total get extraordinary perks when we reach 1,250 members: if you chose annual, free service as long as Skylantix operates; if you chose monthly, 50% off as long as Skylantix operates. <strong>We're building this together, deliberately and transparently.</strong>
@@ -156,7 +156,7 @@ aliases:
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600 text-xl">•</span>
-                    <span>It leaves room for student discounts (40% off for undergraduates) without collapsing margins.</span>
+                    <span>It leaves room for student discounts (40% off for 3 years for university students) without collapsing margins.</span>
                 </li>
                 <li class="flex items-start">
                     <span class="mr-3 text-blue-600 text-xl">•</span>
@@ -181,7 +181,7 @@ aliases:
                 </div>
                 <div class="bg-green-50 p-6 rounded-lg">
                     <h3 class="font-bold text-green-900 mb-2">Sustainability</h3>
-                    <p class="text-sm text-gray-700">Hardware amortized every 3–5 years, fully owned. RAID10 now, RAID Z2/Z3 backup added at 100 members.</p>
+                    <p class="text-sm text-gray-700">Hardware amortized every 3–5 years, fully owned. RAID Z3 redundancy from launch.</p>
                 </div>
             </div>
         </div>
@@ -261,10 +261,10 @@ aliases:
         <h2 class="text-3xl font-bold mb-8">Infrastructure & Growth Roadmap</h2>
         <div class="prose prose-lg text-gray-700">
             <p>
-                Skylantix starts in <strong>Irvine, California</strong> with RAID10 redundancy. At <strong>100 members</strong>, we add a second node in <strong>Long Beach</strong> with RAID Z2/Z3 backup. As demand grows, a third node in <strong>Santa Clarita</strong> will be added. Each location will host approximately 1,250 users—balancing load, redundancy, and data sovereignty.
+                Skylantix starts in <strong>Orange County, California</strong> with RAID Z3 redundancy. At <strong>100 members</strong>, we add a second geographically distinct node for distribution. As demand grows, additional nodes in geographically separated California locations will be added. Each location will host approximately 1,250 users—balancing load, redundancy, and data sovereignty.
             </p>
             <p>
-                With Cloudflare and VPS-based caching, Skylantix can reduce outbound bandwidth by 96–98%, keeping operational costs and ISP scrutiny minimal. Hardware is amortized over 3-5 years, ensuring stable costs while user data remains on owner-managed, privacy-respecting systems. <strong>No hyperscaler lock-in.</strong>
+                With Cloudflare and VPS-based caching, Skylantix can reduce outbound bandwidth by 96–98%, keeping operational costs minimal. Hardware is amortized over 3-5 years, ensuring stable costs while user data remains on owner-managed, privacy-respecting systems. <strong>No hyperscaler lock-in.</strong>
             </p>
         </div>
         <div class="text-center mt-8">

@@ -101,13 +101,40 @@ layout: "company"
 </div>
 
 <div class="bg-white rounded-2xl shadow-lg p-8 md:p-12 mb-16 border-2 border-gray-100">
-<h2 class="text-3xl font-bold text-gray-900 mb-6 text-center">Student Discount</h2>
-<div class="max-w-2xl mx-auto">
-<div class="bg-gradient-to-br from-blue-50 to-purple-50 p-8 rounded-lg border-2 border-blue-200">
-<h3 class="text-2xl font-bold text-blue-900 mb-3">🎓 University Students</h3>
-<p class="text-3xl font-bold text-blue-600 mb-2">40% Off + 1 Month Free</p>
-<p class="text-gray-700 mb-3">Currently enrolled undergraduate students: <strong>$12/month</strong> during enrollment</p>
-<p class="text-sm text-gray-600 mt-2 italic">Valid student ID or proof of enrollment required. Discount applies throughout your undergraduate program.</p>
+<h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">Special Perks & Discounts</h2>
+<div class="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+<div class="bg-gradient-to-br from-amber-50 to-orange-50 p-8 rounded-lg border-2 border-amber-300">
+<h3 class="text-2xl font-bold text-amber-900 mb-3 text-center">🌟 First 50 Members</h3>
+<p class="text-2xl font-bold text-amber-700 mb-3 text-center">Extraordinary Rewards</p>
+<p class="text-gray-700 mb-3 text-center">When Skylantix reaches <strong>1,250 members</strong>:</p>
+<div class="bg-white rounded-lg p-4 mb-2">
+<p class="text-gray-800 font-semibold">Monthly Plan:</p>
+<p class="text-gray-700">50% off for life → <strong>$10/month forever</strong></p>
+</div>
+<div class="bg-white rounded-lg p-4">
+<p class="text-gray-800 font-semibold">Annual Plan:</p>
+<p class="text-gray-700"><strong>Completely FREE for life</strong></p>
+</div>
+<p class="text-sm text-gray-600 mt-4 text-center italic">Early member status is tied to your account and non-transferable.</p>
+<p class="text-center mt-4"><a href="/timeline" class="text-amber-700 hover:underline font-semibold">View our growth timeline →</a></p>
+</div>
+
+<div class="bg-gradient-to-br from-purple-50 to-pink-50 p-8 rounded-lg border-2 border-purple-300">
+<h3 class="text-2xl font-bold text-purple-900 mb-3 text-center">🎓 Student Discount</h3>
+<p class="text-2xl font-bold text-purple-700 mb-3 text-center">40% Off for 3 Years</p>
+<p class="text-gray-700 mb-3 text-center">University students get:</p>
+<div class="bg-white rounded-lg p-4 mb-4">
+<p class="text-gray-800 font-semibold text-center">$12/month or $120/year</p>
+<p class="text-gray-600 text-sm text-center">for 3 full years</p>
+</div>
+<p class="text-sm text-gray-700 mb-2"><strong>How to qualify:</strong></p>
+<p class="text-sm text-gray-600 mb-1">Email student@skylantix.com from your .edu email with proof of enrollment:</p>
+<ul class="text-sm text-gray-600 ml-4 mb-3">
+<li>• Student ID</li>
+<li>• Unofficial transcript</li>
+<li>• National Student Clearinghouse certificate</li>
+</ul>
+<p class="text-sm text-gray-600 italic text-center">One-time verification. No ongoing checks—as long as you're enrolled when you sign up, you get the full 3 years.</p>
 </div>
 </div>
 </div>
@@ -131,7 +158,7 @@ layout: "company"
 </svg>
 </div>
 <h3 class="text-xl font-bold text-gray-900 mb-2">California-Based</h3>
-<p class="text-gray-600">Starts in Irvine, expands to Long Beach (100 members), then Santa Clarita. Your data stays in California on hardware we own.</p>
+<p class="text-gray-600">Starts in Orange County, expands to geographically distinct California nodes as we scale. Your data stays in California on hardware we own.</p>
 </div>
 <div class="text-center">
 <div class="bg-green-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
@@ -140,7 +167,7 @@ layout: "company"
 </svg>
 </div>
 <h3 class="text-xl font-bold text-gray-900 mb-2">Redundant Infrastructure</h3>
-<p class="text-gray-600">RAID10 now, RAID Z2/Z3 at 100 members. Redundant internet (fiber + cable + 5G) and solar + battery + grid power.</p>
+<p class="text-gray-600">RAID Z3 redundancy. Redundant internet and backup power systems.</p>
 </div>
 </div>
 </div>
@@ -158,7 +185,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">The price is psychologically sincere—not a marketing trick like $19.99. It's affordable but substantial enough to sustain the service without exploiting users. It leaves room for student discounts (40% for undergraduates) without collapsing margins. It's the value of a cup of coffee per week for privacy, reliability, and transparency.</p>
+<p class="mt-3 text-gray-600 px-4">The price is psychologically sincere—not a marketing trick like $19.99. It's affordable but substantial enough to sustain the service without exploiting users. It leaves room for student discounts (40% off for 3 years for university students) without collapsing margins. It's the value of a cup of coffee per week for privacy, reliability, and transparency.</p>
 </details>
 
 <details class="group">
@@ -194,7 +221,7 @@ layout: "company"
 </svg>
 </span>
 </summary>
-<p class="mt-3 text-gray-600 px-4">Infrastructure starts in Irvine, CA and expands to Long Beach (at 100 members) and Santa Clarita (as demand grows). Your data stays on hardware we own—not scattered across Amazon's datacenters. We use Cloudflare for security and DDoS protection, but your actual data lives on our RAID10 systems (RAID Z2/Z3 backup added at 100 members) in California.</p>
+<p class="mt-3 text-gray-600 px-4">Infrastructure starts in Orange County, CA and expands to geographically distinct nodes within California as demand grows. Your data stays on hardware we own—not scattered across Amazon's datacenters. We use Cloudflare for security and DDoS protection, but your actual data lives on our RAID Z3 systems in California.</p>
 </details>
 
 <details class="group">

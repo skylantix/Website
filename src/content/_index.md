@@ -4,7 +4,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
 ---
 
 {{< hero
-    headline="<div class='inline-block bg-blue-600 text-white text-sm font-semibold px-4 py-2 rounded-full mb-4'>🌱 Early Members Get Special Perks</div><br>A Cloud That Doesn't Pretend to Own the Sky"
+    headline="<div class='inline-flex gap-2 mb-4'><div class='inline-block bg-amber-600 text-white text-sm font-semibold px-4 py-2 rounded-full'>🌟 First 50 Members Get Special Perks</div><div class='inline-block bg-purple-600 text-white text-sm font-semibold px-4 py-2 rounded-full'>🎓 Students: 40% Off for 3 Years</div></div><br>A Cloud That Doesn't Pretend to Own the Sky"
     sub_headline="A collective microcloud—a digital village where users know their sysadmin by name. $20/month or $200/year for privacy, community, and dignity. Join us on the journey."
     primary_button_text="Join the Collective"
     primary_button_url="/get-started/"
@@ -47,7 +47,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
                 <span class="text-2xl text-gray-600">or</span>
                 <div class="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">$200<span class="text-2xl">/year</span></div>
             </div>
-            <p class="text-gray-600 italic">The price of a cup of coffee per week for privacy, reliability, and transparency.</p>
+            <p class="text-gray-600 italic">Privacy-first collective infrastructure without the surveillance capitalism.</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -73,11 +73,28 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
                     <li class="flex items-start"><span class="mr-2 text-purple-600">✓</span><span>Benefit from our transparent, sustainable model</span></li>
                     <li class="flex items-start"><span class="mr-2 text-purple-600">✓</span><span>California-based, privacy-first infrastructure</span></li>
                     <li class="flex items-start"><span class="mr-2 text-purple-600">✓</span><span>Part of a digital village growing to 5,000 members</span></li>
-                    <li class="flex items-start"><span class="mr-2 text-purple-600">✓</span><span>Student discount: 40% off + 1 month free</span></li>
+                    <li class="flex items-start"><span class="mr-2 text-purple-600">✓</span><span>Student discount: 40% off for 3 years</span></li>
                 </ul>
             </div>
         </div>
-        <div class="mt-8 p-4 bg-blue-100 rounded-lg border-2 border-blue-300">
+        <div class="mt-8 grid md:grid-cols-2 gap-4">
+            <div class="p-6 bg-gradient-to-br from-purple-100 to-pink-100 rounded-lg border-2 border-purple-400">
+                <p class="text-xl text-gray-900 text-center font-bold mb-2">🎓 Student Discount</p>
+                <p class="text-lg text-purple-900 text-center font-semibold mb-2">40% Off for 3 Years</p>
+                <p class="text-sm text-gray-700 text-center">University students: <strong>$12/month or $120/year</strong> for 3 years. Email student@skylantix.com from your .edu email.</p>
+            </div>
+            <div class="p-6 bg-gradient-to-br from-amber-100 to-orange-100 rounded-lg border-2 border-amber-400">
+                <p class="text-xl text-gray-900 text-center font-bold mb-2">🌟 First 50 Members</p>
+                <p class="text-lg text-amber-900 text-center font-semibold mb-2">Extraordinary Rewards at 1,250 Members</p>
+                <p class="text-sm text-gray-700 text-center"><strong>Monthly:</strong> 50% off for life ($10/month)<br><strong>Annual:</strong> Completely free for life</p>
+                <p class="text-xs text-gray-600 text-center mt-2"><a href="/timeline" class="text-amber-700 hover:underline font-semibold">View our timeline →</a></p>
+            </div>
+        </div>
+        <div class="mt-4 p-4 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-lg border-2 border-blue-400">
+            <p class="text-base text-gray-900 text-center font-semibold mb-1">💬 Unsure If This Is Right for You?</p>
+            <p class="text-sm text-gray-700 text-center">Send us an email at <a href="mailto:hello@skylantix.com" class="text-blue-600 hover:underline font-semibold">hello@skylantix.com</a> and we can find a time to chat.</p>
+        </div>
+        <div class="mt-4 p-4 bg-green-100 rounded-lg border-2 border-green-300">
             <p class="text-sm text-gray-700 text-center"><strong>Coming Soon:</strong> Custom containerized app hosting for members. Because a collective grows with its community.</p>
         </div>
     </div>
@@ -127,7 +144,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
 
 {{< feature
     title="Privacy-First, California-Based"
-    description="Your data stays in California on hardware we own—not scattered across Amazon's datacenters. No data mining. No selling your information. RAID10 now, RAID Z2/Z3 backup at 100 members. Cloudflare for security. This is infrastructure for people escaping surveillance capitalism."
+    description="Your data stays in California on hardware we own—not scattered across Amazon's datacenters. No data mining. No selling your information. RAID Z3 redundancy. Cloudflare for security. This is infrastructure for people escaping surveillance capitalism."
     badge="Privacy & Dignity"
     badgeColor="#16a34a"
     image="/images/skylantix_clouds_4.png"
@@ -144,7 +161,7 @@ description: "Join a community-focused cloud collective. $20/month or $200/year 
     <img src="/images/airplane.png" alt="Raphael Bitton" class="w-24 h-24 rounded-full mx-auto mb-4">
     <h3 class="text-2xl font-bold text-gray-900 mb-2">A Note from the Founder</h3>
     <p class="text-lg text-gray-600 mb-6">
-        "I'm building Skylantix to be the kind of cloud I've always wanted: small, transparent, and built on trust. After graduation, I'm running this full-time from Irvine—where the servers live. You'll talk to me directly, not a ticket system."
+        "I'm building Skylantix to be the kind of cloud I've always wanted: small, transparent, and built on trust. After graduation, I'm running this full-time from Orange County—where the servers live. You'll talk to me directly, not a ticket system."
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a href="/philosophy" class="text-blue-600 font-semibold hover:underline">

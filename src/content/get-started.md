@@ -108,15 +108,34 @@ layout: "get-started"
                     $20/month or $200/year
                 </p>
                 <div class="max-w-2xl mx-auto mb-8">
-                    <p class="text-gray-700 mb-4">
+                    <p class="text-gray-700 mb-6">
                         This price is <em>deliberate</em>—not rounded to $19.99 or $24.99, but chosen with intention. It's affordable but substantial enough to sustain the service without exploiting users.
                     </p>
-                    <p class="text-gray-700 mb-4">
-                        <strong>Students:</strong> 40% off + 1 month free for undergraduate students—just provide proof of enrollment.
-                    </p>
-                    <div class="bg-green-50 border-2 border-green-200 rounded-lg p-4 mt-6">
+
+                    <div class="grid md:grid-cols-2 gap-4 mb-6">
+                        <div class="p-5 bg-gradient-to-br from-amber-50 to-orange-50 rounded-lg border-2 border-amber-300">
+                            <p class="text-lg text-gray-900 font-bold mb-2 text-center">🌟 First 50 Members</p>
+                            <p class="text-sm text-gray-700 text-center mb-2"><strong>Extraordinary rewards at 1,250 members:</strong></p>
+                            <p class="text-sm text-gray-700 text-center">• <strong>Monthly plan:</strong> 50% off for life ($10/month)</p>
+                            <p class="text-sm text-gray-700 text-center">• <strong>Annual plan:</strong> Completely FREE for life</p>
+                            <p class="text-xs text-gray-600 text-center mt-2"><a href="/timeline" class="text-amber-700 hover:underline font-semibold">View our timeline →</a></p>
+                        </div>
+                        <div class="p-5 bg-gradient-to-br from-purple-50 to-pink-50 rounded-lg border-2 border-purple-300">
+                            <p class="text-lg text-gray-900 font-bold mb-2 text-center">🎓 Student Discount</p>
+                            <p class="text-sm text-gray-700 text-center mb-2"><strong>40% off for 3 years</strong></p>
+                            <p class="text-sm text-gray-700 text-center mb-2">University students: <strong>$12/month or $120/year</strong></p>
+                            <p class="text-xs text-gray-600 text-center">Email student@skylantix.com from your .edu email with proof of enrollment. No ongoing checks required.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-green-50 border-2 border-green-200 rounded-lg p-4 mb-4">
                         <p class="text-sm text-gray-700 text-center">
                             <strong>✓ 14-Day Money-Back Guarantee:</strong> If Skylantix isn't right for you, we'll refund your payment in full within 14 days—no questions asked.
+                        </p>
+                    </div>
+                    <div class="bg-blue-50 border-2 border-blue-200 rounded-lg p-4">
+                        <p class="text-sm text-gray-700 text-center">
+                            <strong>Unsure if this is right for you?</strong> Send us an email at <a href="mailto:hello@skylantix.com" class="text-blue-600 hover:underline font-semibold">hello@skylantix.com</a> and we can find a time to chat.
                         </p>
                     </div>
                 </div>
@@ -268,7 +287,7 @@ layout: "get-started"
                 <div class="bg-white rounded-lg shadow-sm p-6">
                     <h3 class="font-bold text-gray-900 mb-2">Where is my data hosted?</h3>
                     <p class="text-gray-600 text-sm">
-                        Your data lives on physical servers in Irvine, California, owned and managed by Skylantix—not rented from hyperscalers. No tracking, no data mining.
+                        Your data lives on physical servers in Orange County, California, owned and managed by Skylantix—not rented from hyperscalers. No tracking, no data mining.
                     </p>
                 </div>
                 <div class="bg-white rounded-lg shadow-sm p-6">

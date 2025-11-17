@@ -28,7 +28,7 @@ The internet was meant to be decentralized and personal. But we handed it over t
 ### Privacy Principles
 
 #### Data Sovereignty
-- **California Hosting**: Servers in Irvine (launch), Long Beach (100 members), Santa Clarita (as needed)
+- **California Hosting**: Servers in Orange County at launch, expanding to geographically distinct California locations as we scale
 - **Owner-Managed Hardware**: We own our infrastructure outright—no AWS, no Azure, no hyperscaler lock-in
 - **Clear Jurisdiction**: U.S. law applies, no ambiguous international data handling
 - **Transparent Location**: You know exactly where your data lives and who manages it
@@ -54,7 +54,7 @@ The internet was meant to be decentralized and personal. But we handed it over t
 - Monitoring for unusual access patterns
 
 **Data Protection**:
-- RAID10 storage now, RAID Z2/Z3 backup added at 100 members
+- RAID Z3 storage from launch
 - LUKS encrypted drives for data at rest
 - Automated offsite backups following 3-2-1 rule
 - End-to-end encryption for Nextcloud
@@ -62,8 +62,8 @@ The internet was meant to be decentralized and personal. But we handed it over t
 
 **Physical Security**:
 - Servers in secure locations with controlled access
-- Redundant power (solar + battery backup + grid)
-- Redundant internet (fiber + cable + 5G backup)
+- Redundant power systems
+- Redundant internet connections
 - Environmental monitoring
 
 ### Who This Is For

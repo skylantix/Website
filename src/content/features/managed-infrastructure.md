@@ -7,12 +7,12 @@ badgeColor: "#16a34a"
 features:
   - title: "End-to-End Management"
     description: "From deployment to monitoring to updates—we handle it all. No DevOps degree required. Just use your apps."
-  - title: "RAID10 + Backups"
-    description: "Regular automated backups following 3-2-1 rule. RAID10 now, RAID Z2/Z3 backup added at 100 members. Your data is protected without you thinking about it."
+  - title: "RAID Z3 + Backups"
+    description: "Regular automated backups following 3-2-1 rule. RAID Z3 redundancy from launch. Your data is protected without you thinking about it."
   - title: "24/7 Monitoring"
     description: "Automated monitoring watches infrastructure around the clock. We respond to issues before you notice problems. Proactive maintenance."
   - title: "Sustainable Hardware"
-    description: "Owner-managed hardware amortized over 3-5 years. Solar + battery + grid power. Redundant internet. Built to last."
+    description: "Owner-managed hardware amortized over 3-5 years. Redundant power and internet. Built to last."
 demo:
   description: "Focus on your digital life while the collective manages infrastructure for everyone."
   image: "/images/feature-3.svg"
@@ -44,8 +44,7 @@ All fully managed. Updates, backups, monitoring, and security handled by the col
 #### Infrastructure Stack
 
 **Storage & Backups**:
-- RAID10 for production data now
-- RAID Z2/Z3 backup added at 100 members
+- RAID Z3 for production data
 - Automated offsite backups following 3-2-1 rule
 - LUKS encrypted drives
 - Point-in-time recovery available
@@ -57,9 +56,9 @@ All fully managed. Updates, backups, monitoring, and security handled by the col
 - Monitoring for unusual access patterns
 
 **Power & Connectivity**:
-- Solar + battery backup + grid power
-- Redundant internet: fiber + cable + 5G failover
-- Designed for California resilience (rolling blackouts, etc.)
+- Redundant power systems
+- Redundant internet connections
+- Designed for California resilience
 
 **Computing**:
 - Debian Linux (stable, secure, well-supported)
@@ -69,7 +68,7 @@ All fully managed. Updates, backups, monitoring, and security handled by the col
 
 ### Geographic Distribution
 
-Skylantix starts in Irvine, CA and expands to Long Beach (at 100 members) and Santa Clarita (as demand requires). Each location hosts approximately 1,250 users for optimal load balancing and geographic redundancy.
+Skylantix starts in Orange County, CA and expands to geographically distinct nodes within California as we scale. Each location hosts approximately 1,250 users for optimal load balancing and geographic redundancy.
 
 This approach:
 - Balances load across infrastructure

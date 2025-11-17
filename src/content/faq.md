@@ -14,7 +14,7 @@ Skylantix is a collective microcloud—a privacy-first alternative to Big Tech c
 
 ### Who runs Skylantix?
 
-Skylantix is founded and managed by Raphael Bitton, a University of Chicago student learning production infrastructure by managing real servers for real users. After graduation, I'm running this full-time from Irvine, California—where the servers live.
+Skylantix is founded and managed by Raphael Bitton, a University of Chicago student learning production infrastructure by managing real servers for real users. After graduation, I'm running this full-time from Orange County, California—where the servers live.
 
 ### How is this different from other hosting providers?
 
@@ -32,11 +32,13 @@ Skylantix is founded and managed by Raphael Bitton, a University of Chicago stud
 
 - **Monthly:** $20/month
 - **Annual:** $200/year (save $40)
-- **Student Discount:** $12/month (40% off + 1 month free for currently enrolled undergraduates)
+- **Student Discount:** $12/month or $120/year (40% off for 3 years for university students)
 
 ### Is there a free trial?
 
 We don't offer a traditional free trial, but we have a **14-day money-back guarantee**. If Skylantix isn't right for you within the first 14 days, we'll refund your payment in full.
+
+**Unsure if this is right for you?** Send us an email at hello@skylantix.com and we can find a time to chat.
 
 ### What's your refund policy?
 
@@ -90,7 +92,7 @@ Custom containerized app hosting for members (Django, Node.js, Python apps, and 
 
 ### Where is my data stored?
 
-All data is stored in Irvine, California on hardware we own. No AWS, Google Cloud, or other third-party cloud providers. Your data never leaves California.
+All data is stored in Orange County, California on hardware we own. No AWS, Google Cloud, or other third-party cloud providers. Your data never leaves California.
 
 ### Is my data encrypted?
 
@@ -104,10 +106,8 @@ Yes, both at rest (LUKS encryption) and in transit (SSL/TLS). Only the infrastru
 
 We maintain automated encrypted backups following the 3-2-1 rule:
 - 3 copies of your data
-- 2 different storage media (RAID10 + backup drives)
+- 2 different storage media (RAID Z3 + backup drives)
 - 1 offsite backup
-
-At 100 members, we add RAID Z2/Z3 for additional redundancy.
 
 ### What happens if there's a security breach?
 
@@ -140,8 +140,8 @@ Yes, you can rejoin anytime. However, early member benefits (if you had them) ar
 ### What are the early member perks?
 
 The first 50 members total (regardless of plan type) receive extraordinary rewards when Skylantix reaches 1,250 members:
-- **If you chose annual:** All fees waived as long as Skylantix operates
-- **If you chose monthly:** 50% discount ($10/month instead of $20) as long as Skylantix operates
+- **If you chose annual:** Completely FREE for life (as long as Skylantix operates)
+- **If you chose monthly:** 50% off for life ($10/month instead of $20, as long as Skylantix operates)
 
 ### When do the perks activate?
 
@@ -161,15 +161,20 @@ Check out our [Timeline & Roadmap](/timeline) to see exactly what happens at eac
 
 ### Who qualifies for the student discount?
 
-Currently enrolled undergraduate students at any accredited university or college qualify for 40% off + 1 month free ($12/month during enrollment).
+University students at any accredited university or college qualify for 40% off ($12/month or $120/year) for 3 years.
 
 ### How do I verify student status?
 
-Provide a valid .edu email address or enrollment letter. We verify once per year and delete proof after verification.
+Email student@skylantix.com from your university .edu email address with proof of enrollment, such as:
+- Student ID
+- Unofficial transcript
+- National Student Clearinghouse certificate of enrollment
 
-### What happens when I graduate?
+We verify once when you sign up. No ongoing checks—as long as you're enrolled when you sign up, you get the full 3 years.
 
-Your discount ends when you're no longer enrolled. We'll contact you before adjusting your pricing. You can continue at the standard $20/month rate or cancel.
+### What happens after the 3-year student discount period?
+
+After 3 years, your membership will transition to the standard $20/month or $200/year rate. We'll notify you in advance. You can continue at the standard rate or cancel anytime.
 
 ---
 
@@ -186,11 +191,10 @@ We'll post updates on our status page and Mattermost. If uptime drops below 95% 
 ### Do you have backups and redundancy?
 
 Yes:
-- RAID10 redundancy (now)
-- RAID Z2/Z3 backup added at 100 members
+- RAID Z3 redundancy
 - Automated encrypted offsite backups (3-2-1 rule)
-- Redundant internet (fiber + cable + 5G backup)
-- Solar + battery + grid power
+- Redundant internet connections
+- Backup power systems
 
 ### What happens if you need to shut down?
 

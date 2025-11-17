@@ -55,9 +55,9 @@ We use your information ONLY for:
 
 ## Data Storage & Security
 
-* **Location:** All data is stored in Irvine, California, USA on hardware we own (not AWS, Google, or other cloud providers)
+* **Location:** All data is stored in Orange County, California, USA on hardware we own (not AWS, Google, or other cloud providers)
 * **Encryption:** Data at rest is encrypted with LUKS; data in transit uses SSL/TLS
-* **Backups:** Automated encrypted backups following 3-2-1 rule (RAID10 now, RAID Z2/Z3 backup added at 100 members)
+* **Backups:** Automated encrypted backups following 3-2-1 rule (RAID Z3 redundancy)
 * **Access:** Only the infrastructure administrator has access, and only when necessary for support or maintenance
 * **Retention:** Your data is kept as long as you're a member, then securely deleted within 30 days of cancellation
 
@@ -90,7 +90,7 @@ You have complete control over your data:
 
 ## Student Data
 
-If you're using our student discount, we only collect proof of enrollment to verify eligibility. This is deleted after verification.
+If you're using our student discount, we collect your .edu email address and proof of enrollment (Student ID, unofficial transcript, or National Student Clearinghouse certificate) to verify eligibility. Email student@skylantix.com from your .edu email to apply. This proof is deleted after verification. You receive the discount for 3 years with no ongoing verification required.
 
 ---
 
@@ -111,6 +111,6 @@ Questions about privacy? We're happy to explain anything. You can reach me direc
 
 * **Email:** hello@skylantix.com
 * **Support:** Via Mattermost after joining
-* **Location:** Irvine, California
+* **Location:** Orange County, California
 
 *Last Updated: November 1, 2025*
