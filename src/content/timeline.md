@@ -83,6 +83,11 @@ layout: "company"
                         </div>
                     </div>
                 </div>
+                <div class="mt-6 bg-blue-100 p-4 rounded-lg border-2 border-blue-300">
+                    <p class="text-sm text-gray-700 text-center">
+                        <strong>🏢 Business Memberships:</strong> Coming soon for small businesses and startups
+                    </p>
+                </div>
             </div>
 
             <!-- 10 to 100 Members -->
@@ -113,11 +118,6 @@ layout: "company"
                             <h5 class="font-bold text-purple-900 mb-2">👥 Part-Time Support</h5>
                             <p class="text-sm text-gray-700">Hire 1-2 part-time support staff from mentorship program</p>
                         </div>
-                    </div>
-                    <div class="mt-6 bg-purple-100 p-4 rounded-lg border-2 border-purple-300">
-                        <p class="text-sm text-gray-700 text-center">
-                            <strong>🏢 Business & Enterprise Solutions:</strong> We'll begin deploying business and enterprise solutions for teams and organizations
-                        </p>
                     </div>
                 </div>
             </div>
@@ -291,7 +291,7 @@ layout: "company"
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-cyan-600">•</span>
-                            <span>Launch "For Businesses" offering if community supports</span>
+                            <span>Launch business membership offering if community supports</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2 text-cyan-600">•</span>

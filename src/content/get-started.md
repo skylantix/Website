@@ -92,7 +92,7 @@ layout: "get-started"
             </div>
             <div class="bg-blue-50 rounded-lg p-6 border border-blue-100">
                 <p class="text-sm text-gray-700 mb-2">
-                    <strong>Coming Soon:</strong> Hosting for personal projects like Django, Node.js apps, and more.
+                    <strong>Coming Soon:</strong> Business & startup memberships, hosting for personal projects like Django, Node.js apps, and more.
                 </p>
                 <p class="text-sm text-gray-600">
                     All services run on owner-managed hardware in California—no hyperscaler lock-in, no tracking, no mining your data.

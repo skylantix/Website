@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions - Skylantix Collective"
+title: "Frequently Asked Questions"
 description: "Common questions about Skylantix: pricing, refunds, services, privacy, and how our collective microcloud works."
 layout: "simple"
 ---
@@ -36,7 +36,7 @@ Skylantix is founded and managed by Raphael Bitton, a University of Chicago stud
 
 ### Is there a free trial?
 
-We don't offer a traditional free trial, but we have a **14-day money-back guarantee**. If Skylantix isn't right for you within the first 14 days, we'll refund your payment in full.
+Due to the ammount of effort and care that goes into each user, we can't offer a traditional free trial, but we have a **14-day money-back guarantee**. If Skylantix isn't right for you within the first 14 days, we'll refund your payment in full.
 
 **Unsure if this is right for you?** Send us an email at hello@skylantix.com and we can find a time to chat.
 
@@ -49,11 +49,11 @@ We don't offer a traditional free trial, but we have a **14-day money-back guara
 
 ### Do prices ever increase?
 
-If we raise prices, existing members keep their current rate for at least 1 year (grandfathered pricing). We'll give 90 days notice before any price changes.
+Our goal is to never have to raise prices for existing members. We are planning to have an investment endowment to facilitate that. If, however, economic circumstances beyond our control require us to raise prices, we will give 90 days notice. Prices may be raised for new members as we grow in order to support infrastructure burden, but 
 
 ### What payment methods do you accept?
 
-We accept credit and debit cards through our secure payment processor. We don't store credit card numbers.
+We accept credit and debit cards through our secure payment processor. We also accept various cryptocurrencies. We don't store credit card numbers.
 
 ---
 
@@ -86,6 +86,8 @@ Not currently. Storage upgrades may be available in the future as the collective
 
 Custom containerized app hosting for members (Django, Node.js, Python apps, and more). Members will vote on when to launch this and what to support first.
 
+Bussiness memberships for startups and small businesses.
+
 ---
 
 ## Privacy & Security
@@ -100,7 +102,7 @@ Yes, both at rest (LUKS encryption) and in transit (SSL/TLS). Only the infrastru
 
 ### Do you sell my data?
 
-**Never.** We don't sell, mine, or track your data. We're a privacy-first collective, not an advertising company.
+**Never.** We don't sell, mine, or track your data. We're a privacy-first collective, not an advertising company. In fact, we don't even know how to sell data.
 
 ### What about backups?
 
@@ -123,7 +125,7 @@ Yes. Monthly members can cancel anytime with no charges after the current billin
 
 ### How do I cancel?
 
-Email hello@skylantix.com or message via Mattermost. We'll process your cancellation and remind you to export your data.
+You can cancel through Stripe. Email hello@skylantix.com or message via Mattermost if you paid for an annual plan via NowPayments.
 
 ### What happens to my data if I cancel?
 
@@ -131,7 +133,7 @@ You have 30 days to export your data after cancellation. We'll send reminders at
 
 ### Can I rejoin after canceling?
 
-Yes, you can rejoin anytime. However, early member benefits (if you had them) are not restored.
+Yes, you can rejoin anytime. However, you will may not get the membership rate you previously had and any early member benefits (if you had them) are not restored.
 
 ---
 
@@ -145,7 +147,7 @@ The first 50 members total (regardless of plan type) receive extraordinary rewar
 
 ### When do the perks activate?
 
-Perks activate automatically when we reach 1,250 paying members. We'll announce this milestone via email and Mattermost.
+Perks activate automatically when we reach 1,250 paying members. We'll announce this milestone via Mattermost.
 
 ### Can I transfer my early member status?
 
@@ -182,7 +184,7 @@ After 3 years, your membership will transition to the standard $20/month or $200
 
 ### What's your uptime commitment?
 
-We strive for **99% uptime** (excluding scheduled maintenance). This means less than 7.3 hours of unplanned downtime per month.
+We strive for **99% uptime** (excluding scheduled maintenance). This means less than 7.3 hours of unplanned downtime per month. However as as we have a limited number of admins this may not be met.
 
 ### What if there's an outage?
 
@@ -195,15 +197,6 @@ Yes:
 - Automated encrypted offsite backups (3-2-1 rule)
 - Redundant internet connections
 - Backup power systems
-
-### What happens if you need to shut down?
-
-If Skylantix can't continue operations, we'll:
-- Give 3-6 months notice
-- Help you migrate to another provider
-- Provide data export tools
-- Issue prorated refunds for annual memberships
-- Open-source our infrastructure setup so others can replicate it
 
 ---
 
